@@ -1,0 +1,13 @@
+region,rarity,character_count,characters
+Fontaine,5,4,"Neuvillette, Wriothesley, Furina, Lyney"
+Fontaine,4,3,"Charlotte, Freminet, Lynette"
+Inazuma,5,8,"Kamisato Ayaka, Kamisato Ayato, Arataki Itto, Yae Miko, Yoimiya, Kaedehara Kazuha, Raiden Shogun, Sangonomiya Kokomi"
+Inazuma,4,7,"Kujou Sara, Thoma, Shikanoin Heizou, Sayu, Gorou, Kirara, Kuki Shinobu"
+Liyue,5,9,"Keqing, Qiqi, Shenhe, Ganyu, Hu Tao, Xiao, Yelan, Zhongli, Baizhu"
+Liyue,4,9,"Chongyun, Xingqiu, Xinyan, Beidou, Xiangling, Yun Jin, Ningguang, Yaoyao, Yanfei"
+Mondstadt,5,7,"Diluc, Mona, Jean, Eula, Venti, Albedo, Klee"
+Mondstadt,4,12,"Amber, Fischl, Rosaria, Sucrose, Diona, Noelle, Lisa, Bennett, Kaeya, Barbara, Mika, Razor"
+Snezhnaya,5,1,Tartaglia
+Sumeru,5,7,"Tighnari, Dehya, Cyno, Wanderer, Alhaitham, Nahida, Nilou"
+Sumeru,4,6,"Collei, Faruzan, Kaveh, Candace, Dori, Layla"
+Unknown,5,11,"Traveler (Aether, Anemo), Traveler (Lumine, Anemo), Traveler (Aether, Geo), Traveler (Lumine, Geo), Traveler (Aether, Electro), Traveler (Lumine, Electro), Traveler (Aether, Dendro), Traveler (Lumine, Dendro), Traveler (Aether, Hydro), Traveler (Lumine, Hydro), Aloy"

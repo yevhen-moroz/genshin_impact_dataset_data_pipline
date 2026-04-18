@@ -1,0 +1,58 @@
+region,vision,rarity,character_count,characters
+Fontaine,Anemo,4,1,Lynette
+Fontaine,Cryo,5,1,Wriothesley
+Fontaine,Cryo,4,2,"Charlotte, Freminet"
+Fontaine,Hydro,5,2,"Neuvillette, Furina"
+Fontaine,Pyro,5,1,Lyney
+Inazuma,Anemo,5,1,Kaedehara Kazuha
+Inazuma,Anemo,4,2,"Shikanoin Heizou, Sayu"
+Inazuma,Cryo,5,1,Kamisato Ayaka
+Inazuma,Dendro,4,1,Kirara
+Inazuma,Electro,5,2,"Yae Miko, Raiden Shogun"
+Inazuma,Electro,4,2,"Kujou Sara, Kuki Shinobu"
+Inazuma,Geo,5,1,Arataki Itto
+Inazuma,Geo,4,1,Gorou
+Inazuma,Hydro,5,2,"Kamisato Ayato, Sangonomiya Kokomi"
+Inazuma,Pyro,5,1,Yoimiya
+Inazuma,Pyro,4,1,Thoma
+Liyue,Anemo,5,1,Xiao
+Liyue,Cryo,5,3,"Qiqi, Shenhe, Ganyu"
+Liyue,Cryo,4,1,Chongyun
+Liyue,Dendro,5,1,Baizhu
+Liyue,Dendro,4,1,Yaoyao
+Liyue,Electro,5,1,Keqing
+Liyue,Electro,4,1,Beidou
+Liyue,Geo,5,1,Zhongli
+Liyue,Geo,4,2,"Yun Jin, Ningguang"
+Liyue,Hydro,5,1,Yelan
+Liyue,Hydro,4,1,Xingqiu
+Liyue,Pyro,5,1,Hu Tao
+Liyue,Pyro,4,3,"Xinyan, Xiangling, Yanfei"
+Mondstadt,Anemo,5,2,"Jean, Venti"
+Mondstadt,Anemo,4,1,Sucrose
+Mondstadt,Cryo,5,1,Eula
+Mondstadt,Cryo,4,4,"Rosaria, Diona, Kaeya, Mika"
+Mondstadt,Electro,4,3,"Fischl, Lisa, Razor"
+Mondstadt,Geo,5,1,Albedo
+Mondstadt,Geo,4,1,Noelle
+Mondstadt,Hydro,5,1,Mona
+Mondstadt,Hydro,4,1,Barbara
+Mondstadt,Pyro,5,2,"Diluc, Klee"
+Mondstadt,Pyro,4,2,"Amber, Bennett"
+Snezhnaya,Hydro,5,1,Tartaglia
+Sumeru,Anemo,5,1,Wanderer
+Sumeru,Anemo,4,1,Faruzan
+Sumeru,Cryo,4,1,Layla
+Sumeru,Dendro,5,3,"Tighnari, Alhaitham, Nahida"
+Sumeru,Dendro,4,2,"Collei, Kaveh"
+Sumeru,Electro,5,1,Cyno
+Sumeru,Electro,4,1,Dori
+Sumeru,Hydro,5,1,Nilou
+Sumeru,Hydro,4,1,Candace
+Sumeru,Pyro,5,1,Dehya
+Unknown,Anemo,5,2,"Traveler (Aether, Anemo), Traveler (Lumine, Anemo)"
+Unknown,Cryo,5,1,Aloy
+Unknown,Dendro,5,2,"Traveler (Aether, Dendro), Traveler (Lumine, Dendro)"
+Unknown,Electro,5,2,"Traveler (Aether, Electro), Traveler (Lumine, Electro)"
+Unknown,Geo,5,2,"Traveler (Aether, Geo), Traveler (Lumine, Geo)"
+Unknown,Hydro,5,2,"Traveler (Aether, Hydro), Traveler (Lumine, Hydro)"
