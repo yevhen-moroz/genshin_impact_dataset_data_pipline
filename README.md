@@ -8,7 +8,42 @@ The pipeline follows the ETL approach:
 - Load structured data into BigQuery  
 
 The goal of this project is to demonstrate practical skills in building a **data pipeline and integrating it with a cloud data warehouse**.
-
+## 📂 Project structure
+- dataset
+  - analytic ready
+    - `Genshin_Impact_character_dataset.csv`
+    - `Genshin_Impact_character_level_stats_long_dataset.csv`
+    - `Genshin_Impact_character_special_stats_long_dataset.csv`
+  - processed
+    - `Genshin_Impact_dataset_cleared.csv`
+  - raw
+    - `Genshin_Impact_dataset.csv`
+- ETL
+  - `ETL.py`
+  - `queries.sql`
+  - `transform.py`
+  - `load.py`
+- queries
+  - query_result
+    - `ascension_stage_distribution.csv`
+    - `ascension_stat_distribution.csv`
+    - `ascension_stats_by_is_special_stat_percent.csv`
+    - `avg_stats_by_region_90.csv`
+    - `characters_by_region.csv`
+    - `region_rarity_distribution.csv`
+    - `region_stat_levels_avg.csv`
+    - `region_stat_levels_max.csv`
+    - `region_stat_levels_min.csv`
+    - `region_vision_rarity_distribution.csv`
+    - `region_vision_weapon_rarity_distribution.csv`
+    - `top_stats_90.csv`
+    - `vision_stat_levels_avg.csv`
+    - `vision_stat_levels_max.csv`
+    - `vision_stat_levels_min.csv`
+    - `weapon_stat_levels_avg.csv`
+    - `weapon_stat_levels_max.csv`
+    - `weapon_stat_levels_min.csv`
+  - `queries.sql`
 ## 📊 Key Features
 
 - Data cleaning and processing  
@@ -37,6 +72,11 @@ Because of this, the loading step may not work without proper authentication and
 This ensures that the results of the data processing are accessible even without BigQuery setup.
 
 ## 🔄 Pipeline Workflow
+**ETL (`ETL.py`)**
+It sequentially runs all stages of the pipeline:
+   - Data extraction  
+   - Data transformation  
+   - Data loading into BigQuery  
 
 1. **Extract(`extract.py`)**  
    - Load raw data from source files  
@@ -54,8 +94,9 @@ This ensures that the results of the data processing are accessible even without
 - Python  
 - Pandas  
 - SQL   
-- Google BigQuery
-## 🛠️ Google BigQuery
+- BigQuery
+
+## 🛠️ BigQuery
 ## 👉 Genshin characters dataset
 <img width="1773" height="536" alt="image" src="https://github.com/user-attachments/assets/a76dd46b-5d8c-4e88-8751-aa7fd0a20843" />
 
