@@ -1,4 +1,4 @@
-vision,stat_type,lvl_1_20,lvl_20_40,lvl_40_50,lvl_50_60,lvl_60_70,lvl_70_80,lvl_80_90,lvl_90_90
+vision,stat_type,max_lvl_1_20,max_lvl_20_40,max_lvl_40_50,max_lvl_50_60,max_lvl_60_70,max_lvl_70_80,max_lvl_80_90,max_lvl_90_90
 Anemo,atk,27,94,157,203,243,284,325,349
 Anemo,def,63,217,363,468,562,656,750,807
 Anemo,hp,1144,3948,6605,8528,10230,11940,13662,14695

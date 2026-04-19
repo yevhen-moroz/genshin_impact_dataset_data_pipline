@@ -1,4 +1,4 @@
-vision,stat_type,lvl_1_20,lvl_20_40,lvl_40_50,lvl_50_60,lvl_60_70,lvl_70_80,lvl_80_90,lvl_90_90
+vision,stat_type,min_lvl_1_20,min_lvl_20_40,min_lvl_40_50,min_lvl_50_60,min_lvl_60_70,min_lvl_70_80,min_lvl_80_90,min_lvl_90_90
 Anemo,atk,14,37,71,90,112,131,151,170
 Anemo,def,47,122,244,313,393,464,535,607
 Anemo,hp,775,1991,3850,4901,6090,7141,8192,9243

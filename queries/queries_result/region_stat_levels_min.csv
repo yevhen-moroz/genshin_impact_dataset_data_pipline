@@ -1,4 +1,4 @@
-region,stat_type,lvl_1_20,lvl_20_40,lvl_40_50,lvl_50_60,lvl_60_70,lvl_70_80,lvl_80_90,lvl_90_90
+region,stat_type,min_lvl_1_20,min_lvl_20_40,min_lvl_40_50,min_min_lvl_50_60,min_lvl_60_70,min_lvl_70_80,min_lvl_80_90,min_lvl_90_90
 Fontaine,atk,14,37,72,91,114,133,153,173
 Fontaine,def,41,108,216,278,348,411,474,537
 Fontaine,hp,857,2225,4431,5699,7092,8316,9541,10766

@@ -1,4 +1,4 @@
-weapon_type,stat_type,lvl_1_20,lvl_20_40,lvl_40_50,lvl_50_60,lvl_60_70,lvl_70_80,lvl_80_90,lvl_90_90
+weapon_type,stat_type,min_lvl_1_20,min_lvl_20_40,min_lvl_40_50,min_lvl_50_60,min_lvl_60_70,min_lvl_70_80,min_lvl_80_90,min_lvl_90_90
 Bow,atk,15,39,76,97,120,141,162,183
 Bow,def,41,108,216,278,348,411,474,537
 Bow,hp,763,1978,3827,4872,6054,7099,8144,9189

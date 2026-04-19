@@ -98,14 +98,14 @@ SELECT
   t2.region,
   t1.stat_type,
 
-  MAX(CASE WHEN level_start = 1  THEN value END) AS lvl_1_20,
-  MAX(CASE WHEN level_start = 20 THEN value END) AS lvl_20_40,
-  MAX(CASE WHEN level_start = 40 THEN value END) AS lvl_40_50,
-  MAX(CASE WHEN level_start = 50 THEN value END) AS lvl_50_60,
-  MAX(CASE WHEN level_start = 60 THEN value END) AS lvl_60_70,
-  MAX(CASE WHEN level_start = 70 THEN value END) AS lvl_70_80,
-  MAX(CASE WHEN level_start = 80 THEN value END) AS lvl_80_90,
-  MAX(CASE WHEN level_start = 90 THEN value END) AS lvl_90_90
+  MAX(CASE WHEN level_start = 1  THEN value END) AS max_lvl_1_20,
+  MAX(CASE WHEN level_start = 20 THEN value END) AS max_lvl_20_40,
+  MAX(CASE WHEN level_start = 40 THEN value END) AS max_lvl_40_50,
+  MAX(CASE WHEN level_start = 50 THEN value END) AS max_lvl_50_60,
+  MAX(CASE WHEN level_start = 60 THEN value END) AS max_lvl_60_70,
+  MAX(CASE WHEN level_start = 70 THEN value END) AS max_lvl_70_80,
+  MAX(CASE WHEN level_start = 80 THEN value END) AS max_lvl_80_90,
+  MAX(CASE WHEN level_start = 90 THEN value END) AS max_lvl_90_90
 
 FROM `genshin-impact-data-pipeline.genshin_characters_dataset.character_stats` t1
 JOIN `genshin-impact-data-pipeline.genshin_characters_dataset.characters` t2
@@ -121,14 +121,14 @@ SELECT
   t2.region,
   t1.stat_type,
 
-  AVG(CASE WHEN level_start = 1  THEN value END) AS lvl_1_20,
-  AVG(CASE WHEN level_start = 20 THEN value END) AS lvl_20_40,
-  AVG(CASE WHEN level_start = 40 THEN value END) AS lvl_40_50,
-  AVG(CASE WHEN level_start = 50 THEN value END) AS lvl_50_60,
-  AVG(CASE WHEN level_start = 60 THEN value END) AS lvl_60_70,
-  AVG(CASE WHEN level_start = 70 THEN value END) AS lvl_70_80,
-  AVG(CASE WHEN level_start = 80 THEN value END) AS lvl_80_90,
-  AVG(CASE WHEN level_start = 90 THEN value END) AS lvl_90_90
+  AVG(CASE WHEN level_start = 1  THEN value END) AS avg_lvl_1_20,
+  AVG(CASE WHEN level_start = 20 THEN value END) AS avg_lvl_20_40,
+  AVG(CASE WHEN level_start = 40 THEN value END) AS avg_lvl_40_50,
+  AVG(CASE WHEN level_start = 50 THEN value END) AS avg_lvl_50_60,
+  AVG(CASE WHEN level_start = 60 THEN value END) AS avg_lvl_60_70,
+  AVG(CASE WHEN level_start = 70 THEN value END) AS avg_lvl_70_80,
+  AVG(CASE WHEN level_start = 80 THEN value END) AS avg_lvl_80_90,
+  AVG(CASE WHEN level_start = 90 THEN value END) AS avg_lvl_90_90
 
 FROM `genshin-impact-data-pipeline.genshin_characters_dataset.character_stats` t1
 JOIN `genshin-impact-data-pipeline.genshin_characters_dataset.characters` t2
@@ -144,14 +144,14 @@ SELECT
   t2.region,
   t1.stat_type,
 
-  MIN(CASE WHEN level_start = 1  THEN value END) AS lvl_1_20,
-  MIN(CASE WHEN level_start = 20 THEN value END) AS lvl_20_40,
-  MIN(CASE WHEN level_start = 40 THEN value END) AS lvl_40_50,
-  MIN(CASE WHEN level_start = 50 THEN value END) AS lvl_50_60,
-  MIN(CASE WHEN level_start = 60 THEN value END) AS lvl_60_70,
-  MIN(CASE WHEN level_start = 70 THEN value END) AS lvl_70_80,
-  MIN(CASE WHEN level_start = 80 THEN value END) AS lvl_80_90,
-  MIN(CASE WHEN level_start = 90 THEN value END) AS lvl_90_90
+  MIN(CASE WHEN level_start = 1  THEN value END) AS min_lvl_1_20,
+  MIN(CASE WHEN level_start = 20 THEN value END) AS min_lvl_20_40,
+  MIN(CASE WHEN level_start = 40 THEN value END) AS min_lvl_40_50,
+  MIN(CASE WHEN level_start = 50 THEN value END) AS min_min_lvl_50_60,
+  MIN(CASE WHEN level_start = 60 THEN value END) AS min_lvl_60_70,
+  MIN(CASE WHEN level_start = 70 THEN value END) AS min_lvl_70_80,
+  MIN(CASE WHEN level_start = 80 THEN value END) AS min_lvl_80_90,
+  MIN(CASE WHEN level_start = 90 THEN value END) AS min_lvl_90_90
 
 FROM `genshin-impact-data-pipeline.genshin_characters_dataset.character_stats` t1
 JOIN `genshin-impact-data-pipeline.genshin_characters_dataset.characters` t2
@@ -167,14 +167,14 @@ SELECT
   t2.weapon_type,
   t1.stat_type,
 
-  MAX(CASE WHEN level_start = 1  THEN value END) AS lvl_1_20,
-  MAX(CASE WHEN level_start = 20 THEN value END) AS lvl_20_40,
-  MAX(CASE WHEN level_start = 40 THEN value END) AS lvl_40_50,
-  MAX(CASE WHEN level_start = 50 THEN value END) AS lvl_50_60,
-  MAX(CASE WHEN level_start = 60 THEN value END) AS lvl_60_70,
-  MAX(CASE WHEN level_start = 70 THEN value END) AS lvl_70_80,
-  MAX(CASE WHEN level_start = 80 THEN value END) AS lvl_80_90,
-  MAX(CASE WHEN level_start = 90 THEN value END) AS lvl_90_90
+  MAX(CASE WHEN level_start = 1  THEN value END) AS max_lvl_1_20,
+  MAX(CASE WHEN level_start = 20 THEN value END) AS max_lvl_20_40,
+  MAX(CASE WHEN level_start = 40 THEN value END) AS max_lvl_40_50,
+  MAX(CASE WHEN level_start = 50 THEN value END) AS max_lvl_50_60,
+  MAX(CASE WHEN level_start = 60 THEN value END) AS max_lvl_60_70,
+  MAX(CASE WHEN level_start = 70 THEN value END) AS max_lvl_70_80,
+  MAX(CASE WHEN level_start = 80 THEN value END) AS max_lvl_80_90,
+  MAX(CASE WHEN level_start = 90 THEN value END) AS max_lvl_90_90
 
 FROM `genshin-impact-data-pipeline.genshin_characters_dataset.character_stats` t1
 JOIN `genshin-impact-data-pipeline.genshin_characters_dataset.characters` t2
@@ -190,14 +190,14 @@ SELECT
   t2.weapon_type,
   t1.stat_type,
 
-  AVG(CASE WHEN level_start = 1  THEN value END) AS lvl_1_20,
-  AVG(CASE WHEN level_start = 20 THEN value END) AS lvl_20_40,
-  AVG(CASE WHEN level_start = 40 THEN value END) AS lvl_40_50,
-  AVG(CASE WHEN level_start = 50 THEN value END) AS lvl_50_60,
-  AVG(CASE WHEN level_start = 60 THEN value END) AS lvl_60_70,
-  AVG(CASE WHEN level_start = 70 THEN value END) AS lvl_70_80,
-  AVG(CASE WHEN level_start = 80 THEN value END) AS lvl_80_90,
-  AVG(CASE WHEN level_start = 90 THEN value END) AS lvl_90_90
+  AVG(CASE WHEN level_start = 1  THEN value END) AS avg_lvl_1_20,
+  AVG(CASE WHEN level_start = 20 THEN value END) AS avg_lvl_20_40,
+  AVG(CASE WHEN level_start = 40 THEN value END) AS avg_lvl_40_50,
+  AVG(CASE WHEN level_start = 50 THEN value END) AS avg_lvl_50_60,
+  AVG(CASE WHEN level_start = 60 THEN value END) AS avg_lvl_60_70,
+  AVG(CASE WHEN level_start = 70 THEN value END) AS avg_lvl_70_80,
+  AVG(CASE WHEN level_start = 80 THEN value END) AS avg_lvl_80_90,
+  AVG(CASE WHEN level_start = 90 THEN value END) AS avg_lvl_90_90
 
 FROM `genshin-impact-data-pipeline.genshin_characters_dataset.character_stats` t1
 JOIN `genshin-impact-data-pipeline.genshin_characters_dataset.characters` t2
@@ -213,14 +213,14 @@ SELECT
   t2.weapon_type,
   t1.stat_type,
 
-  MIN(CASE WHEN level_start = 1  THEN value END) AS lvl_1_20,
-  MIN(CASE WHEN level_start = 20 THEN value END) AS lvl_20_40,
-  MIN(CASE WHEN level_start = 40 THEN value END) AS lvl_40_50,
-  MIN(CASE WHEN level_start = 50 THEN value END) AS lvl_50_60,
-  MIN(CASE WHEN level_start = 60 THEN value END) AS lvl_60_70,
-  MIN(CASE WHEN level_start = 70 THEN value END) AS lvl_70_80,
-  MIN(CASE WHEN level_start = 80 THEN value END) AS lvl_80_90,
-  MIN(CASE WHEN level_start = 90 THEN value END) AS lvl_90_90
+  MIN(CASE WHEN level_start = 1  THEN value END) AS min_lvl_1_20,
+  MIN(CASE WHEN level_start = 20 THEN value END) AS min_lvl_20_40,
+  MIN(CASE WHEN level_start = 40 THEN value END) AS min_lvl_40_50,
+  MIN(CASE WHEN level_start = 50 THEN value END) AS min_lvl_50_60,
+  MIN(CASE WHEN level_start = 60 THEN value END) AS min_lvl_60_70,
+  MIN(CASE WHEN level_start = 70 THEN value END) AS min_lvl_70_80,
+  MIN(CASE WHEN level_start = 80 THEN value END) AS min_lvl_80_90,
+  MIN(CASE WHEN level_start = 90 THEN value END) AS min_lvl_90_90
 
 FROM `genshin-impact-data-pipeline.genshin_characters_dataset.character_stats` t1
 JOIN `genshin-impact-data-pipeline.genshin_characters_dataset.characters` t2
@@ -236,14 +236,14 @@ SELECT
   t2.vision,
   t1.stat_type,
 
-  MAX(CASE WHEN level_start = 1  THEN value END) AS lvl_1_20,
-  MAX(CASE WHEN level_start = 20 THEN value END) AS lvl_20_40,
-  MAX(CASE WHEN level_start = 40 THEN value END) AS lvl_40_50,
-  MAX(CASE WHEN level_start = 50 THEN value END) AS lvl_50_60,
-  MAX(CASE WHEN level_start = 60 THEN value END) AS lvl_60_70,
-  MAX(CASE WHEN level_start = 70 THEN value END) AS lvl_70_80,
-  MAX(CASE WHEN level_start = 80 THEN value END) AS lvl_80_90,
-  MAX(CASE WHEN level_start = 90 THEN value END) AS lvl_90_90
+  MAX(CASE WHEN level_start = 1  THEN value END) AS max_lvl_1_20,
+  MAX(CASE WHEN level_start = 20 THEN value END) AS max_lvl_20_40,
+  MAX(CASE WHEN level_start = 40 THEN value END) AS max_lvl_40_50,
+  MAX(CASE WHEN level_start = 50 THEN value END) AS max_lvl_50_60,
+  MAX(CASE WHEN level_start = 60 THEN value END) AS max_lvl_60_70,
+  MAX(CASE WHEN level_start = 70 THEN value END) AS max_lvl_70_80,
+  MAX(CASE WHEN level_start = 80 THEN value END) AS max_lvl_80_90,
+  MAX(CASE WHEN level_start = 90 THEN value END) AS max_lvl_90_90
 
 FROM `genshin-impact-data-pipeline.genshin_characters_dataset.character_stats` t1
 JOIN `genshin-impact-data-pipeline.genshin_characters_dataset.characters` t2
@@ -259,14 +259,14 @@ SELECT
   t2.vision,
   t1.stat_type,
 
-  AVG(CASE WHEN level_start = 1  THEN value END) AS lvl_1_20,
-  AVG(CASE WHEN level_start = 20 THEN value END) AS lvl_20_40,
-  AVG(CASE WHEN level_start = 40 THEN value END) AS lvl_40_50,
-  AVG(CASE WHEN level_start = 50 THEN value END) AS lvl_50_60,
-  AVG(CASE WHEN level_start = 60 THEN value END) AS lvl_60_70,
-  AVG(CASE WHEN level_start = 70 THEN value END) AS lvl_70_80,
-  AVG(CASE WHEN level_start = 80 THEN value END) AS lvl_80_90,
-  AVG(CASE WHEN level_start = 90 THEN value END) AS lvl_90_90
+  AVG(CASE WHEN level_start = 1  THEN value END) AS avg_lvl_1_20,
+  AVG(CASE WHEN level_start = 20 THEN value END) AS avg_avg_lvl_20_40,
+  AVG(CASE WHEN level_start = 40 THEN value END) AS avg_lvl_40_50,
+  AVG(CASE WHEN level_start = 50 THEN value END) AS avg_lvl_50_60,
+  AVG(CASE WHEN level_start = 60 THEN value END) AS avg_lvl_60_70,
+  AVG(CASE WHEN level_start = 70 THEN value END) AS avg_lvl_70_80,
+  AVG(CASE WHEN level_start = 80 THEN value END) AS avg_lvl_80_90,
+  AVG(CASE WHEN level_start = 90 THEN value END) AS avg_lvl_90_90
 
 FROM `genshin-impact-data-pipeline.genshin_characters_dataset.character_stats` t1
 JOIN `genshin-impact-data-pipeline.genshin_characters_dataset.characters` t2
@@ -282,14 +282,14 @@ SELECT
   t2.vision,
   t1.stat_type,
 
-  MIN(CASE WHEN level_start = 1  THEN value END) AS lvl_1_20,
-  MIN(CASE WHEN level_start = 20 THEN value END) AS lvl_20_40,
-  MIN(CASE WHEN level_start = 40 THEN value END) AS lvl_40_50,
-  MIN(CASE WHEN level_start = 50 THEN value END) AS lvl_50_60,
-  MIN(CASE WHEN level_start = 60 THEN value END) AS lvl_60_70,
-  MIN(CASE WHEN level_start = 70 THEN value END) AS lvl_70_80,
-  MIN(CASE WHEN level_start = 80 THEN value END) AS lvl_80_90,
-  MIN(CASE WHEN level_start = 90 THEN value END) AS lvl_90_90
+  MIN(CASE WHEN level_start = 1  THEN value END) AS min_lvl_1_20,
+  MIN(CASE WHEN level_start = 20 THEN value END) AS min_lvl_20_40,
+  MIN(CASE WHEN level_start = 40 THEN value END) AS min_lvl_40_50,
+  MIN(CASE WHEN level_start = 50 THEN value END) AS min_lvl_50_60,
+  MIN(CASE WHEN level_start = 60 THEN value END) AS min_lvl_60_70,
+  MIN(CASE WHEN level_start = 70 THEN value END) AS min_lvl_70_80,
+  MIN(CASE WHEN level_start = 80 THEN value END) AS min_lvl_80_90,
+  MIN(CASE WHEN level_start = 90 THEN value END) AS min_lvl_90_90
 
 FROM `genshin-impact-data-pipeline.genshin_characters_dataset.character_stats` t1
 JOIN `genshin-impact-data-pipeline.genshin_characters_dataset.characters` t2
