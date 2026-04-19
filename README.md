@@ -111,6 +111,9 @@ It sequentially runs all stages of the pipeline:
 
 <img width="1984" height="744" alt="image" src="https://github.com/user-attachments/assets/89b0e724-cbfe-495e-abe2-d2c18e4bb78b" />
 
+## 👉 Queries
+<img width="2352" height="794" alt="image" src="https://github.com/user-attachments/assets/9c264982-bb3f-4602-87f9-db6d01a1f02a" />
+
 
 
   
