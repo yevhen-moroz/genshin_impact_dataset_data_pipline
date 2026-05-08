@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+  - name: genshin_characters_dataset
+    schema: genshin_characters_dataset
+
+    tables:
+      - name: special_stats
+      - name: character_stats
+      - name: characters
+      - name: cleared_dataset

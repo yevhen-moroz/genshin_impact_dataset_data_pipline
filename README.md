@@ -53,7 +53,7 @@ The goal of this project is to demonstrate practical skills in building a **data
 
 ## 🎮 Dataset Context
 
-The project uses data related to *Genshin Impact*, an open-world action RPG with multiple characters, stats, and attributes used for analysis. :contentReference[oaicite:1]{index=1}
+The project uses data related to *Genshin Impact*, an open-world action RPG with multiple characters, stats, and attributes used for analysis.
 
 ## ⚠️ Important Note (BigQuery Integration)
 

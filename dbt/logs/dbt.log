@@ -1,0 +1,40 @@
+==================== 2026-05-08T01:07:12.231684Z | 019e051f-d2cd-7702-ba25-420fbf270b23 ====================
+01:07:12.236008 [info ]: Installing dbt project and profile setup
+01:07:12.257230 [info ]: Info Created .vscode/extensions.json with dbt extension recommendation
+01:07:12.259908 [info ]: Success Project created successfully!
+01:07:12.260175 [info ]: Info Project name: jaffle_shop
+01:07:12.260626 [info ]: Info Project directory: jaffle_shop
+01:07:12.261113 [info ]: Info Setting up your profile...
+01:07:12.265322 [info ]: Loading ~/.dbt/profiles.yml
+01:07:12.289179 [info ]: Profile 'jaffle_shop' already exists. You can choose how to proceed.
+01:07:25.293603 [info ]: Info Creating new profile...
+01:07:26.645257 [info ]: No dbt_cloud.yml found - proceeding without cloud pre-population
+01:08:11.821102 [info ]: Info Backup created at C:\Users\Home\.dbt\profiles.yml.bkp
+01:08:11.822276 [info ]: Success Profile written to C:\Users\Home\.dbt\profiles.yml
+01:08:11.823774 [info ]: Validating profile inputs, adapters, and connection
+
+01:08:11.824075 [info ]: dbt-fusion 2.0.0-preview.175
+01:08:11.827482 [info ]: Started loading project
+01:08:11.855172 [info ]: Loading ~/.dbt/profiles.yml
+01:08:11.860688 [info ]: Finished loading project [  0.03s]
+01:08:11.862378 [info ]: Started debugging
+01:08:11.862492 [info ]: Debugging profile: dev
+01:08:11.862640 [info ]: Debugging dbt version: 2.0.0-preview.175
+01:08:11.863148 [info ]: Debugging platform: windows x86_64 (windows)
+01:08:11.863744 [info ]: Debugging adapter type: bigquery (remote)
+01:08:11.898857 [info ]: Debugging dependencies:
+  git: OK
+01:08:11.901892 [info ]: Debugging connection:
+  "database": "genshin-impact-data-pipeline",
+  "schema": "genshin_dbt",
+  "method": "oauth",
+  "location": "europe-west1",
+  "dataproc_batch": null
+01:08:14.759951 [debug]: Query executed on node unknown:
+select 1 as id
+01:08:14.762790 [info ]: Debugging connection test: OK
+01:08:14.763713 [info ]: Debugged All checks passed!
+01:08:14.764234 [info ]: Finished debugging [  2.90s]
+01:08:15.421384 [info ]: 
+==================== Execution Summary =====================
+Finished 'init' successfully for target 'dev' [1m 3s]
