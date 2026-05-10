@@ -1,0 +1,85 @@
+character_name,rarity,vision,region,weapon_type,affiliation,release_date,limited,ascension_stat,is_special_stat_percent
+Albedo,5,Geo,Mondstadt,Sword,Knights of Favonius,2020-12-23,True,Geo DMG Bonus,True
+Alhaitham,5,Dendro,Sumeru,Sword,Sumeru Akademiya,2023-01-18,True,Dendro DMG Bonus,True
+Aloy,5,Cryo,Unknown,Bow,Wandering Heroine,2021-09-01,False,Cryo DMG Bonus,True
+Amber,4,Pyro,Mondstadt,Bow,Knights of Favonius,2020-09-28,False,ATK,True
+Arataki Itto,5,Geo,Inazuma,Claymore,Arataki Gang,2021-12-14,True,CRIT Rate,True
+Baizhu,5,Dendro,Liyue,Catalyst,Bubu Pharmacy,2023-05-02,True,HP,True
+Barbara,4,Hydro,Mondstadt,Catalyst,Church of Favonius,2020-09-28,False,HP,True
+Beidou,4,Electro,Liyue,Claymore,The Crux,2020-09-28,False,Electro DMG Bonus,True
+Bennett,4,Pyro,Mondstadt,Sword,Adventurers' Guild,2020-09-28,False,Energy Recharge,True
+Candace,4,Hydro,Sumeru,Polearm,Aaru Village,2022-09-28,False,HP,True
+Charlotte,4,Cryo,Fontaine,Catalyst,The Steambird,2023-11-08,False,ATK,True
+Chongyun,4,Cryo,Liyue,Claymore,Tianheng Thaumaturges,2020-09-28,False,ATK,True
+Collei,4,Dendro,Sumeru,Bow,Gandharva Ville,2022-08-24,False,ATK,True
+Cyno,5,Electro,Sumeru,Polearm,Temple of Silence,2022-09-28,True,CRIT DMG,True
+Dehya,5,Pyro,Sumeru,Claymore,The Eremites,2023-03-01,False,HP,True
+Diluc,5,Pyro,Mondstadt,Claymore,Dawn Winery,2020-09-28,False,CRIT Rate,True
+Diona,4,Cryo,Mondstadt,Bow,The Cat's Tail,2020-11-11,False,Cryo DMG Bonus,True
+Dori,4,Electro,Sumeru,Claymore,The Palace of Alcazarzaray,2022-09-09,False,HP,True
+Eula,5,Cryo,Mondstadt,Claymore,Knights of Favonius,2021-05-18,True,CRIT DMG,True
+Faruzan,4,Anemo,Sumeru,Bow,Haravatat,2023-12-07,False,ATK,True
+Fischl,4,Electro,Mondstadt,Bow,Adventurers' Guild,2020-09-28,False,ATK,True
+Freminet,4,Cryo,Fontaine,Claymore,Hotel Bouffes d'ete,2023-09-05,False,ATK,True
+Furina,5,Hydro,Fontaine,Sword,Court of Fontaine,2023-11-08,True,CRIT Rate,True
+Ganyu,5,Cryo,Liyue,Bow,Yuehai Pavilion,2021-01-12,True,CRIT DMG,True
+Gorou,4,Geo,Inazuma,Bow,Watatsumi Island,2021-12-14,False,Geo DMG Bonus,True
+Hu Tao,5,Pyro,Liyue,Polearm,Wangsheng Funeral Parlor,2021-03-02,True,CRIT DMG,True
+Jean,5,Anemo,Mondstadt,Sword,Knights of Favonius,2020-09-28,False,Healing Bonus,True
+Kaedehara Kazuha,5,Anemo,Inazuma,Sword,The Crux,2021-06-29,True,Elemental Mastery,False
+Kaeya,4,Cryo,Mondstadt,Sword,Knights of Favonius,2020-09-28,False,Energy Recharge,True
+Kamisato Ayaka,5,Cryo,Inazuma,Sword,Yashiro Commission,2021-07-21,True,CRIT DMG,True
+Kamisato Ayato,5,Hydro,Inazuma,Sword,Yashiro Commission,2022-04-30,True,CRIT DMG,True
+Kaveh,4,Dendro,Sumeru,Claymore,Independent Design Studio,2023-05-02,False,Elemental Mastery,False
+Keqing,5,Electro,Liyue,Sword,Liyue Qixing,2020-09-28,False,CRIT DMG,True
+Kirara,4,Dendro,Inazuma,Sword,Komaniya Express,2023-05-24,False,HP,True
+Klee,5,Pyro,Mondstadt,Catalyst,Knights of Favonius,2020-10-20,True,Pyro DMG Bonus,True
+Kujou Sara,4,Electro,Inazuma,Bow,Tenryou Commission,2021-09-01,False,ATK,True
+Kuki Shinobu,4,Electro,Inazuma,Sword,Arataki Gang,2022-06-21,False,HP,True
+Layla,4,Cryo,Sumeru,Sword,Rtawahist,2022-11-18,False,HP,True
+Lisa,4,Electro,Mondstadt,Catalyst,Knights of Favonius,2020-09-28,False,Elemental Mastery,False
+Lynette,4,Anemo,Fontaine,Sword,Hotel Bouffes d'ete,2023-08-16,False,Anemo DMG Bonus,True
+Lyney,5,Pyro,Fontaine,Bow,Hotel Bouffes d'ete,2023-08-16,True,CRIT Rate,True
+Mika,4,Cryo,Mondstadt,Polearm,Knights of Favonius,2023-03-21,False,HP,True
+Mona,5,Hydro,Mondstadt,Catalyst,Mondstadt,2020-09-28,False,Energy Recharge,True
+Nahida,5,Dendro,Sumeru,Catalyst,Sumeru City,2022-11-02,True,Elemental Mastery,False
+Nilou,5,Hydro,Sumeru,Sword,Zubayr Theater,2022-10-14,True,HP,True
+Ningguang,4,Geo,Liyue,Catalyst,Liyue Qixing,2020-09-28,False,Geo DMG Bonus,True
+Noelle,4,Geo,Mondstadt,Claymore,Knights of Favonius,2020-09-28,False,DEF,True
+Neuvillette,5,Hydro,Fontaine,Catalyst,Court of Fontaine,2023-09-27,True,CRIT DMG,True
+Qiqi,5,Cryo,Liyue,Sword,Bubu Pharmacy,2020-09-28,False,Healing Bonus,True
+Raiden Shogun,5,Electro,Inazuma,Polearm,Inazuma City,2021-09-01,True,Energy Recharge,True
+Razor,4,Electro,Mondstadt,Claymore,Wolvendom,2020-09-28,False,Physical DMG Bonus,True
+Rosaria,4,Cryo,Mondstadt,Polearm,Church of Favonius,2021-04-06,False,ATK,True
+Sangonomiya Kokomi,5,Hydro,Inazuma,Catalyst,Watatsumi Island,2021-09-21,True,Hydro DMG Bonus,True
+Sayu,4,Anemo,Inazuma,Claymore,Shuumatsuban,2021-08-10,False,Elemental Mastery,False
+Shenhe,5,Cryo,Liyue,Polearm,Cloud Retainer's Abode,2022-01-05,True,ATK,True
+Shikanoin Heizou,4,Anemo,Inazuma,Catalyst,Tenryou Commission,2022-07-13,False,Anemo DMG Bonus,True
+Sucrose,4,Anemo,Mondstadt,Catalyst,Knights of Favonius,2020-09-28,False,Anemo DMG Bonus,True
+Tartaglia,5,Hydro,Snezhnaya,Bow,Fatui,2020-11-11,True,Hydro DMG Bonus,True
+Thoma,4,Pyro,Inazuma,Polearm,Yashiro Commission,2021-10-02,False,ATK,True
+Tighnari,5,Dendro,Sumeru,Bow,Gandharva Ville,2022-08-24,False,Dendro DMG Bonus,True
+"Traveler (Aether, Anemo)",5,Anemo,Unknown,Sword,,2020-09-28,False,ATK,True
+"Traveler (Lumine, Anemo)",5,Anemo,Unknown,Sword,,2020-09-28,False,ATK,True
+"Traveler (Aether, Geo)",5,Geo,Unknown,Sword,,2020-09-28,False,ATK,True
+"Traveler (Lumine, Geo)",5,Geo,Unknown,Sword,,2020-09-28,False,ATK,True
+"Traveler (Aether, Electro)",5,Electro,Unknown,Sword,,2021-07-21,False,ATK,True
+"Traveler (Lumine, Electro)",5,Electro,Unknown,Sword,,2021-07-21,False,ATK,True
+"Traveler (Aether, Dendro)",5,Dendro,Unknown,Sword,,2022-08-23,False,ATK,True
+"Traveler (Lumine, Dendro)",5,Dendro,Unknown,Sword,,2022-08-23,False,ATK,True
+"Traveler (Aether, Hydro)",5,Hydro,Unknown,Sword,,2023-08-16,False,ATK,True
+"Traveler (Lumine, Hydro)",5,Hydro,Unknown,Sword,,2023-08-16,False,ATK,True
+Venti,5,Anemo,Mondstadt,Bow,Mondstadt,2020-09-28,True,Energy Recharge,True
+Wanderer,5,Anemo,Sumeru,Catalyst,,2022-12-07,True,CRIT Rate,True
+Wriothesley,5,Cryo,Fontaine,Catalyst,Fortress of Meropide,2023-10-17,True,CRIT DMG,True
+Xiangling,4,Pyro,Liyue,Polearm,Wanmin Restaurant,2020-09-28,False,Elemental Mastery,False
+Xiao,5,Anemo,Liyue,Polearm,Liyue Adeptus,2021-02-03,True,CRIT Rate,True
+Xingqiu,4,Hydro,Liyue,Sword,Feiyun Commerce Guild,2020-09-28,False,ATK,True
+Xinyan,4,Pyro,Liyue,Claymore,"""The Red Strings""",2020-12-01,False,ATK,True
+Yae Miko,5,Electro,Inazuma,Catalyst,Grand Narukami Shrine,2022-02-16,True,CRIT Rate,True
+Yanfei,4,Pyro,Liyue,Catalyst,Yanfei Legal Consultancy,2021-04-28,False,Pyro DMG Bonus,True
+Yaoyao,4,Dendro,Liyue,Polearm,Streetward Rambler's Abode,2023-01-18,False,HP,True
+Yelan,5,Hydro,Liyue,Bow,Yanshang Teahouse,2022-05-31,True,CRIT Rate,True
+Yoimiya,5,Pyro,Inazuma,Bow,Naganohara Fireworks,2021-08-10,True,CRIT Rate,True
+Yun Jin,4,Geo,Liyue,Polearm,Yun-Han Opera House,2022-01-05,False,Energy Recharge,True
+Zhongli,5,Geo,Liyue,Polearm,Liyue Harbor,2020-12-01,True,Geo DMG Bonus,True

@@ -1,0 +1,84 @@
+version: 2
+
+sources:
+  - name: genshin_characters_dataset
+    schema: genshin_characters_dataset
+    tables:
+      - name: characters
+      - name: character_stats
+      - name: special_stats
+
+
+models:
+
+  # -------------------------
+  # CHARACTERS
+  # -------------------------
+  - name: stg_characters
+    description: "Staging table for Genshin Impact characters metadata"
+    columns:
+
+      - name: character_name
+        tests:
+          - unique
+          - not_null
+
+      - name: rarity
+        tests:
+          - not_null
+
+      - name: vision
+        tests:
+          - not_null
+
+      - name: weapon_type
+        tests:
+          - not_null
+
+      - name: limited
+        tests:
+          - not_null
+
+
+  # -------------------------
+  # CHARACTER STATS
+  # -------------------------
+  - name: stg_character_stats
+    description: "Base stats across levels for characters"
+    columns:
+
+      - name: character_name
+        tests:
+          - not_null
+
+      - name: stat_type
+        tests:
+          - not_null
+
+      - name: value
+
+      - name: level_start
+        tests:
+          - not_null
+
+
+  # -------------------------
+  # SPECIAL STATS
+  # -------------------------
+  - name: stg_special_stats
+    description: "Ascension and special scaling stats"
+    columns:
+
+      - name: character_name
+        tests:
+          - not_null
+
+      - name: ascension_stage
+        tests:
+          - not_null
+
+      - name: is_special_stat_percent
+        tests:
+          - not_null
+
+      - name: value

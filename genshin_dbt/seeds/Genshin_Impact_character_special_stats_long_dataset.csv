@@ -1,0 +1,589 @@
+character_name,ascension_stat,is_special_stat_percent,ascension_stage,value
+Albedo,Geo DMG Bonus,True,0,0.0
+Albedo,Geo DMG Bonus,True,1,0.0
+Albedo,Geo DMG Bonus,True,2,7.2
+Albedo,Geo DMG Bonus,True,3,14.4
+Albedo,Geo DMG Bonus,True,4,14.4
+Albedo,Geo DMG Bonus,True,5,21.6
+Albedo,Geo DMG Bonus,True,6,28.8
+Alhaitham,Dendro DMG Bonus,True,0,0.0
+Alhaitham,Dendro DMG Bonus,True,1,0.0
+Alhaitham,Dendro DMG Bonus,True,2,7.2
+Alhaitham,Dendro DMG Bonus,True,3,14.4
+Alhaitham,Dendro DMG Bonus,True,4,14.4
+Alhaitham,Dendro DMG Bonus,True,5,21.6
+Alhaitham,Dendro DMG Bonus,True,6,28.8
+Aloy,Cryo DMG Bonus,True,0,0.0
+Aloy,Cryo DMG Bonus,True,1,0.0
+Aloy,Cryo DMG Bonus,True,2,7.2
+Aloy,Cryo DMG Bonus,True,3,14.4
+Aloy,Cryo DMG Bonus,True,4,14.4
+Aloy,Cryo DMG Bonus,True,5,21.6
+Aloy,Cryo DMG Bonus,True,6,28.8
+Amber,ATK,True,0,0.0
+Amber,ATK,True,1,0.0
+Amber,ATK,True,2,6.0
+Amber,ATK,True,3,12.0
+Amber,ATK,True,4,12.0
+Amber,ATK,True,5,18.0
+Amber,ATK,True,6,24.0
+Arataki Itto,CRIT Rate,True,0,0.0
+Arataki Itto,CRIT Rate,True,1,0.0
+Arataki Itto,CRIT Rate,True,2,4.8
+Arataki Itto,CRIT Rate,True,3,9.6
+Arataki Itto,CRIT Rate,True,4,9.6
+Arataki Itto,CRIT Rate,True,5,14.4
+Arataki Itto,CRIT Rate,True,6,19.2
+Baizhu,HP,True,0,0.0
+Baizhu,HP,True,1,0.0
+Baizhu,HP,True,2,7.2
+Baizhu,HP,True,3,14.4
+Baizhu,HP,True,4,14.4
+Baizhu,HP,True,5,21.6
+Baizhu,HP,True,6,28.8
+Barbara,HP,True,0,0.0
+Barbara,HP,True,1,0.0
+Barbara,HP,True,2,6.0
+Barbara,HP,True,3,12.0
+Barbara,HP,True,4,12.0
+Barbara,HP,True,5,18.0
+Barbara,HP,True,6,24.0
+Beidou,Electro DMG Bonus,True,0,0.0
+Beidou,Electro DMG Bonus,True,1,0.0
+Beidou,Electro DMG Bonus,True,2,6.0
+Beidou,Electro DMG Bonus,True,3,12.0
+Beidou,Electro DMG Bonus,True,4,12.0
+Beidou,Electro DMG Bonus,True,5,18.0
+Beidou,Electro DMG Bonus,True,6,24.0
+Bennett,Energy Recharge,True,0,0.0
+Bennett,Energy Recharge,True,1,0.0
+Bennett,Energy Recharge,True,2,6.7
+Bennett,Energy Recharge,True,3,13.3
+Bennett,Energy Recharge,True,4,13.3
+Bennett,Energy Recharge,True,5,20.0
+Bennett,Energy Recharge,True,6,26.7
+Candace,HP,True,0,0.0
+Candace,HP,True,1,0.0
+Candace,HP,True,2,6.0
+Candace,HP,True,3,12.0
+Candace,HP,True,4,12.0
+Candace,HP,True,5,18.0
+Candace,HP,True,6,24.0
+Charlotte,ATK,True,0,0.0
+Charlotte,ATK,True,1,0.0
+Charlotte,ATK,True,2,6.0
+Charlotte,ATK,True,3,12.0
+Charlotte,ATK,True,4,12.0
+Charlotte,ATK,True,5,18.0
+Charlotte,ATK,True,6,24.0
+Chongyun,ATK,True,0,0.0
+Chongyun,ATK,True,1,0.0
+Chongyun,ATK,True,2,6.0
+Chongyun,ATK,True,3,12.0
+Chongyun,ATK,True,4,12.0
+Chongyun,ATK,True,5,18.0
+Chongyun,ATK,True,6,24.0
+Collei,ATK,True,0,0.0
+Collei,ATK,True,1,0.0
+Collei,ATK,True,2,6.0
+Collei,ATK,True,3,12.0
+Collei,ATK,True,4,12.0
+Collei,ATK,True,5,18.0
+Collei,ATK,True,6,24.0
+Cyno,CRIT DMG,True,0,0.0
+Cyno,CRIT DMG,True,1,0.0
+Cyno,CRIT DMG,True,2,9.6
+Cyno,CRIT DMG,True,3,19.2
+Cyno,CRIT DMG,True,4,19.2
+Cyno,CRIT DMG,True,5,28.8
+Cyno,CRIT DMG,True,6,38.4
+Dehya,HP,True,0,0.0
+Dehya,HP,True,1,0.0
+Dehya,HP,True,2,7.2
+Dehya,HP,True,3,14.4
+Dehya,HP,True,4,14.4
+Dehya,HP,True,5,21.6
+Dehya,HP,True,6,28.8
+Diluc,CRIT Rate,True,0,0.0
+Diluc,CRIT Rate,True,1,0.0
+Diluc,CRIT Rate,True,2,4.8
+Diluc,CRIT Rate,True,3,9.6
+Diluc,CRIT Rate,True,4,9.6
+Diluc,CRIT Rate,True,5,14.4
+Diluc,CRIT Rate,True,6,19.2
+Diona,Cryo DMG Bonus,True,0,0.0
+Diona,Cryo DMG Bonus,True,1,0.0
+Diona,Cryo DMG Bonus,True,2,6.0
+Diona,Cryo DMG Bonus,True,3,12.0
+Diona,Cryo DMG Bonus,True,4,12.0
+Diona,Cryo DMG Bonus,True,5,18.0
+Diona,Cryo DMG Bonus,True,6,24.0
+Dori,HP,True,0,0.0
+Dori,HP,True,1,0.0
+Dori,HP,True,2,6.0
+Dori,HP,True,3,12.0
+Dori,HP,True,4,12.0
+Dori,HP,True,5,18.0
+Dori,HP,True,6,24.0
+Eula,CRIT DMG,True,0,0.0
+Eula,CRIT DMG,True,1,0.0
+Eula,CRIT DMG,True,2,9.6
+Eula,CRIT DMG,True,3,19.2
+Eula,CRIT DMG,True,4,19.2
+Eula,CRIT DMG,True,5,28.8
+Eula,CRIT DMG,True,6,38.4
+Faruzan,ATK,True,0,0.0
+Faruzan,ATK,True,1,0.0
+Faruzan,ATK,True,2,6.0
+Faruzan,ATK,True,3,12.0
+Faruzan,ATK,True,4,12.0
+Faruzan,ATK,True,5,18.0
+Faruzan,ATK,True,6,24.0
+Fischl,ATK,True,0,0.0
+Fischl,ATK,True,1,0.0
+Fischl,ATK,True,2,6.0
+Fischl,ATK,True,3,12.0
+Fischl,ATK,True,4,12.0
+Fischl,ATK,True,5,18.0
+Fischl,ATK,True,6,24.0
+Freminet,ATK,True,0,0.0
+Freminet,ATK,True,1,0.0
+Freminet,ATK,True,2,6.0
+Freminet,ATK,True,3,12.0
+Freminet,ATK,True,4,12.0
+Freminet,ATK,True,5,18.0
+Freminet,ATK,True,6,24.0
+Furina,CRIT Rate,True,0,0.0
+Furina,CRIT Rate,True,1,0.0
+Furina,CRIT Rate,True,2,4.8
+Furina,CRIT Rate,True,3,9.6
+Furina,CRIT Rate,True,4,9.6
+Furina,CRIT Rate,True,5,14.4
+Furina,CRIT Rate,True,6,19.2
+Ganyu,CRIT DMG,True,0,0.0
+Ganyu,CRIT DMG,True,1,0.0
+Ganyu,CRIT DMG,True,2,9.6
+Ganyu,CRIT DMG,True,3,19.2
+Ganyu,CRIT DMG,True,4,19.2
+Ganyu,CRIT DMG,True,5,28.8
+Ganyu,CRIT DMG,True,6,38.4
+Gorou,Geo DMG Bonus,True,0,0.0
+Gorou,Geo DMG Bonus,True,1,0.0
+Gorou,Geo DMG Bonus,True,2,6.0
+Gorou,Geo DMG Bonus,True,3,12.0
+Gorou,Geo DMG Bonus,True,4,12.0
+Gorou,Geo DMG Bonus,True,5,18.0
+Gorou,Geo DMG Bonus,True,6,24.0
+Hu Tao,CRIT DMG,True,0,0.0
+Hu Tao,CRIT DMG,True,1,0.0
+Hu Tao,CRIT DMG,True,2,9.6
+Hu Tao,CRIT DMG,True,3,19.2
+Hu Tao,CRIT DMG,True,4,19.2
+Hu Tao,CRIT DMG,True,5,28.8
+Hu Tao,CRIT DMG,True,6,38.4
+Jean,Healing Bonus,True,0,0.0
+Jean,Healing Bonus,True,1,0.0
+Jean,Healing Bonus,True,2,5.5
+Jean,Healing Bonus,True,3,11.1
+Jean,Healing Bonus,True,4,11.1
+Jean,Healing Bonus,True,5,16.6
+Jean,Healing Bonus,True,6,22.2
+Kaedehara Kazuha,Elemental Mastery,False,0,0.0
+Kaedehara Kazuha,Elemental Mastery,False,1,0.0
+Kaedehara Kazuha,Elemental Mastery,False,2,28.8
+Kaedehara Kazuha,Elemental Mastery,False,3,57.6
+Kaedehara Kazuha,Elemental Mastery,False,4,57.6
+Kaedehara Kazuha,Elemental Mastery,False,5,86.4
+Kaedehara Kazuha,Elemental Mastery,False,6,115.2
+Kaeya,Energy Recharge,True,0,0.0
+Kaeya,Energy Recharge,True,1,0.0
+Kaeya,Energy Recharge,True,2,6.7
+Kaeya,Energy Recharge,True,3,13.3
+Kaeya,Energy Recharge,True,4,13.3
+Kaeya,Energy Recharge,True,5,20.0
+Kaeya,Energy Recharge,True,6,26.7
+Kamisato Ayaka,CRIT DMG,True,0,0.0
+Kamisato Ayaka,CRIT DMG,True,1,0.0
+Kamisato Ayaka,CRIT DMG,True,2,9.6
+Kamisato Ayaka,CRIT DMG,True,3,19.2
+Kamisato Ayaka,CRIT DMG,True,4,19.2
+Kamisato Ayaka,CRIT DMG,True,5,28.8
+Kamisato Ayaka,CRIT DMG,True,6,38.4
+Kamisato Ayato,CRIT DMG,True,0,0.0
+Kamisato Ayato,CRIT DMG,True,1,0.0
+Kamisato Ayato,CRIT DMG,True,2,9.6
+Kamisato Ayato,CRIT DMG,True,3,19.2
+Kamisato Ayato,CRIT DMG,True,4,19.2
+Kamisato Ayato,CRIT DMG,True,5,28.8
+Kamisato Ayato,CRIT DMG,True,6,38.4
+Kaveh,Elemental Mastery,False,0,0.0
+Kaveh,Elemental Mastery,False,1,0.0
+Kaveh,Elemental Mastery,False,2,24.0
+Kaveh,Elemental Mastery,False,3,48.0
+Kaveh,Elemental Mastery,False,4,48.0
+Kaveh,Elemental Mastery,False,5,72.0
+Kaveh,Elemental Mastery,False,6,96.0
+Keqing,CRIT DMG,True,0,0.0
+Keqing,CRIT DMG,True,1,0.0
+Keqing,CRIT DMG,True,2,9.6
+Keqing,CRIT DMG,True,3,19.2
+Keqing,CRIT DMG,True,4,19.2
+Keqing,CRIT DMG,True,5,28.8
+Keqing,CRIT DMG,True,6,38.4
+Kirara,HP,True,0,0.0
+Kirara,HP,True,1,0.0
+Kirara,HP,True,2,6.0
+Kirara,HP,True,3,12.0
+Kirara,HP,True,4,12.0
+Kirara,HP,True,5,18.0
+Kirara,HP,True,6,24.0
+Klee,Pyro DMG Bonus,True,0,0.0
+Klee,Pyro DMG Bonus,True,1,0.0
+Klee,Pyro DMG Bonus,True,2,7.2
+Klee,Pyro DMG Bonus,True,3,14.4
+Klee,Pyro DMG Bonus,True,4,14.4
+Klee,Pyro DMG Bonus,True,5,21.6
+Klee,Pyro DMG Bonus,True,6,28.8
+Kujou Sara,ATK,True,0,0.0
+Kujou Sara,ATK,True,1,0.0
+Kujou Sara,ATK,True,2,6.0
+Kujou Sara,ATK,True,3,12.0
+Kujou Sara,ATK,True,4,12.0
+Kujou Sara,ATK,True,5,18.0
+Kujou Sara,ATK,True,6,24.0
+Kuki Shinobu,HP,True,0,0.0
+Kuki Shinobu,HP,True,1,0.0
+Kuki Shinobu,HP,True,2,6.0
+Kuki Shinobu,HP,True,3,12.0
+Kuki Shinobu,HP,True,4,12.0
+Kuki Shinobu,HP,True,5,18.0
+Kuki Shinobu,HP,True,6,24.0
+Layla,HP,True,0,0.0
+Layla,HP,True,1,0.0
+Layla,HP,True,2,6.0
+Layla,HP,True,3,12.0
+Layla,HP,True,4,12.0
+Layla,HP,True,5,18.0
+Layla,HP,True,6,24.0
+Lisa,Elemental Mastery,False,0,0.0
+Lisa,Elemental Mastery,False,1,0.0
+Lisa,Elemental Mastery,False,2,24.0
+Lisa,Elemental Mastery,False,3,48.0
+Lisa,Elemental Mastery,False,4,48.0
+Lisa,Elemental Mastery,False,5,72.0
+Lisa,Elemental Mastery,False,6,96.0
+Lynette,Anemo DMG Bonus,True,0,0.0
+Lynette,Anemo DMG Bonus,True,1,0.0
+Lynette,Anemo DMG Bonus,True,2,6.0
+Lynette,Anemo DMG Bonus,True,3,12.0
+Lynette,Anemo DMG Bonus,True,4,12.0
+Lynette,Anemo DMG Bonus,True,5,18.0
+Lynette,Anemo DMG Bonus,True,6,24.0
+Lyney,CRIT Rate,True,0,0.0
+Lyney,CRIT Rate,True,1,0.0
+Lyney,CRIT Rate,True,2,4.8
+Lyney,CRIT Rate,True,3,9.6
+Lyney,CRIT Rate,True,4,9.6
+Lyney,CRIT Rate,True,5,14.4
+Lyney,CRIT Rate,True,6,19.2
+Mika,HP,True,0,0.0
+Mika,HP,True,1,0.0
+Mika,HP,True,2,6.0
+Mika,HP,True,3,12.0
+Mika,HP,True,4,12.0
+Mika,HP,True,5,18.0
+Mika,HP,True,6,24.0
+Mona,Energy Recharge,True,0,0.0
+Mona,Energy Recharge,True,1,0.0
+Mona,Energy Recharge,True,2,8.0
+Mona,Energy Recharge,True,3,16.0
+Mona,Energy Recharge,True,4,16.0
+Mona,Energy Recharge,True,5,24.0
+Mona,Energy Recharge,True,6,32.0
+Nahida,Elemental Mastery,False,0,0.0
+Nahida,Elemental Mastery,False,1,0.0
+Nahida,Elemental Mastery,False,2,28.8
+Nahida,Elemental Mastery,False,3,57.6
+Nahida,Elemental Mastery,False,4,57.6
+Nahida,Elemental Mastery,False,5,86.4
+Nahida,Elemental Mastery,False,6,115.2
+Neuvillette,CRIT DMG,True,0,0.0
+Neuvillette,CRIT DMG,True,1,0.0
+Neuvillette,CRIT DMG,True,2,9.6
+Neuvillette,CRIT DMG,True,3,19.2
+Neuvillette,CRIT DMG,True,4,19.2
+Neuvillette,CRIT DMG,True,5,28.8
+Neuvillette,CRIT DMG,True,6,38.4
+Nilou,HP,True,0,0.0
+Nilou,HP,True,1,0.0
+Nilou,HP,True,2,7.2
+Nilou,HP,True,3,14.4
+Nilou,HP,True,4,14.4
+Nilou,HP,True,5,21.6
+Nilou,HP,True,6,28.8
+Ningguang,Geo DMG Bonus,True,0,0.0
+Ningguang,Geo DMG Bonus,True,1,0.0
+Ningguang,Geo DMG Bonus,True,2,6.0
+Ningguang,Geo DMG Bonus,True,3,12.0
+Ningguang,Geo DMG Bonus,True,4,12.0
+Ningguang,Geo DMG Bonus,True,5,18.0
+Ningguang,Geo DMG Bonus,True,6,24.0
+Noelle,DEF,True,0,0.0
+Noelle,DEF,True,1,0.0
+Noelle,DEF,True,2,7.5
+Noelle,DEF,True,3,15.0
+Noelle,DEF,True,4,15.0
+Noelle,DEF,True,5,22.5
+Noelle,DEF,True,6,30.0
+Qiqi,Healing Bonus,True,0,0.0
+Qiqi,Healing Bonus,True,1,0.0
+Qiqi,Healing Bonus,True,2,5.5
+Qiqi,Healing Bonus,True,3,11.1
+Qiqi,Healing Bonus,True,4,11.1
+Qiqi,Healing Bonus,True,5,16.6
+Qiqi,Healing Bonus,True,6,22.2
+Raiden Shogun,Energy Recharge,True,0,0.0
+Raiden Shogun,Energy Recharge,True,1,0.0
+Raiden Shogun,Energy Recharge,True,2,8.0
+Raiden Shogun,Energy Recharge,True,3,16.0
+Raiden Shogun,Energy Recharge,True,4,16.0
+Raiden Shogun,Energy Recharge,True,5,24.0
+Raiden Shogun,Energy Recharge,True,6,32.0
+Razor,Physical DMG Bonus,True,0,0.0
+Razor,Physical DMG Bonus,True,1,0.0
+Razor,Physical DMG Bonus,True,2,7.5
+Razor,Physical DMG Bonus,True,3,15.0
+Razor,Physical DMG Bonus,True,4,15.0
+Razor,Physical DMG Bonus,True,5,22.5
+Razor,Physical DMG Bonus,True,6,30.0
+Rosaria,ATK,True,0,0.0
+Rosaria,ATK,True,1,0.0
+Rosaria,ATK,True,2,6.0
+Rosaria,ATK,True,3,12.0
+Rosaria,ATK,True,4,12.0
+Rosaria,ATK,True,5,18.0
+Rosaria,ATK,True,6,24.0
+Sangonomiya Kokomi,Hydro DMG Bonus,True,0,0.0
+Sangonomiya Kokomi,Hydro DMG Bonus,True,1,0.0
+Sangonomiya Kokomi,Hydro DMG Bonus,True,2,7.2
+Sangonomiya Kokomi,Hydro DMG Bonus,True,3,14.4
+Sangonomiya Kokomi,Hydro DMG Bonus,True,4,14.4
+Sangonomiya Kokomi,Hydro DMG Bonus,True,5,21.6
+Sangonomiya Kokomi,Hydro DMG Bonus,True,6,28.8
+Sayu,Elemental Mastery,False,0,0.0
+Sayu,Elemental Mastery,False,1,0.0
+Sayu,Elemental Mastery,False,2,24.0
+Sayu,Elemental Mastery,False,3,48.0
+Sayu,Elemental Mastery,False,4,48.0
+Sayu,Elemental Mastery,False,5,72.0
+Sayu,Elemental Mastery,False,6,96.0
+Shenhe,ATK,True,0,0.0
+Shenhe,ATK,True,1,0.0
+Shenhe,ATK,True,2,7.2
+Shenhe,ATK,True,3,14.4
+Shenhe,ATK,True,4,14.4
+Shenhe,ATK,True,5,21.6
+Shenhe,ATK,True,6,28.8
+Shikanoin Heizou,Anemo DMG Bonus,True,0,0.0
+Shikanoin Heizou,Anemo DMG Bonus,True,1,0.0
+Shikanoin Heizou,Anemo DMG Bonus,True,2,6.0
+Shikanoin Heizou,Anemo DMG Bonus,True,3,12.0
+Shikanoin Heizou,Anemo DMG Bonus,True,4,12.0
+Shikanoin Heizou,Anemo DMG Bonus,True,5,18.0
+Shikanoin Heizou,Anemo DMG Bonus,True,6,24.0
+Sucrose,Anemo DMG Bonus,True,0,0.0
+Sucrose,Anemo DMG Bonus,True,1,0.0
+Sucrose,Anemo DMG Bonus,True,2,6.0
+Sucrose,Anemo DMG Bonus,True,3,12.0
+Sucrose,Anemo DMG Bonus,True,4,12.0
+Sucrose,Anemo DMG Bonus,True,5,18.0
+Sucrose,Anemo DMG Bonus,True,6,24.0
+Tartaglia,Hydro DMG Bonus,True,0,0.0
+Tartaglia,Hydro DMG Bonus,True,1,0.0
+Tartaglia,Hydro DMG Bonus,True,2,7.2
+Tartaglia,Hydro DMG Bonus,True,3,14.4
+Tartaglia,Hydro DMG Bonus,True,4,14.4
+Tartaglia,Hydro DMG Bonus,True,5,21.6
+Tartaglia,Hydro DMG Bonus,True,6,28.8
+Thoma,ATK,True,0,0.0
+Thoma,ATK,True,1,0.0
+Thoma,ATK,True,2,6.0
+Thoma,ATK,True,3,12.0
+Thoma,ATK,True,4,12.0
+Thoma,ATK,True,5,18.0
+Thoma,ATK,True,6,24.0
+Tighnari,Dendro DMG Bonus,True,0,0.0
+Tighnari,Dendro DMG Bonus,True,1,0.0
+Tighnari,Dendro DMG Bonus,True,2,7.2
+Tighnari,Dendro DMG Bonus,True,3,14.4
+Tighnari,Dendro DMG Bonus,True,4,14.4
+Tighnari,Dendro DMG Bonus,True,5,21.6
+Tighnari,Dendro DMG Bonus,True,6,28.8
+"Traveler (Aether, Anemo)",ATK,True,0,0.0
+"Traveler (Aether, Anemo)",ATK,True,1,0.0
+"Traveler (Aether, Anemo)",ATK,True,2,6.0
+"Traveler (Aether, Anemo)",ATK,True,3,12.0
+"Traveler (Aether, Anemo)",ATK,True,4,12.0
+"Traveler (Aether, Anemo)",ATK,True,5,18.0
+"Traveler (Aether, Anemo)",ATK,True,6,24.0
+"Traveler (Aether, Dendro)",ATK,True,0,0.0
+"Traveler (Aether, Dendro)",ATK,True,1,0.0
+"Traveler (Aether, Dendro)",ATK,True,2,6.0
+"Traveler (Aether, Dendro)",ATK,True,3,12.0
+"Traveler (Aether, Dendro)",ATK,True,4,12.0
+"Traveler (Aether, Dendro)",ATK,True,5,18.0
+"Traveler (Aether, Dendro)",ATK,True,6,24.0
+"Traveler (Aether, Electro)",ATK,True,0,0.0
+"Traveler (Aether, Electro)",ATK,True,1,0.0
+"Traveler (Aether, Electro)",ATK,True,2,6.0
+"Traveler (Aether, Electro)",ATK,True,3,12.0
+"Traveler (Aether, Electro)",ATK,True,4,12.0
+"Traveler (Aether, Electro)",ATK,True,5,18.0
+"Traveler (Aether, Electro)",ATK,True,6,24.0
+"Traveler (Aether, Geo)",ATK,True,0,0.0
+"Traveler (Aether, Geo)",ATK,True,1,0.0
+"Traveler (Aether, Geo)",ATK,True,2,6.0
+"Traveler (Aether, Geo)",ATK,True,3,12.0
+"Traveler (Aether, Geo)",ATK,True,4,12.0
+"Traveler (Aether, Geo)",ATK,True,5,18.0
+"Traveler (Aether, Geo)",ATK,True,6,24.0
+"Traveler (Aether, Hydro)",ATK,True,0,0.0
+"Traveler (Aether, Hydro)",ATK,True,1,0.0
+"Traveler (Aether, Hydro)",ATK,True,2,6.0
+"Traveler (Aether, Hydro)",ATK,True,3,12.0
+"Traveler (Aether, Hydro)",ATK,True,4,12.0
+"Traveler (Aether, Hydro)",ATK,True,5,18.0
+"Traveler (Aether, Hydro)",ATK,True,6,24.0
+"Traveler (Lumine, Anemo)",ATK,True,0,0.0
+"Traveler (Lumine, Anemo)",ATK,True,1,0.0
+"Traveler (Lumine, Anemo)",ATK,True,2,6.0
+"Traveler (Lumine, Anemo)",ATK,True,3,12.0
+"Traveler (Lumine, Anemo)",ATK,True,4,12.0
+"Traveler (Lumine, Anemo)",ATK,True,5,18.0
+"Traveler (Lumine, Anemo)",ATK,True,6,24.0
+"Traveler (Lumine, Dendro)",ATK,True,0,0.0
+"Traveler (Lumine, Dendro)",ATK,True,1,0.0
+"Traveler (Lumine, Dendro)",ATK,True,2,6.0
+"Traveler (Lumine, Dendro)",ATK,True,3,12.0
+"Traveler (Lumine, Dendro)",ATK,True,4,12.0
+"Traveler (Lumine, Dendro)",ATK,True,5,18.0
+"Traveler (Lumine, Dendro)",ATK,True,6,24.0
+"Traveler (Lumine, Electro)",ATK,True,0,0.0
+"Traveler (Lumine, Electro)",ATK,True,1,0.0
+"Traveler (Lumine, Electro)",ATK,True,2,6.0
+"Traveler (Lumine, Electro)",ATK,True,3,12.0
+"Traveler (Lumine, Electro)",ATK,True,4,12.0
+"Traveler (Lumine, Electro)",ATK,True,5,18.0
+"Traveler (Lumine, Electro)",ATK,True,6,24.0
+"Traveler (Lumine, Geo)",ATK,True,0,0.0
+"Traveler (Lumine, Geo)",ATK,True,1,0.0
+"Traveler (Lumine, Geo)",ATK,True,2,6.0
+"Traveler (Lumine, Geo)",ATK,True,3,12.0
+"Traveler (Lumine, Geo)",ATK,True,4,12.0
+"Traveler (Lumine, Geo)",ATK,True,5,18.0
+"Traveler (Lumine, Geo)",ATK,True,6,24.0
+"Traveler (Lumine, Hydro)",ATK,True,0,0.0
+"Traveler (Lumine, Hydro)",ATK,True,1,0.0
+"Traveler (Lumine, Hydro)",ATK,True,2,6.0
+"Traveler (Lumine, Hydro)",ATK,True,3,12.0
+"Traveler (Lumine, Hydro)",ATK,True,4,12.0
+"Traveler (Lumine, Hydro)",ATK,True,5,18.0
+"Traveler (Lumine, Hydro)",ATK,True,6,24.0
+Venti,Energy Recharge,True,0,0.0
+Venti,Energy Recharge,True,1,0.0
+Venti,Energy Recharge,True,2,8.0
+Venti,Energy Recharge,True,3,16.0
+Venti,Energy Recharge,True,4,16.0
+Venti,Energy Recharge,True,5,24.0
+Venti,Energy Recharge,True,6,32.0
+Wanderer,CRIT Rate,True,0,0.0
+Wanderer,CRIT Rate,True,1,0.0
+Wanderer,CRIT Rate,True,2,4.8
+Wanderer,CRIT Rate,True,3,9.6
+Wanderer,CRIT Rate,True,4,9.6
+Wanderer,CRIT Rate,True,5,14.4
+Wanderer,CRIT Rate,True,6,19.2
+Wriothesley,CRIT DMG,True,0,0.0
+Wriothesley,CRIT DMG,True,1,0.0
+Wriothesley,CRIT DMG,True,2,9.6
+Wriothesley,CRIT DMG,True,3,19.2
+Wriothesley,CRIT DMG,True,4,19.2
+Wriothesley,CRIT DMG,True,5,28.8
+Wriothesley,CRIT DMG,True,6,38.4
+Xiangling,Elemental Mastery,False,0,0.0
+Xiangling,Elemental Mastery,False,1,0.0
+Xiangling,Elemental Mastery,False,2,24.0
+Xiangling,Elemental Mastery,False,3,48.0
+Xiangling,Elemental Mastery,False,4,48.0
+Xiangling,Elemental Mastery,False,5,72.0
+Xiangling,Elemental Mastery,False,6,96.0
+Xiao,CRIT Rate,True,0,0.0
+Xiao,CRIT Rate,True,1,0.0
+Xiao,CRIT Rate,True,2,4.8
+Xiao,CRIT Rate,True,3,9.6
+Xiao,CRIT Rate,True,4,9.6
+Xiao,CRIT Rate,True,5,14.4
+Xiao,CRIT Rate,True,6,19.2
+Xingqiu,ATK,True,0,0.0
+Xingqiu,ATK,True,1,0.0
+Xingqiu,ATK,True,2,6.0
+Xingqiu,ATK,True,3,12.0
+Xingqiu,ATK,True,4,12.0
+Xingqiu,ATK,True,5,18.0
+Xingqiu,ATK,True,6,24.0
+Xinyan,ATK,True,0,0.0
+Xinyan,ATK,True,1,0.0
+Xinyan,ATK,True,2,6.0
+Xinyan,ATK,True,3,12.0
+Xinyan,ATK,True,4,12.0
+Xinyan,ATK,True,5,18.0
+Xinyan,ATK,True,6,24.0
+Yae Miko,CRIT Rate,True,0,0.0
+Yae Miko,CRIT Rate,True,1,0.0
+Yae Miko,CRIT Rate,True,2,4.8
+Yae Miko,CRIT Rate,True,3,9.6
+Yae Miko,CRIT Rate,True,4,9.6
+Yae Miko,CRIT Rate,True,5,14.4
+Yae Miko,CRIT Rate,True,6,19.2
+Yanfei,Pyro DMG Bonus,True,0,0.0
+Yanfei,Pyro DMG Bonus,True,1,0.0
+Yanfei,Pyro DMG Bonus,True,2,6.0
+Yanfei,Pyro DMG Bonus,True,3,12.0
+Yanfei,Pyro DMG Bonus,True,4,12.0
+Yanfei,Pyro DMG Bonus,True,5,18.0
+Yanfei,Pyro DMG Bonus,True,6,24.0
+Yaoyao,HP,True,0,0.0
+Yaoyao,HP,True,1,0.0
+Yaoyao,HP,True,2,6.0
+Yaoyao,HP,True,3,12.0
+Yaoyao,HP,True,4,12.0
+Yaoyao,HP,True,5,18.0
+Yaoyao,HP,True,6,24.0
+Yelan,CRIT Rate,True,0,0.0
+Yelan,CRIT Rate,True,1,0.0
+Yelan,CRIT Rate,True,2,4.8
+Yelan,CRIT Rate,True,3,9.6
+Yelan,CRIT Rate,True,4,9.6
+Yelan,CRIT Rate,True,5,14.4
+Yelan,CRIT Rate,True,6,19.2
+Yoimiya,CRIT Rate,True,0,0.0
+Yoimiya,CRIT Rate,True,1,0.0
+Yoimiya,CRIT Rate,True,2,4.8
+Yoimiya,CRIT Rate,True,3,9.6
+Yoimiya,CRIT Rate,True,4,9.6
+Yoimiya,CRIT Rate,True,5,14.4
+Yoimiya,CRIT Rate,True,6,19.2
+Yun Jin,Energy Recharge,True,0,0.0
+Yun Jin,Energy Recharge,True,1,0.0
+Yun Jin,Energy Recharge,True,2,6.7
+Yun Jin,Energy Recharge,True,3,13.3
+Yun Jin,Energy Recharge,True,4,13.3
+Yun Jin,Energy Recharge,True,5,20.0
+Yun Jin,Energy Recharge,True,6,26.7
+Zhongli,Geo DMG Bonus,True,0,0.0
+Zhongli,Geo DMG Bonus,True,1,0.0
+Zhongli,Geo DMG Bonus,True,2,7.2
+Zhongli,Geo DMG Bonus,True,3,14.4
+Zhongli,Geo DMG Bonus,True,4,14.4
+Zhongli,Geo DMG Bonus,True,5,21.6
+Zhongli,Geo DMG Bonus,True,6,28.8

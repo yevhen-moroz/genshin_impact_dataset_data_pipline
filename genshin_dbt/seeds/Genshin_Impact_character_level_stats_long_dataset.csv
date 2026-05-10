@@ -1,0 +1,3529 @@
+character_name,value,stat_type,level_range,level_start
+Albedo,20,atk,1_20,1
+Albedo,68,atk,20_40,20
+Albedo,51,atk,20_20,20
+Albedo,113,atk,40_50,40
+Albedo,101,atk,40_40,40
+Albedo,146,atk,50_60,50
+Albedo,130,atk,50_50,50
+Albedo,175,atk,60_70,60
+Albedo,163,atk,60_60,60
+Albedo,204,atk,70_80,70
+Albedo,192,atk,70_70,70
+Albedo,233,atk,80_90,80
+Albedo,222,atk,80_80,80
+Albedo,251,atk,90_90,90
+Albedo,68,def,1_20,1
+Albedo,235,def,20_40,20
+Albedo,177,def,20_20,20
+Albedo,394,def,40_50,40
+Albedo,352,def,40_40,40
+Albedo,508,def,50_60,50
+Albedo,453,def,50_50,50
+Albedo,610,def,60_70,60
+Albedo,568,def,60_60,60
+Albedo,712,def,70_80,70
+Albedo,670,def,70_70,70
+Albedo,815,def,80_90,80
+Albedo,773,def,80_80,80
+Albedo,876,def,90_90,90
+Albedo,1030,hp,1_20,1
+Albedo,3554,hp,20_40,20
+Albedo,2671,hp,20_20,20
+Albedo,5944,hp,40_50,40
+Albedo,5317,hp,40_40,40
+Albedo,7675,hp,50_60,50
+Albedo,6839,hp,50_50,50
+Albedo,9207,hp,60_70,60
+Albedo,8579,hp,60_60,60
+Albedo,10746,hp,70_80,70
+Albedo,10119,hp,70_70,70
+Albedo,12296,hp,80_90,80
+Albedo,11669,hp,80_80,80
+Albedo,13226,hp,90_90,90
+Alhaitham,24,atk,1_20,1
+Alhaitham,84,atk,20_40,20
+Alhaitham,63,atk,20_20,20
+Alhaitham,140,atk,40_50,40
+Alhaitham,125,atk,40_40,40
+Alhaitham,181,atk,50_60,50
+Alhaitham,162,atk,50_50,50
+Alhaitham,218,atk,60_70,60
+Alhaitham,203,atk,60_60,60
+Alhaitham,254,atk,70_80,70
+Alhaitham,239,atk,70_70,70
+Alhaitham,291,atk,80_90,80
+Alhaitham,276,atk,80_80,80
+Alhaitham,313,atk,90_90,90
+Alhaitham,60,def,1_20,1
+Alhaitham,210,def,20_40,20
+Alhaitham,157,def,20_20,20
+Alhaitham,351,def,40_50,40
+Alhaitham,314,def,40_40,40
+Alhaitham,453,def,50_60,50
+Alhaitham,404,def,50_50,50
+Alhaitham,544,def,60_70,60
+Alhaitham,507,def,60_60,60
+Alhaitham,635,def,70_80,70
+Alhaitham,598,def,70_70,70
+Alhaitham,726,def,80_90,80
+Alhaitham,689,def,80_80,80
+Alhaitham,781,def,90_90,90
+Alhaitham,1039,hp,1_20,1
+Alhaitham,3586,hp,20_40,20
+Alhaitham,2695,hp,20_20,20
+Alhaitham,5999,hp,40_50,40
+Alhaitham,5366,hp,40_40,40
+Alhaitham,7746,hp,50_60,50
+Alhaitham,6902,hp,50_50,50
+Alhaitham,9291,hp,60_70,60
+Alhaitham,8658,hp,60_60,60
+Alhaitham,10845,hp,70_80,70
+Alhaitham,10212,hp,70_70,70
+Alhaitham,12409,hp,80_90,80
+Alhaitham,11776,hp,80_80,80
+Alhaitham,13348,hp,90_90,90
+Aloy,18,atk,1_20,1
+Aloy,63,atk,20_40,20
+Aloy,47,atk,20_20,20
+Aloy,105,atk,40_50,40
+Aloy,94,atk,40_40,40
+Aloy,136,atk,50_60,50
+Aloy,121,atk,50_50,50
+Aloy,163,atk,60_70,60
+Aloy,152,atk,60_60,60
+Aloy,190,atk,70_80,70
+Aloy,179,atk,70_70,70
+Aloy,217,atk,80_90,80
+Aloy,206,atk,80_80,80
+Aloy,234,atk,90_90,90
+Aloy,53,def,1_20,1
+Aloy,182,def,20_40,20
+Aloy,137,def,20_20,20
+Aloy,304,def,40_50,40
+Aloy,272,def,40_40,40
+Aloy,393,def,50_60,50
+Aloy,350,def,50_50,50
+Aloy,471,def,60_70,60
+Aloy,439,def,60_60,60
+Aloy,550,def,70_80,70
+Aloy,517,def,70_70,70
+Aloy,629,def,80_90,80
+Aloy,597,def,80_80,80
+Aloy,676,def,90_90,90
+Aloy,848,hp,1_20,1
+Aloy,2928,hp,20_40,20
+Aloy,2201,hp,20_20,20
+Aloy,4899,hp,40_50,40
+Aloy,4382,hp,40_40,40
+Aloy,6325,hp,50_60,50
+Aloy,5636,hp,50_50,50
+Aloy,7587,hp,60_70,60
+Aloy,7070,hp,60_60,60
+Aloy,8856,hp,70_80,70
+Aloy,8339,hp,70_70,70
+Aloy,10133,hp,80_90,80
+Aloy,9616,hp,80_80,80
+Aloy,10899,hp,90_90,90
+Amber,19,atk,1_20,1
+Amber,62,atk,20_40,20
+Amber,48,atk,20_20,20
+Amber,103,atk,40_50,40
+Amber,93,atk,40_40,40
+Amber,131,atk,50_60,50
+Amber,118,atk,50_50,50
+Amber,157,atk,60_70,60
+Amber,147,atk,60_60,60
+Amber,182,atk,70_80,70
+Amber,172,atk,70_70,70
+Amber,208,atk,80_90,80
+Amber,198,atk,80_80,80
+Amber,223,atk,90_90,90
+Amber,50,def,1_20,1
+Amber,167,def,20_40,20
+Amber,129,def,20_20,20
+Amber,277,def,40_50,40
+Amber,250,def,40_40,40
+Amber,354,def,50_60,50
+Amber,318,def,50_50,50
+Amber,422,def,60_70,60
+Amber,396,def,60_60,60
+Amber,491,def,70_80,70
+Amber,464,def,70_70,70
+Amber,559,def,80_90,80
+Amber,532,def,80_80,80
+Amber,601,def,90_90,90
+Amber,793,hp,1_20,1
+Amber,2630,hp,20_40,20
+Amber,2038,hp,20_20,20
+Amber,4361,hp,40_50,40
+Amber,3940,hp,40_40,40
+Amber,5578,hp,50_60,50
+Amber,5016,hp,50_50,50
+Amber,6654,hp,60_70,60
+Amber,6233,hp,60_60,60
+Amber,7730,hp,70_80,70
+Amber,7309,hp,70_70,70
+Amber,8806,hp,80_90,80
+Amber,8385,hp,80_80,80
+Amber,9461,hp,90_90,90
+Arataki Itto,18,atk,1_20,1
+Arataki Itto,61,atk,20_40,20
+Arataki Itto,46,atk,20_20,20
+Arataki Itto,102,atk,40_50,40
+Arataki Itto,91,atk,40_40,40
+Arataki Itto,132,atk,50_60,50
+Arataki Itto,117,atk,50_50,50
+Arataki Itto,158,atk,60_70,60
+Arataki Itto,147,atk,60_60,60
+Arataki Itto,185,atk,70_80,70
+Arataki Itto,174,atk,70_70,70
+Arataki Itto,211,atk,80_90,80
+Arataki Itto,199,atk,80_80,80
+Arataki Itto,227,atk,90_90,90
+Arataki Itto,75,def,1_20,1
+Arataki Itto,258,def,20_40,20
+Arataki Itto,194,def,20_20,20
+Arataki Itto,431,def,40_50,40
+Arataki Itto,386,def,40_40,40
+Arataki Itto,557,def,50_60,50
+Arataki Itto,496,def,50_50,50
+Arataki Itto,668,def,60_70,60
+Arataki Itto,622,def,60_60,60
+Arataki Itto,779,def,70_80,70
+Arataki Itto,734,def,70_70,70
+Arataki Itto,892,def,80_90,80
+Arataki Itto,846,def,80_80,80
+Arataki Itto,959,def,90_90,90
+Arataki Itto,1001,hp,1_20,1
+Arataki Itto,3455,hp,20_40,20
+Arataki Itto,2597,hp,20_20,20
+Arataki Itto,5779,hp,40_50,40
+Arataki Itto,5170,hp,40_40,40
+Arataki Itto,7462,hp,50_60,50
+Arataki Itto,6649,hp,50_50,50
+Arataki Itto,8951,hp,60_70,60
+Arataki Itto,8341,hp,60_60,60
+Arataki Itto,10448,hp,70_80,70
+Arataki Itto,9838,hp,70_70,70
+Arataki Itto,11954,hp,80_90,80
+Arataki Itto,11345,hp,80_80,80
+Arataki Itto,12858,hp,90_90,90
+Baizhu,14,atk,1_20,1
+Baizhu,51,atk,20_40,20
+Baizhu,38,atk,20_20,20
+Baizhu,86,atk,40_50,40
+Baizhu,77,atk,40_40,40
+Baizhu,111,atk,50_60,50
+Baizhu,99,atk,50_50,50
+Baizhu,134,atk,60_70,60
+Baizhu,124,atk,60_60,60
+Baizhu,156,atk,70_80,70
+Baizhu,147,atk,70_70,70
+Baizhu,179,atk,80_90,80
+Baizhu,169,atk,80_80,80
+Baizhu,192,atk,90_90,90
+Baizhu,38,def,1_20,1
+Baizhu,134,def,20_40,20
+Baizhu,100,def,20_20,20
+Baizhu,224,def,40_50,40
+Baizhu,200,def,40_40,40
+Baizhu,289,def,50_60,50
+Baizhu,258,def,50_50,50
+Baizhu,347,def,60_70,60
+Baizhu,324,def,60_60,60
+Baizhu,405,def,70_80,70
+Baizhu,382,def,70_70,70
+Baizhu,464,def,80_90,80
+Baizhu,440,def,80_80,80
+Baizhu,499,def,90_90,90
+Baizhu,1039,hp,1_20,1
+Baizhu,3586,hp,20_40,20
+Baizhu,2695,hp,20_20,20
+Baizhu,5999,hp,40_50,40
+Baizhu,5366,hp,40_40,40
+Baizhu,7746,hp,50_60,50
+Baizhu,6902,hp,50_50,50
+Baizhu,9291,hp,60_70,60
+Baizhu,8658,hp,60_60,60
+Baizhu,10845,hp,70_80,70
+Baizhu,10212,hp,70_70,70
+Baizhu,12409,hp,80_90,80
+Baizhu,11776,hp,80_80,80
+Baizhu,13348,hp,90_90,90
+Barbara,13,atk,1_20,1
+Barbara,44,atk,20_40,20
+Barbara,34,atk,20_20,20
+Barbara,73,atk,40_50,40
+Barbara,66,atk,40_40,40
+Barbara,94,atk,50_60,50
+Barbara,84,atk,50_50,50
+Barbara,112,atk,60_70,60
+Barbara,105,atk,60_60,60
+Barbara,130,atk,70_80,70
+Barbara,123,atk,70_70,70
+Barbara,148,atk,80_90,80
+Barbara,141,atk,80_80,80
+Barbara,159,atk,90_90,90
+Barbara,56,def,1_20,1
+Barbara,186,def,20_40,20
+Barbara,144,def,20_20,20
+Barbara,308,def,40_50,40
+Barbara,279,def,40_40,40
+Barbara,394,def,50_60,50
+Barbara,355,def,50_50,50
+Barbara,470,def,60_70,60
+Barbara,441,def,60_60,60
+Barbara,546,def,70_80,70
+Barbara,517,def,70_70,70
+Barbara,623,def,80_90,80
+Barbara,593,def,80_80,80
+Barbara,669,def,90_90,90
+Barbara,821,hp,1_20,1
+Barbara,2721,hp,20_40,20
+Barbara,2108,hp,20_20,20
+Barbara,4512,hp,40_50,40
+Barbara,4076,hp,40_40,40
+Barbara,5770,hp,50_60,50
+Barbara,5189,hp,50_50,50
+Barbara,6884,hp,60_70,60
+Barbara,6448,hp,60_60,60
+Barbara,7996,hp,70_80,70
+Barbara,7561,hp,70_70,70
+Barbara,9110,hp,80_90,80
+Barbara,8674,hp,80_80,80
+Barbara,9787,hp,90_90,90
+Beidou,19,atk,1_20,1
+Beidou,63,atk,20_40,20
+Beidou,48,atk,20_20,20
+Beidou,104,atk,40_50,40
+Beidou,94,atk,40_40,40
+Beidou,133,atk,50_60,50
+Beidou,119,atk,50_50,50
+Beidou,158,atk,60_70,60
+Beidou,148,atk,60_60,60
+Beidou,184,atk,70_80,70
+Beidou,174,atk,70_70,70
+Beidou,210,atk,80_90,80
+Beidou,200,atk,80_80,80
+Beidou,225,atk,90_90,90
+Beidou,54,def,1_20,1
+Beidou,180,def,20_40,20
+Beidou,140,def,20_20,20
+Beidou,299,def,40_50,40
+Beidou,270,def,40_40,40
+Beidou,382,def,50_60,50
+Beidou,344,def,50_50,50
+Beidou,456,def,60_70,60
+Beidou,427,def,60_60,60
+Beidou,530,def,70_80,70
+Beidou,501,def,70_70,70
+Beidou,603,def,80_90,80
+Beidou,575,def,80_80,80
+Beidou,648,def,90_90,90
+Beidou,1094,hp,1_20,1
+Beidou,3628,hp,20_40,20
+Beidou,2811,hp,20_20,20
+Beidou,6015,hp,40_50,40
+Beidou,5435,hp,40_40,40
+Beidou,7694,hp,50_60,50
+Beidou,6919,hp,50_50,50
+Beidou,9178,hp,60_70,60
+Beidou,8597,hp,60_60,60
+Beidou,10662,hp,70_80,70
+Beidou,10081,hp,70_70,70
+Beidou,12146,hp,80_90,80
+Beidou,11565,hp,80_80,80
+Beidou,13050,hp,90_90,90
+Bennett,16,atk,1_20,1
+Bennett,53,atk,20_40,20
+Bennett,41,atk,20_20,20
+Bennett,88,atk,40_50,40
+Bennett,80,atk,40_40,40
+Bennett,113,atk,50_60,50
+Bennett,101,atk,50_50,50
+Bennett,134,atk,60_70,60
+Bennett,126,atk,60_60,60
+Bennett,156,atk,70_80,70
+Bennett,148,atk,70_70,70
+Bennett,178,atk,80_90,80
+Bennett,169,atk,80_80,80
+Bennett,191,atk,90_90,90
+Bennett,65,def,1_20,1
+Bennett,214,def,20_40,20
+Bennett,166,def,20_20,20
+Bennett,356,def,40_50,40
+Bennett,321,def,40_40,40
+Bennett,455,def,50_60,50
+Bennett,409,def,50_50,50
+Bennett,542,def,60_70,60
+Bennett,508,def,60_60,60
+Bennett,630,def,70_80,70
+Bennett,596,def,70_70,70
+Bennett,718,def,80_90,80
+Bennett,684,def,80_80,80
+Bennett,771,def,90_90,90
+Bennett,1039,hp,1_20,1
+Bennett,3447,hp,20_40,20
+Bennett,2670,hp,20_20,20
+Bennett,5715,hp,40_50,40
+Bennett,5163,hp,40_40,40
+Bennett,7309,hp,50_60,50
+Bennett,6573,hp,50_50,50
+Bennett,8719,hp,60_70,60
+Bennett,8168,hp,60_60,60
+Bennett,10129,hp,70_80,70
+Bennett,9577,hp,70_70,70
+Bennett,11539,hp,80_90,80
+Bennett,10987,hp,80_80,80
+Bennett,12397,hp,90_90,90
+Candace,17,atk,1_20,1
+Candace,59,atk,20_40,20
+Candace,45,atk,20_20,20
+Candace,97,atk,40_50,40
+Candace,88,atk,40_40,40
+Candace,125,atk,50_60,50
+Candace,112,atk,50_50,50
+Candace,149,atk,60_70,60
+Candace,139,atk,60_60,60
+Candace,173,atk,70_80,70
+Candace,164,atk,70_70,70
+Candace,197,atk,80_90,80
+Candace,188,atk,80_80,80
+Candace,212,atk,90_90,90
+Candace,57,def,1_20,1
+Candace,189,def,20_40,20
+Candace,147,def,20_20,20
+Candace,314,def,40_50,40
+Candace,284,def,40_40,40
+Candace,402,def,50_60,50
+Candace,361,def,50_50,50
+Candace,480,def,60_70,60
+Candace,449,def,60_60,60
+Candace,557,def,70_80,70
+Candace,527,def,70_70,70
+Candace,635,def,80_90,80
+Candace,604,def,80_80,80
+Candace,682,def,90_90,90
+Candace,911,hp,1_20,1
+Candace,3023,hp,20_40,20
+Candace,2342,hp,20_20,20
+Candace,5012,hp,40_50,40
+Candace,4528,hp,40_40,40
+Candace,6411,hp,50_60,50
+Candace,5766,hp,50_50,50
+Candace,7648,hp,60_70,60
+Candace,7164,hp,60_60,60
+Candace,8884,hp,70_80,70
+Candace,8400,hp,70_70,70
+Candace,10121,hp,80_90,80
+Candace,9637,hp,80_80,80
+Candace,10874,hp,90_90,90
+Charlotte,14,atk,1_20,1
+Charlotte,48,atk,20_40,20
+Charlotte,37,atk,20_20,20
+Charlotte,79,atk,40_50,40
+Charlotte,72,atk,40_40,40
+Charlotte,102,atk,50_60,50
+Charlotte,91,atk,50_50,50
+Charlotte,121,atk,60_70,60
+Charlotte,114,atk,60_60,60
+Charlotte,141,atk,70_80,70
+Charlotte,133,atk,70_70,70
+Charlotte,161,atk,80_90,80
+Charlotte,153,atk,80_80,80
+Charlotte,173,atk,90_90,90
+Charlotte,45,def,1_20,1
+Charlotte,151,def,20_40,20
+Charlotte,117,def,20_20,20
+Charlotte,251,def,40_50,40
+Charlotte,227,def,40_40,40
+Charlotte,321,def,50_60,50
+Charlotte,289,def,50_50,50
+Charlotte,384,def,60_70,60
+Charlotte,359,def,60_60,60
+Charlotte,446,def,70_80,70
+Charlotte,421,def,70_70,70
+Charlotte,508,def,80_90,80
+Charlotte,483,def,80_80,80
+Charlotte,546,def,90_90,90
+Charlotte,902,hp,1_20,1
+Charlotte,2993,hp,20_40,20
+Charlotte,2318,hp,20_20,20
+Charlotte,4962,hp,40_50,40
+Charlotte,4483,hp,40_40,40
+Charlotte,6347,hp,50_60,50
+Charlotte,5708,hp,50_50,50
+Charlotte,7571,hp,60_70,60
+Charlotte,7092,hp,60_60,60
+Charlotte,8795,hp,70_80,70
+Charlotte,8316,hp,70_70,70
+Charlotte,10020,hp,80_90,80
+Charlotte,9541,hp,80_80,80
+Charlotte,10766,hp,90_90,90
+Chongyun,19,atk,1_20,1
+Chongyun,62,atk,20_40,20
+Chongyun,48,atk,20_20,20
+Chongyun,103,atk,40_50,40
+Chongyun,93,atk,40_40,40
+Chongyun,131,atk,50_60,50
+Chongyun,118,atk,50_50,50
+Chongyun,157,atk,60_70,60
+Chongyun,147,atk,60_60,60
+Chongyun,182,atk,70_80,70
+Chongyun,172,atk,70_70,70
+Chongyun,208,atk,80_90,80
+Chongyun,198,atk,80_80,80
+Chongyun,223,atk,90_90,90
+Chongyun,54,def,1_20,1
+Chongyun,180,def,20_40,20
+Chongyun,140,def,20_20,20
+Chongyun,299,def,40_50,40
+Chongyun,270,def,40_40,40
+Chongyun,382,def,50_60,50
+Chongyun,344,def,50_50,50
+Chongyun,456,def,60_70,60
+Chongyun,427,def,60_60,60
+Chongyun,530,def,70_80,70
+Chongyun,501,def,70_70,70
+Chongyun,603,def,80_90,80
+Chongyun,575,def,80_80,80
+Chongyun,648,def,90_90,90
+Chongyun,1003,hp,1_20,1
+Chongyun,3054,hp,20_40,20
+Chongyun,2366,hp,20_20,20
+Chongyun,5063,hp,40_50,40
+Chongyun,4574,hp,40_40,40
+Chongyun,6475,hp,50_60,50
+Chongyun,5824,hp,50_50,50
+Chongyun,7725,hp,60_70,60
+Chongyun,7236,hp,60_60,60
+Chongyun,8974,hp,70_80,70
+Chongyun,8485,hp,70_70,70
+Chongyun,10223,hp,80_90,80
+Chongyun,9734,hp,80_80,80
+Chongyun,10984,hp,90_90,90
+Collei,16,atk,1_20,1
+Collei,55,atk,20_40,20
+Collei,43,atk,20_20,20
+Collei,92,atk,40_50,40
+Collei,83,atk,40_40,40
+Collei,117,atk,50_60,50
+Collei,105,atk,50_50,50
+Collei,140,atk,60_70,60
+Collei,131,atk,60_60,60
+Collei,163,atk,70_80,70
+Collei,154,atk,70_70,70
+Collei,185,atk,80_90,80
+Collei,176,atk,80_80,80
+Collei,199,atk,90_90,90
+Collei,50,def,1_20,1
+Collei,166,def,20_40,20
+Collei,129,def,20_20,20
+Collei,276,def,40_50,40
+Collei,250,def,40_40,40
+Collei,354,def,50_60,50
+Collei,318,def,50_50,50
+Collei,422,def,60_70,60
+Collei,395,def,60_60,60
+Collei,490,def,70_80,70
+Collei,463,def,70_70,70
+Collei,559,def,80_90,80
+Collei,532,def,80_80,80
+Collei,600,def,90_90,90
+Collei,820,hp,1_20,1
+Collei,2721,hp,20_40,20
+Collei,2108,hp,20_20,20
+Collei,4511,hp,40_50,40
+Collei,4076,hp,40_40,40
+Collei,5770,hp,50_60,50
+Collei,5189,hp,50_50,50
+Collei,6883,hp,60_70,60
+Collei,6448,hp,60_60,60
+Collei,7996,hp,70_80,70
+Collei,7560,hp,70_70,70
+Collei,9109,hp,80_90,80
+Collei,8674,hp,80_80,80
+Collei,9787,hp,90_90,90
+Cyno,21,atk,1_20,1
+Cyno,85,atk,20_40,20
+Cyno,64,atk,20_20,20
+Cyno,142,atk,40_50,40
+Cyno,127,atk,40_40,40
+Cyno,184,atk,50_60,50
+Cyno,164,atk,50_50,50
+Cyno,221,atk,60_70,60
+Cyno,206,atk,60_60,60
+Cyno,258,atk,70_80,70
+Cyno,243,atk,70_70,70
+Cyno,295,atk,80_90,80
+Cyno,280,atk,80_80,80
+Cyno,318,atk,90_90,90
+Cyno,66,def,1_20,1
+Cyno,230,def,20_40,20
+Cyno,173,def,20_20,20
+Cyno,386,def,40_50,40
+Cyno,345,def,40_40,40
+Cyno,498,def,50_60,50
+Cyno,444,def,50_50,50
+Cyno,598,def,60_70,60
+Cyno,557,def,60_60,60
+Cyno,698,def,70_80,70
+Cyno,657,def,70_70,70
+Cyno,798,def,80_90,80
+Cyno,758,def,80_80,80
+Cyno,859,def,90_90,90
+Cyno,972,hp,1_20,1
+Cyno,3356,hp,20_40,20
+Cyno,2522,hp,20_20,20
+Cyno,5614,hp,40_50,40
+Cyno,5021,hp,40_40,40
+Cyno,7249,hp,50_60,50
+Cyno,6459,hp,50_50,50
+Cyno,8695,hp,60_70,60
+Cyno,8102,hp,60_60,60
+Cyno,10149,hp,70_80,70
+Cyno,9556,hp,70_70,70
+Cyno,11612,hp,80_90,80
+Cyno,11020,hp,80_80,80
+Cyno,12490,hp,90_90,90
+Dehya,20,atk,1_20,1
+Dehya,71,atk,20_40,20
+Dehya,53,atk,20_20,20
+Dehya,119,atk,40_50,40
+Dehya,106,atk,40_40,40
+Dehya,154,atk,50_60,50
+Dehya,137,atk,50_50,50
+Dehya,184,atk,60_70,60
+Dehya,172,atk,60_60,60
+Dehya,215,atk,70_80,70
+Dehya,203,atk,70_70,70
+Dehya,246,atk,80_90,80
+Dehya,234,atk,80_80,80
+Dehya,265,atk,90_90,90
+Dehya,48,def,1_20,1
+Dehya,168,def,20_40,20
+Dehya,126,def,20_20,20
+Dehya,282,def,40_50,40
+Dehya,252,def,40_40,40
+Dehya,364,def,50_60,50
+Dehya,324,def,50_50,50
+Dehya,437,def,60_70,60
+Dehya,407,def,60_60,60
+Dehya,510,def,70_80,70
+Dehya,480,def,70_70,70
+Dehya,583,def,80_90,80
+Dehya,553,def,80_80,80
+Dehya,627,def,90_90,90
+Dehya,1220,hp,1_20,1
+Dehya,4211,hp,20_40,20
+Dehya,3165,hp,20_20,20
+Dehya,7045,hp,40_50,40
+Dehya,6301,hp,40_40,40
+Dehya,9096,hp,50_60,50
+Dehya,8105,hp,50_50,50
+Dehya,10911,hp,60_70,60
+Dehya,10168,hp,60_60,60
+Dehya,12736,hp,70_80,70
+Dehya,11992,hp,70_70,70
+Dehya,14572,hp,80_90,80
+Dehya,13829,hp,80_80,80
+Dehya,15674,hp,90_90,90
+Diluc,26,atk,1_20,1
+Diluc,90,atk,20_40,20
+Diluc,68,atk,20_20,20
+Diluc,151,atk,40_50,40
+Diluc,135,atk,40_40,40
+Diluc,194,atk,50_60,50
+Diluc,173,atk,50_50,50
+Diluc,233,atk,60_70,60
+Diluc,217,atk,60_60,60
+Diluc,272,atk,70_80,70
+Diluc,256,atk,70_70,70
+Diluc,311,atk,80_90,80
+Diluc,295,atk,80_80,80
+Diluc,335,atk,90_90,90
+Diluc,61,def,1_20,1
+Diluc,211,def,20_40,20
+Diluc,158,def,20_20,20
+Diluc,352,def,40_50,40
+Diluc,315,def,40_40,40
+Diluc,455,def,50_60,50
+Diluc,405,def,50_50,50
+Diluc,546,def,60_70,60
+Diluc,509,def,60_60,60
+Diluc,637,def,70_80,70
+Diluc,600,def,70_70,70
+Diluc,729,def,80_90,80
+Diluc,692,def,80_80,80
+Diluc,784,def,90_90,90
+Diluc,1011,hp,1_20,1
+Diluc,3488,hp,20_40,20
+Diluc,2621,hp,20_20,20
+Diluc,5834,hp,40_50,40
+Diluc,5219,hp,40_40,40
+Diluc,7533,hp,50_60,50
+Diluc,6712,hp,50_50,50
+Diluc,9036,hp,60_70,60
+Diluc,8421,hp,60_60,60
+Diluc,10547,hp,70_80,70
+Diluc,9932,hp,70_70,70
+Diluc,12068,hp,80_90,80
+Diluc,11453,hp,80_80,80
+Diluc,12981,hp,90_90,90
+Diona,18,atk,1_20,1
+Diona,59,atk,20_40,20
+Diona,46,atk,20_20,20
+Diona,98,atk,40_50,40
+Diona,88,atk,40_40,40
+Diona,125,atk,50_60,50
+Diona,113,atk,50_50,50
+Diona,149,atk,60_70,60
+Diona,140,atk,60_60,60
+Diona,174,atk,70_80,70
+Diona,164,atk,70_70,70
+Diona,198,atk,80_90,80
+Diona,188,atk,80_80,80
+Diona,212,atk,90_90,90
+Diona,50,def,1_20,1
+Diona,167,def,20_40,20
+Diona,129,def,20_20,20
+Diona,277,def,40_50,40
+Diona,250,def,40_40,40
+Diona,354,def,50_60,50
+Diona,318,def,50_50,50
+Diona,422,def,60_70,60
+Diona,396,def,60_60,60
+Diona,491,def,70_80,70
+Diona,464,def,70_70,70
+Diona,559,def,80_90,80
+Diona,532,def,80_80,80
+Diona,601,def,90_90,90
+Diona,802,hp,1_20,1
+Diona,2661,hp,20_40,20
+Diona,2061,hp,20_20,20
+Diona,4411,hp,40_50,40
+Diona,3985,hp,40_40,40
+Diona,5642,hp,50_60,50
+Diona,5074,hp,50_50,50
+Diona,6731,hp,60_70,60
+Diona,6305,hp,60_60,60
+Diona,7818,hp,70_80,70
+Diona,7393,hp,70_70,70
+Diona,8907,hp,80_90,80
+Diona,8481,hp,80_80,80
+Diona,9570,hp,90_90,90
+Dori,18,atk,1_20,1
+Dori,62,atk,20_40,20
+Dori,48,atk,20_20,20
+Dori,102,atk,40_50,40
+Dori,92,atk,40_40,40
+Dori,131,atk,50_60,50
+Dori,118,atk,50_50,50
+Dori,156,atk,60_70,60
+Dori,146,atk,60_60,60
+Dori,182,atk,70_80,70
+Dori,172,atk,70_70,70
+Dori,207,atk,80_90,80
+Dori,197,atk,80_80,80
+Dori,223,atk,90_90,90
+Dori,60,def,1_20,1
+Dori,201,def,20_40,20
+Dori,155,def,20_20,20
+Dori,333,def,40_50,40
+Dori,301,def,40_40,40
+Dori,426,def,50_60,50
+Dori,383,def,50_50,50
+Dori,508,def,60_70,60
+Dori,476,def,60_60,60
+Dori,591,def,70_80,70
+Dori,558,def,70_70,70
+Dori,673,def,80_90,80
+Dori,641,def,80_80,80
+Dori,723,def,90_90,90
+Dori,1039,hp,1_20,1
+Dori,3446,hp,20_40,20
+Dori,2670,hp,20_20,20
+Dori,5714,hp,40_50,40
+Dori,5162,hp,40_40,40
+Dori,7308,hp,50_60,50
+Dori,6573,hp,50_50,50
+Dori,8719,hp,60_70,60
+Dori,8167,hp,60_60,60
+Dori,10128,hp,70_80,70
+Dori,9576,hp,70_70,70
+Dori,11538,hp,80_90,80
+Dori,10987,hp,80_80,80
+Dori,12397,hp,90_90,90
+Eula,27,atk,1_20,1
+Eula,92,atk,20_40,20
+Eula,69,atk,20_20,20
+Eula,154,atk,40_50,40
+Eula,138,atk,40_40,40
+Eula,199,atk,50_60,50
+Eula,177,atk,50_50,50
+Eula,238,atk,60_70,60
+Eula,222,atk,60_60,60
+Eula,278,atk,70_80,70
+Eula,262,atk,70_70,70
+Eula,318,atk,80_90,80
+Eula,302,atk,80_80,80
+Eula,342,atk,90_90,90
+Eula,58,def,1_20,1
+Eula,202,def,20_40,20
+Eula,152,def,20_20,20
+Eula,337,def,40_50,40
+Eula,302,def,40_40,40
+Eula,436,def,50_60,50
+Eula,388,def,50_50,50
+Eula,523,def,60_70,60
+Eula,487,def,60_60,60
+Eula,610,def,70_80,70
+Eula,574,def,70_70,70
+Eula,698,def,80_90,80
+Eula,662,def,80_80,80
+Eula,751,def,90_90,90
+Eula,1030,hp,1_20,1
+Eula,3554,hp,20_40,20
+Eula,2671,hp,20_20,20
+Eula,5944,hp,40_50,40
+Eula,5317,hp,40_40,40
+Eula,7675,hp,50_60,50
+Eula,6839,hp,50_50,50
+Eula,9207,hp,60_70,60
+Eula,8579,hp,60_60,60
+Eula,10746,hp,70_80,70
+Eula,10119,hp,70_70,70
+Eula,12296,hp,80_90,80
+Eula,11669,hp,80_80,80
+Eula,13226,hp,90_90,90
+Faruzan,16,atk,1_20,1
+Faruzan,54,atk,20_40,20
+Faruzan,42,atk,20_20,20
+Faruzan,90,atk,40_50,40
+Faruzan,81,atk,40_40,40
+Faruzan,115,atk,50_60,50
+Faruzan,104,atk,50_50,50
+Faruzan,138,atk,60_70,60
+Faruzan,129,atk,60_60,60
+Faruzan,160,atk,70_80,70
+Faruzan,151,atk,70_70,70
+Faruzan,182,atk,80_90,80
+Faruzan,174,atk,80_80,80
+Faruzan,196,atk,90_90,90
+Faruzan,52,def,1_20,1
+Faruzan,174,def,20_40,20
+Faruzan,135,def,20_20,20
+Faruzan,289,def,40_50,40
+Faruzan,261,def,40_40,40
+Faruzan,370,def,50_60,50
+Faruzan,332,def,50_50,50
+Faruzan,441,def,60_70,60
+Faruzan,413,def,60_60,60
+Faruzan,513,def,70_80,70
+Faruzan,485,def,70_70,70
+Faruzan,584,def,80_90,80
+Faruzan,556,def,80_80,80
+Faruzan,627,def,90_90,90
+Faruzan,802,hp,1_20,1
+Faruzan,2660,hp,20_40,20
+Faruzan,2061,hp,20_20,20
+Faruzan,4411,hp,40_50,40
+Faruzan,3985,hp,40_40,40
+Faruzan,5641,hp,50_60,50
+Faruzan,5074,hp,50_50,50
+Faruzan,6730,hp,60_70,60
+Faruzan,6304,hp,60_60,60
+Faruzan,7818,hp,70_80,70
+Faruzan,7392,hp,70_70,70
+Faruzan,8907,hp,80_90,80
+Faruzan,8481,hp,80_80,80
+Faruzan,9569,hp,90_90,90
+Fischl,20,atk,1_20,1
+Fischl,68,atk,20_40,20
+Fischl,53,atk,20_20,20
+Fischl,113,atk,40_50,40
+Fischl,102,atk,40_40,40
+Fischl,144,atk,50_60,50
+Fischl,130,atk,50_50,50
+Fischl,172,atk,60_70,60
+Fischl,161,atk,60_60,60
+Fischl,200,atk,70_80,70
+Fischl,189,atk,70_70,70
+Fischl,227,atk,80_90,80
+Fischl,216,atk,80_80,80
+Fischl,244,atk,90_90,90
+Fischl,50,def,1_20,1
+Fischl,165,def,20_40,20
+Fischl,128,def,20_20,20
+Fischl,274,def,40_50,40
+Fischl,247,def,40_40,40
+Fischl,350,def,50_60,50
+Fischl,315,def,50_50,50
+Fischl,418,def,60_70,60
+Fischl,391,def,60_60,60
+Fischl,485,def,70_80,70
+Fischl,459,def,70_70,70
+Fischl,553,def,80_90,80
+Fischl,526,def,80_80,80
+Fischl,594,def,90_90,90
+Fischl,770,hp,1_20,1
+Fischl,2555,hp,20_40,20
+Fischl,1979,hp,20_20,20
+Fischl,4236,hp,40_50,40
+Fischl,3827,hp,40_40,40
+Fischl,5418,hp,50_60,50
+Fischl,4872,hp,50_50,50
+Fischl,6463,hp,60_70,60
+Fischl,6054,hp,60_60,60
+Fischl,7508,hp,70_80,70
+Fischl,7099,hp,70_70,70
+Fischl,8553,hp,80_90,80
+Fischl,8144,hp,80_80,80
+Fischl,9189,hp,90_90,90
+Freminet,21,atk,1_20,1
+Freminet,70,atk,20_40,20
+Freminet,54,atk,20_20,20
+Freminet,117,atk,40_50,40
+Freminet,106,atk,40_40,40
+Freminet,150,atk,50_60,50
+Freminet,135,atk,50_50,50
+Freminet,179,atk,60_70,60
+Freminet,167,atk,60_60,60
+Freminet,208,atk,70_80,70
+Freminet,196,atk,70_70,70
+Freminet,237,atk,80_90,80
+Freminet,225,atk,80_80,80
+Freminet,254,atk,90_90,90
+Freminet,59,def,1_20,1
+Freminet,196,def,20_40,20
+Freminet,152,def,20_20,20
+Freminet,326,def,40_50,40
+Freminet,295,def,40_40,40
+Freminet,417,def,50_60,50
+Freminet,375,def,50_50,50
+Freminet,498,def,60_70,60
+Freminet,466,def,60_60,60
+Freminet,578,def,70_80,70
+Freminet,547,def,70_70,70
+Freminet,659,def,80_90,80
+Freminet,627,def,80_80,80
+Freminet,708,def,90_90,90
+Freminet,1012,hp,1_20,1
+Freminet,3356,hp,20_40,20
+Freminet,2600,hp,20_20,20
+Freminet,5564,hp,40_50,40
+Freminet,5027,hp,40_40,40
+Freminet,7116,hp,50_60,50
+Freminet,6400,hp,50_50,50
+Freminet,8489,hp,60_70,60
+Freminet,7952,hp,60_60,60
+Freminet,9861,hp,70_80,70
+Freminet,9324,hp,70_70,70
+Freminet,11235,hp,80_90,80
+Freminet,10697,hp,80_80,80
+Freminet,12071,hp,90_90,90
+Furina,18,atk,1_20,1
+Furina,65,atk,20_40,20
+Furina,49,atk,20_20,20
+Furina,109,atk,40_50,40
+Furina,98,atk,40_40,40
+Furina,141,atk,50_60,50
+Furina,126,atk,50_50,50
+Furina,169,atk,60_70,60
+Furina,158,atk,60_60,60
+Furina,198,atk,70_80,70
+Furina,186,atk,70_70,70
+Furina,226,atk,80_90,80
+Furina,215,atk,80_80,80
+Furina,243,atk,90_90,90
+Furina,54,def,1_20,1
+Furina,186,def,20_40,20
+Furina,140,def,20_20,20
+Furina,312,def,40_50,40
+Furina,279,def,40_40,40
+Furina,403,def,50_60,50
+Furina,359,def,50_50,50
+Furina,484,def,60_70,60
+Furina,451,def,60_60,60
+Furina,565,def,70_80,70
+Furina,532,def,70_70,70
+Furina,646,def,80_90,80
+Furina,613,def,80_80,80
+Furina,695,def,90_90,90
+Furina,1191,hp,1_20,1
+Furina,4112,hp,20_40,20
+Furina,3091,hp,20_20,20
+Furina,6880,hp,40_50,40
+Furina,6154,hp,40_40,40
+Furina,8883,hp,50_60,50
+Furina,7915,hp,50_50,50
+Furina,10655,hp,60_70,60
+Furina,9929,hp,60_60,60
+Furina,12437,hp,70_80,70
+Furina,11711,hp,70_70,70
+Furina,14231,hp,80_90,80
+Furina,13505,hp,80_80,80
+Furina,15307,hp,90_90,90
+Ganyu,26,atk,1_20,1
+Ganyu,90,atk,20_40,20
+Ganyu,68,atk,20_20,20
+Ganyu,151,atk,40_50,40
+Ganyu,135,atk,40_40,40
+Ganyu,194,atk,50_60,50
+Ganyu,173,atk,50_50,50
+Ganyu,233,atk,60_70,60
+Ganyu,217,atk,60_60,60
+Ganyu,272,atk,70_80,70
+Ganyu,256,atk,70_70,70
+Ganyu,311,atk,80_90,80
+Ganyu,295,atk,80_80,80
+Ganyu,335,atk,90_90,90
+Ganyu,49,def,1_20,1
+Ganyu,169,def,20_40,20
+Ganyu,127,def,20_20,20
+Ganyu,283,def,40_50,40
+Ganyu,253,def,40_40,40
+Ganyu,366,def,50_60,50
+Ganyu,326,def,50_50,50
+Ganyu,439,def,60_70,60
+Ganyu,409,def,60_60,60
+Ganyu,512,def,70_80,70
+Ganyu,482,def,70_70,70
+Ganyu,586,def,80_90,80
+Ganyu,556,def,80_80,80
+Ganyu,630,def,90_90,90
+Ganyu,763,hp,1_20,1
+Ganyu,2632,hp,20_40,20
+Ganyu,1978,hp,20_20,20
+Ganyu,4403,hp,40_50,40
+Ganyu,3939,hp,40_40,40
+Ganyu,5686,hp,50_60,50
+Ganyu,5066,hp,50_50,50
+Ganyu,6820,hp,60_70,60
+Ganyu,6355,hp,60_60,60
+Ganyu,7960,hp,70_80,70
+Ganyu,7495,hp,70_70,70
+Ganyu,9108,hp,80_90,80
+Ganyu,8643,hp,80_80,80
+Ganyu,9797,hp,90_90,90
+Gorou,15,atk,1_20,1
+Gorou,51,atk,20_40,20
+Gorou,39,atk,20_20,20
+Gorou,84,atk,40_50,40
+Gorou,76,atk,40_40,40
+Gorou,108,atk,50_60,50
+Gorou,97,atk,50_50,50
+Gorou,128,atk,60_70,60
+Gorou,120,atk,60_60,60
+Gorou,149,atk,70_80,70
+Gorou,141,atk,70_70,70
+Gorou,170,atk,80_90,80
+Gorou,162,atk,80_80,80
+Gorou,183,atk,90_90,90
+Gorou,54,def,1_20,1
+Gorou,180,def,20_40,20
+Gorou,140,def,20_20,20
+Gorou,299,def,40_50,40
+Gorou,270,def,40_40,40
+Gorou,382,def,50_60,50
+Gorou,344,def,50_50,50
+Gorou,456,def,60_70,60
+Gorou,427,def,60_60,60
+Gorou,530,def,70_80,70
+Gorou,501,def,70_70,70
+Gorou,603,def,80_90,80
+Gorou,575,def,80_80,80
+Gorou,648,def,90_90,90
+Gorou,802,hp,1_20,1
+Gorou,2661,hp,20_40,20
+Gorou,2061,hp,20_20,20
+Gorou,4411,hp,40_50,40
+Gorou,3985,hp,40_40,40
+Gorou,5642,hp,50_60,50
+Gorou,5074,hp,50_50,50
+Gorou,6731,hp,60_70,60
+Gorou,6305,hp,60_60,60
+Gorou,7818,hp,70_80,70
+Gorou,7393,hp,70_70,70
+Gorou,8907,hp,80_90,80
+Gorou,8481,hp,80_80,80
+Gorou,9570,hp,90_90,90
+Hu Tao,8,atk,1_20,1
+Hu Tao,29,atk,20_40,20
+Hu Tao,21,atk,20_20,20
+Hu Tao,48,atk,40_50,40
+Hu Tao,43,atk,40_40,40
+Hu Tao,62,atk,50_60,50
+Hu Tao,55,atk,50_50,50
+Hu Tao,74,atk,60_70,60
+Hu Tao,69,atk,60_60,60
+Hu Tao,86,atk,70_80,70
+Hu Tao,81,atk,70_70,70
+Hu Tao,99,atk,80_90,80
+Hu Tao,94,atk,80_80,80
+Hu Tao,106,atk,90_90,90
+Hu Tao,68,def,1_20,1
+Hu Tao,235,def,20_40,20
+Hu Tao,177,def,20_20,20
+Hu Tao,394,def,40_50,40
+Hu Tao,352,def,40_40,40
+Hu Tao,508,def,50_60,50
+Hu Tao,453,def,50_50,50
+Hu Tao,610,def,60_70,60
+Hu Tao,568,def,60_60,60
+Hu Tao,712,def,70_80,70
+Hu Tao,670,def,70_70,70
+Hu Tao,815,def,80_90,80
+Hu Tao,773,def,80_80,80
+Hu Tao,876,def,90_90,90
+Hu Tao,1211,hp,1_20,1
+Hu Tao,4179,hp,20_40,20
+Hu Tao,3141,hp,20_20,20
+Hu Tao,6990,hp,40_50,40
+Hu Tao,6253,hp,40_40,40
+Hu Tao,9026,hp,50_60,50
+Hu Tao,8042,hp,50_50,50
+Hu Tao,10826,hp,60_70,60
+Hu Tao,10089,hp,60_60,60
+Hu Tao,12637,hp,70_80,70
+Hu Tao,11899,hp,70_70,70
+Hu Tao,14459,hp,80_90,80
+Hu Tao,13721,hp,80_80,80
+Hu Tao,15552,hp,90_90,90
+Jean,19,atk,1_20,1
+Jean,64,atk,20_40,20
+Jean,48,atk,20_20,20
+Jean,108,atk,40_50,40
+Jean,96,atk,40_40,40
+Jean,139,atk,50_60,50
+Jean,124,atk,50_50,50
+Jean,166,atk,60_70,60
+Jean,155,atk,60_60,60
+Jean,194,atk,70_80,70
+Jean,183,atk,70_70,70
+Jean,222,atk,80_90,80
+Jean,211,atk,80_80,80
+Jean,239,atk,90_90,90
+Jean,60,def,1_20,1
+Jean,206,def,20_40,20
+Jean,155,def,20_20,20
+Jean,345,def,40_50,40
+Jean,309,def,40_40,40
+Jean,446,def,50_60,50
+Jean,397,def,50_50,50
+Jean,535,def,60_70,60
+Jean,499,def,60_60,60
+Jean,624,def,70_80,70
+Jean,588,def,70_70,70
+Jean,715,def,80_90,80
+Jean,678,def,80_80,80
+Jean,769,def,90_90,90
+Jean,1144,hp,1_20,1
+Jean,3948,hp,20_40,20
+Jean,2967,hp,20_20,20
+Jean,6605,hp,40_50,40
+Jean,5908,hp,40_40,40
+Jean,8528,hp,50_60,50
+Jean,7599,hp,50_50,50
+Jean,10230,hp,60_70,60
+Jean,9533,hp,60_60,60
+Jean,11940,hp,70_80,70
+Jean,11243,hp,70_70,70
+Jean,13662,hp,80_90,80
+Jean,12965,hp,80_80,80
+Jean,14695,hp,90_90,90
+Kaedehara Kazuha,23,atk,1_20,1
+Kaedehara Kazuha,80,atk,20_40,20
+Kaedehara Kazuha,60,atk,20_20,20
+Kaedehara Kazuha,133,atk,40_50,40
+Kaedehara Kazuha,119,atk,40_40,40
+Kaedehara Kazuha,172,atk,50_60,50
+Kaedehara Kazuha,153,atk,50_50,50
+Kaedehara Kazuha,206,atk,60_70,60
+Kaedehara Kazuha,192,atk,60_60,60
+Kaedehara Kazuha,241,atk,70_80,70
+Kaedehara Kazuha,227,atk,70_70,70
+Kaedehara Kazuha,276,atk,80_90,80
+Kaedehara Kazuha,262,atk,80_80,80
+Kaedehara Kazuha,297,atk,90_90,90
+Kaedehara Kazuha,63,def,1_20,1
+Kaedehara Kazuha,217,def,20_40,20
+Kaedehara Kazuha,163,def,20_20,20
+Kaedehara Kazuha,363,def,40_50,40
+Kaedehara Kazuha,324,def,40_40,40
+Kaedehara Kazuha,468,def,50_60,50
+Kaedehara Kazuha,417,def,50_50,50
+Kaedehara Kazuha,562,def,60_70,60
+Kaedehara Kazuha,523,def,60_60,60
+Kaedehara Kazuha,656,def,70_80,70
+Kaedehara Kazuha,617,def,70_70,70
+Kaedehara Kazuha,750,def,80_90,80
+Kaedehara Kazuha,712,def,80_80,80
+Kaedehara Kazuha,807,def,90_90,90
+Kaedehara Kazuha,1039,hp,1_20,1
+Kaedehara Kazuha,3586,hp,20_40,20
+Kaedehara Kazuha,2695,hp,20_20,20
+Kaedehara Kazuha,5999,hp,40_50,40
+Kaedehara Kazuha,5366,hp,40_40,40
+Kaedehara Kazuha,7747,hp,50_60,50
+Kaedehara Kazuha,6902,hp,50_50,50
+Kaedehara Kazuha,9292,hp,60_70,60
+Kaedehara Kazuha,8659,hp,60_60,60
+Kaedehara Kazuha,10846,hp,70_80,70
+Kaedehara Kazuha,10213,hp,70_70,70
+Kaedehara Kazuha,12410,hp,80_90,80
+Kaedehara Kazuha,11777,hp,80_80,80
+Kaedehara Kazuha,13348,hp,90_90,90
+Kaeya,19,atk,1_20,1
+Kaeya,62,atk,20_40,20
+Kaeya,48,atk,20_20,20
+Kaeya,103,atk,40_50,40
+Kaeya,93,atk,40_40,40
+Kaeya,131,atk,50_60,50
+Kaeya,118,atk,50_50,50
+Kaeya,157,atk,60_70,60
+Kaeya,147,atk,60_60,60
+Kaeya,182,atk,70_80,70
+Kaeya,172,atk,70_70,70
+Kaeya,208,atk,80_90,80
+Kaeya,198,atk,80_80,80
+Kaeya,223,atk,90_90,90
+Kaeya,66,def,1_20,1
+Kaeya,220,def,20_40,20
+Kaeya,171,def,20_20,20
+Kaeya,365,def,40_50,40
+Kaeya,330,def,40_40,40
+Kaeya,467,def,50_60,50
+Kaeya,420,def,50_50,50
+Kaeya,557,def,60_70,60
+Kaeya,522,def,60_60,60
+Kaeya,647,def,70_80,70
+Kaeya,612,def,70_70,70
+Kaeya,737,def,80_90,80
+Kaeya,702,def,80_80,80
+Kaeya,792,def,90_90,90
+Kaeya,976,hp,1_20,1
+Kaeya,3235,hp,20_40,20
+Kaeya,2506,hp,20_20,20
+Kaeya,5364,hp,40_50,40
+Kaeya,4846,hp,40_40,40
+Kaeya,6860,hp,50_60,50
+Kaeya,6170,hp,50_50,50
+Kaeya,8184,hp,60_70,60
+Kaeya,7666,hp,60_60,60
+Kaeya,9508,hp,70_80,70
+Kaeya,8990,hp,70_70,70
+Kaeya,10830,hp,80_90,80
+Kaeya,10312,hp,80_80,80
+Kaeya,11636,hp,90_90,90
+Kamisato Ayaka,27,atk,1_20,1
+Kamisato Ayaka,92,atk,20_40,20
+Kamisato Ayaka,79,atk,20_20,20
+Kamisato Ayaka,154,atk,40_50,40
+Kamisato Ayaka,138,atk,40_40,40
+Kamisato Ayaka,198,atk,50_60,50
+Kamisato Ayaka,177,atk,50_50,50
+Kamisato Ayaka,238,atk,60_70,60
+Kamisato Ayaka,222,atk,60_60,60
+Kamisato Ayaka,278,atk,70_80,70
+Kamisato Ayaka,262,atk,70_70,70
+Kamisato Ayaka,318,atk,80_90,80
+Kamisato Ayaka,302,atk,80_80,80
+Kamisato Ayaka,342,atk,90_90,90
+Kamisato Ayaka,61,def,1_20,1
+Kamisato Ayaka,211,def,20_40,20
+Kamisato Ayaka,158,def,20_20,20
+Kamisato Ayaka,352,def,40_50,40
+Kamisato Ayaka,315,def,40_40,40
+Kamisato Ayaka,455,def,50_60,50
+Kamisato Ayaka,405,def,50_50,50
+Kamisato Ayaka,546,def,60_70,60
+Kamisato Ayaka,509,def,60_60,60
+Kamisato Ayaka,637,def,70_80,70
+Kamisato Ayaka,600,def,70_70,70
+Kamisato Ayaka,729,def,80_90,80
+Kamisato Ayaka,692,def,80_80,80
+Kamisato Ayaka,784,def,90_90,90
+Kamisato Ayaka,1001,hp,1_20,1
+Kamisato Ayaka,3455,hp,20_40,20
+Kamisato Ayaka,2597,hp,20_20,20
+Kamisato Ayaka,5779,hp,40_50,40
+Kamisato Ayaka,5170,hp,40_40,40
+Kamisato Ayaka,7462,hp,50_60,50
+Kamisato Ayaka,6649,hp,50_50,50
+Kamisato Ayaka,8951,hp,60_70,60
+Kamisato Ayaka,8341,hp,60_60,60
+Kamisato Ayaka,10448,hp,70_80,70
+Kamisato Ayaka,9838,hp,70_70,70
+Kamisato Ayaka,11954,hp,80_90,80
+Kamisato Ayaka,11345,hp,80_80,80
+Kamisato Ayaka,12858,hp,90_90,90
+Kamisato Ayato,24,atk,1_20,1
+Kamisato Ayato,81,atk,20_40,20
+Kamisato Ayato,61,atk,20_20,20
+Kamisato Ayato,135,atk,40_50,40
+Kamisato Ayato,120,atk,40_40,40
+Kamisato Ayato,174,atk,50_60,50
+Kamisato Ayato,155,atk,50_50,50
+Kamisato Ayato,208,atk,60_70,60
+Kamisato Ayato,194,atk,60_60,60
+Kamisato Ayato,243,atk,70_80,70
+Kamisato Ayato,229,atk,70_70,70
+Kamisato Ayato,278,atk,80_90,80
+Kamisato Ayato,264,atk,80_80,80
+Kamisato Ayato,299,atk,90_90,90
+Kamisato Ayato,60,def,1_20,1
+Kamisato Ayato,206,def,20_40,20
+Kamisato Ayato,155,def,20_20,20
+Kamisato Ayato,345,def,40_50,40
+Kamisato Ayato,309,def,40_40,40
+Kamisato Ayato,446,def,50_60,50
+Kamisato Ayato,397,def,50_50,50
+Kamisato Ayato,535,def,60_70,60
+Kamisato Ayato,499,def,60_60,60
+Kamisato Ayato,624,def,70_80,70
+Kamisato Ayato,588,def,70_70,70
+Kamisato Ayato,715,def,80_90,80
+Kamisato Ayato,678,def,80_80,80
+Kamisato Ayato,769,def,90_90,90
+Kamisato Ayato,1068,hp,1_20,1
+Kamisato Ayato,3685,hp,20_40,20
+Kamisato Ayato,2770,hp,20_20,20
+Kamisato Ayato,6165,hp,40_50,40
+Kamisato Ayato,5514,hp,40_40,40
+Kamisato Ayato,7960,hp,50_60,50
+Kamisato Ayato,1092,hp,50_50,50
+Kamisato Ayato,9548,hp,60_70,60
+Kamisato Ayato,8897,hp,60_60,60
+Kamisato Ayato,11144,hp,70_80,70
+Kamisato Ayato,10494,hp,70_70,70
+Kamisato Ayato,12751,hp,80_90,80
+Kamisato Ayato,12101,hp,80_80,80
+Kamisato Ayato,13715,hp,90_90,90
+Kaveh,19,atk,1_20,1
+Kaveh,64,atk,20_40,20
+Kaveh,50,atk,20_20,20
+Kaveh,107,atk,40_50,40
+Kaveh,97,atk,40_40,40
+Kaveh,137,atk,50_60,50
+Kaveh,123,atk,50_50,50
+Kaveh,164,atk,60_70,60
+Kaveh,153,atk,60_60,60
+Kaveh,190,atk,70_80,70
+Kaveh,180,atk,70_70,70
+Kaveh,217,atk,80_90,80
+Kaveh,207,atk,80_80,80
+Kaveh,233,atk,90_90,90
+Kaveh,62,def,1_20,1
+Kaveh,208,def,20_40,20
+Kaveh,161,def,20_20,20
+Kaveh,346,def,40_50,40
+Kaveh,312,def,40_40,40
+Kaveh,442,def,50_60,50
+Kaveh,398,def,50_50,50
+Kaveh,528,def,60_70,60
+Kaveh,494,def,60_60,60
+Kaveh,613,def,70_80,70
+Kaveh,579,def,70_70,70
+Kaveh,698,def,80_90,80
+Kaveh,665,def,80_80,80
+Kaveh,750,def,90_90,90
+Kaveh,1002,hp,1_20,1
+Kaveh,3325,hp,20_40,20
+Kaveh,2576,hp,20_20,20
+Kaveh,5514,hp,40_50,40
+Kaveh,4981,hp,40_40,40
+Kaveh,7052,hp,50_60,50
+Kaveh,6342,hp,50_50,50
+Kaveh,8413,hp,60_70,60
+Kaveh,7880,hp,60_60,60
+Kaveh,9773,hp,70_80,70
+Kaveh,9240,hp,70_70,70
+Kaveh,11133,hp,80_90,80
+Kaveh,10601,hp,80_80,80
+Kaveh,11962,hp,90_90,90
+Keqing,25,atk,1_20,1
+Keqing,87,atk,20_40,20
+Keqing,65,atk,20_20,20
+Keqing,145,atk,40_50,40
+Keqing,130,atk,40_40,40
+Keqing,187,atk,50_60,50
+Keqing,167,atk,50_50,50
+Keqing,225,atk,60_70,60
+Keqing,209,atk,60_60,60
+Keqing,262,atk,70_80,70
+Keqing,247,atk,70_70,70
+Keqing,300,atk,80_90,80
+Keqing,285,atk,80_80,80
+Keqing,323,atk,90_90,90
+Keqing,62,def,1_20,1
+Keqing,215,def,20_40,20
+Keqing,161,def,20_20,20
+Keqing,359,def,40_50,40
+Keqing,321,def,40_40,40
+Keqing,464,def,50_60,50
+Keqing,413,def,50_50,50
+Keqing,556,def,60_70,60
+Keqing,519,def,60_60,60
+Keqing,649,def,70_80,70
+Keqing,612,def,70_70,70
+Keqing,743,def,80_90,80
+Keqing,705,def,80_80,80
+Keqing,799,def,90_90,90
+Keqing,1020,hp,1_20,1
+Keqing,3521,hp,20_40,20
+Keqing,2646,hp,20_20,20
+Keqing,5889,hp,40_50,40
+Keqing,5268,hp,40_40,40
+Keqing,7604,hp,50_60,50
+Keqing,6776,hp,50_50,50
+Keqing,9121,hp,60_70,60
+Keqing,8500,hp,60_60,60
+Keqing,10647,hp,70_80,70
+Keqing,10025,hp,70_70,70
+Keqing,12182,hp,80_90,80
+Keqing,11561,hp,80_80,80
+Keqing,13103,hp,90_90,90
+Kirara,18,atk,1_20,1
+Kirara,62,atk,20_40,20
+Kirara,48,atk,20_20,20
+Kirara,102,atk,40_50,40
+Kirara,92,atk,40_40,40
+Kirara,131,atk,50_60,50
+Kirara,118,atk,50_50,50
+Kirara,156,atk,60_70,60
+Kirara,146,atk,60_60,60
+Kirara,182,atk,70_80,70
+Kirara,172,atk,70_70,70
+Kirara,207,atk,80_90,80
+Kirara,197,atk,80_80,80
+Kirara,223,atk,90_90,90
+Kirara,45,def,1_20,1
+Kirara,151,def,20_40,20
+Kirara,117,def,20_20,20
+Kirara,251,def,40_50,40
+Kirara,227,def,40_40,40
+Kirara,321,def,50_60,50
+Kirara,289,def,50_50,50
+Kirara,384,def,60_70,60
+Kirara,359,def,60_60,60
+Kirara,446,def,70_80,70
+Kirara,421,def,70_70,70
+Kirara,508,def,80_90,80
+Kirara,483,def,80_80,80
+Kirara,546,def,90_90,90
+Kirara,1021,hp,1_20,1
+Kirara,3386,hp,20_40,20
+Kirara,2623,hp,20_20,20
+Kirara,5614,hp,40_50,40
+Kirara,5072,hp,40_40,40
+Kirara,7180,hp,50_60,50
+Kirara,6457,hp,50_50,50
+Kirara,8566,hp,60_70,60
+Kirara,8024,hp,60_60,60
+Kirara,9950,hp,70_80,70
+Kirara,9408,hp,70_70,70
+Kirara,11336,hp,80_90,80
+Kirara,10794,hp,80_80,80
+Kirara,12179,hp,90_90,90
+Klee,24,atk,1_20,1
+Klee,84,atk,20_40,20
+Klee,63,atk,20_20,20
+Klee,140,atk,40_50,40
+Klee,125,atk,40_40,40
+Klee,180,atk,50_60,50
+Klee,161,atk,50_50,50
+Klee,216,atk,60_70,60
+Klee,202,atk,60_60,60
+Klee,253,atk,70_80,70
+Klee,238,atk,70_70,70
+Klee,289,atk,80_90,80
+Klee,274,atk,80_80,80
+Klee,311,atk,90_90,90
+Klee,48,def,1_20,1
+Klee,165,def,20_40,20
+Klee,124,def,20_20,20
+Klee,276,def,40_50,40
+Klee,247,def,40_40,40
+Klee,357,def,50_60,50
+Klee,318,def,50_50,50
+Klee,428,def,60_70,60
+Klee,399,def,60_60,60
+Klee,500,def,70_80,70
+Klee,470,def,70_70,70
+Klee,572,def,80_90,80
+Klee,542,def,80_80,80
+Klee,615,def,90_90,90
+Klee,801,hp,1_20,1
+Klee,2764,hp,20_40,20
+Klee,2077,hp,20_20,20
+Klee,4623,hp,40_50,40
+Klee,4136,hp,40_40,40
+Klee,5970,hp,50_60,50
+Klee,5319,hp,50_50,50
+Klee,7161,hp,60_70,60
+Klee,6673,hp,60_60,60
+Klee,8358,hp,70_80,70
+Klee,7870,hp,70_70,70
+Klee,9563,hp,80_90,80
+Klee,9076,hp,80_80,80
+Klee,10287,hp,90_90,90
+Kujou Sara,16,atk,1_20,1
+Kujou Sara,54,atk,20_40,20
+Kujou Sara,42,atk,20_20,20
+Kujou Sara,90,atk,40_50,40
+Kujou Sara,81,atk,40_40,40
+Kujou Sara,115,atk,50_60,50
+Kujou Sara,104,atk,50_50,50
+Kujou Sara,137,atk,60_70,60
+Kujou Sara,129,atk,60_60,60
+Kujou Sara,160,atk,70_80,70
+Kujou Sara,151,atk,70_70,70
+Kujou Sara,182,atk,80_90,80
+Kujou Sara,173,atk,80_80,80
+Kujou Sara,195,atk,90_90,90
+Kujou Sara,53,def,1_20,1
+Kujou Sara,175,def,20_40,20
+Kujou Sara,135,def,20_20,20
+Kujou Sara,289,def,40_50,40
+Kujou Sara,262,def,40_40,40
+Kujou Sara,370,def,50_60,50
+Kujou Sara,333,def,50_50,50
+Kujou Sara,442,def,60_70,60
+Kujou Sara,414,def,60_60,60
+Kujou Sara,513,def,70_80,70
+Kujou Sara,485,def,70_70,70
+Kujou Sara,584,def,80_90,80
+Kujou Sara,556,def,80_80,80
+Kujou Sara,628,def,90_90,90
+Kujou Sara,802,hp,1_20,1
+Kujou Sara,2661,hp,20_40,20
+Kujou Sara,2061,hp,20_20,20
+Kujou Sara,4411,hp,40_50,40
+Kujou Sara,3985,hp,40_40,40
+Kujou Sara,5642,hp,50_60,50
+Kujou Sara,5074,hp,50_50,50
+Kujou Sara,6731,hp,60_70,60
+Kujou Sara,6305,hp,60_60,60
+Kujou Sara,7818,hp,70_80,70
+Kujou Sara,7393,hp,70_70,70
+Kujou Sara,8907,hp,80_90,80
+Kujou Sara,8481,hp,80_80,80
+Kujou Sara,9570,hp,90_90,90
+Kuki Shinobu,17,atk,1_20,1
+Kuki Shinobu,59,atk,20_40,20
+Kuki Shinobu,45,atk,20_20,20
+Kuki Shinobu,97,atk,40_50,40
+Kuki Shinobu,88,atk,40_40,40
+Kuki Shinobu,125,atk,50_60,50
+Kuki Shinobu,112,atk,50_50,50
+Kuki Shinobu,149,atk,60_70,60
+Kuki Shinobu,139,atk,60_60,60
+Kuki Shinobu,173,atk,70_80,70
+Kuki Shinobu,164,atk,70_70,70
+Kuki Shinobu,197,atk,80_90,80
+Kuki Shinobu,188,atk,80_80,80
+Kuki Shinobu,212,atk,90_90,90
+Kuki Shinobu,62,def,1_20,1
+Kuki Shinobu,208,def,20_40,20
+Kuki Shinobu,161,def,20_20,20
+Kuki Shinobu,346,def,40_50,40
+Kuki Shinobu,312,def,40_40,40
+Kuki Shinobu,442,def,50_60,50
+Kuki Shinobu,398,def,50_50,50
+Kuki Shinobu,528,def,60_70,60
+Kuki Shinobu,494,def,60_60,60
+Kuki Shinobu,613,def,70_80,70
+Kuki Shinobu,579,def,70_70,70
+Kuki Shinobu,698,def,80_90,80
+Kuki Shinobu,665,def,80_80,80
+Kuki Shinobu,750,def,90_90,90
+Kuki Shinobu,1030,hp,1_20,1
+Kuki Shinobu,3416,hp,20_40,20
+Kuki Shinobu,2646,hp,20_20,20
+Kuki Shinobu,5664,hp,40_50,40
+Kuki Shinobu,5117,hp,40_40,40
+Kuki Shinobu,7244,hp,50_60,50
+Kuki Shinobu,6515,hp,50_50,50
+Kuki Shinobu,8642,hp,60_70,60
+Kuki Shinobu,8095,hp,60_60,60
+Kuki Shinobu,10039,hp,70_80,70
+Kuki Shinobu,9492,hp,70_70,70
+Kuki Shinobu,11437,hp,80_90,80
+Kuki Shinobu,10890,hp,80_80,80
+Kuki Shinobu,12288,hp,90_90,90
+Layla,18,atk,1_20,1
+Layla,60,atk,20_40,20
+Layla,46,atk,20_20,20
+Layla,99,atk,40_50,40
+Layla,90,atk,40_40,40
+Layla,127,atk,50_60,50
+Layla,114,atk,50_50,50
+Layla,152,atk,60_70,60
+Layla,142,atk,60_60,60
+Layla,176,atk,70_80,70
+Layla,167,atk,70_70,70
+Layla,201,atk,80_90,80
+Layla,191,atk,80_80,80
+Layla,216,atk,90_90,90
+Layla,54,def,1_20,1
+Layla,182,def,20_40,20
+Layla,141,def,20_20,20
+Layla,302,def,40_50,40
+Layla,272,def,40_40,40
+Layla,386,def,50_60,50
+Layla,347,def,50_50,50
+Layla,460,def,60_70,60
+Layla,431,def,60_60,60
+Layla,535,def,70_80,70
+Layla,506,def,70_70,70
+Layla,609,def,80_90,80
+Layla,580,def,80_80,80
+Layla,655,def,90_90,90
+Layla,930,hp,1_20,1
+Layla,3084,hp,20_40,20
+Layla,2389,hp,20_20,20
+Layla,5113,hp,40_50,40
+Layla,4619,hp,40_40,40
+Layla,6539,hp,50_60,50
+Layla,5881,hp,50_50,50
+Layla,7801,hp,60_70,60
+Layla,7307,hp,60_60,60
+Layla,9062,hp,70_80,70
+Layla,8568,hp,70_70,70
+Layla,10324,hp,80_90,80
+Layla,9830,hp,80_80,80
+Layla,11092,hp,90_90,90
+Lisa,19,atk,1_20,1
+Lisa,64,atk,20_40,20
+Lisa,50,atk,20_20,20
+Lisa,107,atk,40_50,40
+Lisa,96,atk,40_40,40
+Lisa,136,atk,50_60,50
+Lisa,123,atk,50_50,50
+Lisa,163,atk,60_70,60
+Lisa,153,atk,60_60,60
+Lisa,189,atk,70_80,70
+Lisa,179,atk,70_70,70
+Lisa,215,atk,80_90,80
+Lisa,205,atk,80_80,80
+Lisa,232,atk,90_90,90
+Lisa,48,def,1_20,1
+Lisa,159,def,20_40,20
+Lisa,123,def,20_20,20
+Lisa,264,def,40_50,40
+Lisa,239,def,40_40,40
+Lisa,338,def,50_60,50
+Lisa,304,def,50_50,50
+Lisa,403,def,60_70,60
+Lisa,378,def,60_60,60
+Lisa,468,def,70_80,70
+Lisa,443,def,70_70,70
+Lisa,534,def,80_90,80
+Lisa,508,def,80_80,80
+Lisa,573,def,90_90,90
+Lisa,802,hp,1_20,1
+Lisa,2661,hp,20_40,20
+Lisa,2061,hp,20_20,20
+Lisa,4411,hp,40_50,40
+Lisa,3985,hp,40_40,40
+Lisa,5642,hp,50_60,50
+Lisa,5074,hp,50_50,50
+Lisa,6731,hp,60_70,60
+Lisa,6305,hp,60_60,60
+Lisa,7818,hp,70_80,70
+Lisa,7393,hp,70_70,70
+Lisa,8907,hp,80_90,80
+Lisa,8481,hp,80_80,80
+Lisa,9570,hp,90_90,90
+Lynette,19,atk,1_20,1
+Lynette,64,atk,20_40,20
+Lynette,49,atk,20_20,20
+Lynette,106,atk,40_50,40
+Lynette,96,atk,40_40,40
+Lynette,136,atk,50_60,50
+Lynette,122,atk,50_50,50
+Lynette,162,atk,60_70,60
+Lynette,152,atk,60_60,60
+Lynette,189,atk,70_80,70
+Lynette,178,atk,70_70,70
+Lynette,215,atk,80_90,80
+Lynette,205,atk,80_80,80
+Lynette,231,atk,90_90,90
+Lynette,59,def,1_20,1
+Lynette,197,def,20_40,20
+Lynette,153,def,20_20,20
+Lynette,328,def,40_50,40
+Lynette,296,def,40_40,40
+Lynette,419,def,50_60,50
+Lynette,377,def,50_50,50
+Lynette,500,def,60_70,60
+Lynette,468,def,60_60,60
+Lynette,581,def,70_80,70
+Lynette,549,def,70_70,70
+Lynette,662,def,80_90,80
+Lynette,630,def,80_80,80
+Lynette,711,def,90_90,90
+Lynette,1039,hp,1_20,1
+Lynette,3446,hp,20_40,20
+Lynette,2670,hp,20_20,20
+Lynette,5714,hp,40_50,40
+Lynette,5162,hp,40_40,40
+Lynette,7308,hp,50_60,50
+Lynette,6573,hp,50_50,50
+Lynette,8719,hp,60_70,60
+Lynette,8167,hp,60_60,60
+Lynette,10128,hp,70_80,70
+Lynette,9576,hp,70_70,70
+Lynette,11538,hp,80_90,80
+Lynette,10987,hp,80_80,80
+Lynette,12397,hp,90_90,90
+Lyney,24,atk,1_20,1
+Lyney,85,atk,20_40,20
+Lyney,64,atk,20_20,20
+Lyney,142,atk,40_50,40
+Lyney,127,atk,40_40,40
+Lyney,184,atk,50_60,50
+Lyney,164,atk,50_50,50
+Lyney,221,atk,60_70,60
+Lyney,206,atk,60_60,60
+Lyney,258,atk,70_80,70
+Lyney,243,atk,70_70,70
+Lyney,295,atk,80_90,80
+Lyney,280,atk,80_80,80
+Lyney,318,atk,90_90,90
+Lyney,41,def,1_20,1
+Lyney,144,def,20_40,20
+Lyney,108,def,20_20,20
+Lyney,241,def,40_50,40
+Lyney,216,def,40_40,40
+Lyney,312,def,50_60,50
+Lyney,278,def,50_50,50
+Lyney,374,def,60_70,60
+Lyney,348,def,60_60,60
+Lyney,437,def,70_80,70
+Lyney,411,def,70_70,70
+Lyney,500,def,80_90,80
+Lyney,474,def,80_80,80
+Lyney,537,def,90_90,90
+Lyney,857,hp,1_20,1
+Lyney,2961,hp,20_40,20
+Lyney,2225,hp,20_20,20
+Lyney,4953,hp,40_50,40
+Lyney,4431,hp,40_40,40
+Lyney,6396,hp,50_60,50
+Lyney,5699,hp,50_50,50
+Lyney,7672,hp,60_70,60
+Lyney,7149,hp,60_60,60
+Lyney,8955,hp,70_80,70
+Lyney,8432,hp,70_70,70
+Lyney,10246,hp,80_90,80
+Lyney,9723,hp,80_80,80
+Lyney,11021,hp,90_90,90
+Mika,18,atk,1_20,1
+Mika,62,atk,20_40,20
+Mika,48,atk,20_20,20
+Mika,102,atk,40_50,40
+Mika,92,atk,40_40,40
+Mika,131,atk,50_60,50
+Mika,118,atk,50_50,50
+Mika,156,atk,60_70,60
+Mika,146,atk,60_60,60
+Mika,182,atk,70_80,70
+Mika,172,atk,70_70,70
+Mika,207,atk,80_90,80
+Mika,197,atk,80_80,80
+Mika,223,atk,90_90,90
+Mika,59,def,1_20,1
+Mika,198,def,20_40,20
+Mika,153,def,20_20,20
+Mika,328,def,40_50,40
+Mika,297,def,40_40,40
+Mika,420,def,50_60,50
+Mika,378,def,50_50,50
+Mika,501,def,60_70,60
+Mika,469,def,60_60,60
+Mika,582,def,70_80,70
+Mika,550,def,70_70,70
+Mika,663,def,80_90,80
+Mika,632,def,80_80,80
+Mika,713,def,90_90,90
+Mika,1048,hp,1_20,1
+Mika,3477,hp,20_40,20
+Mika,2693,hp,20_20,20
+Mika,5764,hp,40_50,40
+Mika,5208,hp,40_40,40
+Mika,7373,hp,50_60,50
+Mika,6630,hp,50_50,50
+Mika,8795,hp,60_70,60
+Mika,8239,hp,60_60,60
+Mika,10217,hp,70_80,70
+Mika,9660,hp,70_70,70
+Mika,11640,hp,80_90,80
+Mika,11083,hp,80_80,80
+Mika,12506,hp,90_90,90
+Mona,22,atk,1_20,1
+Mona,77,atk,20_40,20
+Mona,58,atk,20_20,20
+Mona,129,atk,40_50,40
+Mona,115,atk,40_40,40
+Mona,167,atk,50_60,50
+Mona,148,atk,50_50,50
+Mona,200,atk,60_70,60
+Mona,186,atk,60_60,60
+Mona,233,atk,70_80,70
+Mona,220,atk,70_70,70
+Mona,267,atk,80_90,80
+Mona,253,atk,80_80,80
+Mona,287,atk,90_90,90
+Mona,51,def,1_20,1
+Mona,176,def,20_40,20
+Mona,132,def,20_20,20
+Mona,294,def,40_50,40
+Mona,263,def,40_40,40
+Mona,379,def,50_60,50
+Mona,338,def,50_50,50
+Mona,455,def,60_70,60
+Mona,424,def,60_60,60
+Mona,531,def,70_80,70
+Mona,500,def,70_70,70
+Mona,607,def,80_90,80
+Mona,576,def,80_80,80
+Mona,653,def,90_90,90
+Mona,810,hp,1_20,1
+Mona,2797,hp,20_40,20
+Mona,2102,hp,20_20,20
+Mona,4678,hp,40_50,40
+Mona,4185,hp,40_40,40
+Mona,6041,hp,50_60,50
+Mona,5383,hp,50_50,50
+Mona,7246,hp,60_70,60
+Mona,6752,hp,60_60,60
+Mona,8458,hp,70_80,70
+Mona,7964,hp,70_70,70
+Mona,9677,hp,80_90,80
+Mona,9184,hp,80_80,80
+Mona,10409,hp,90_90,90
+Nahida,23,atk,1_20,1
+Nahida,80,atk,20_40,20
+Nahida,60,atk,20_20,20
+Nahida,134,atk,40_50,40
+Nahida,120,atk,40_40,40
+Nahida,173,atk,50_60,50
+Nahida,154,atk,50_50,50
+Nahida,208,atk,60_70,60
+Nahida,193,atk,60_60,60
+Nahida,242,atk,70_80,70
+Nahida,228,atk,70_70,70
+Nahida,277,atk,80_90,80
+Nahida,263,atk,80_80,80
+Nahida,298,atk,90_90,90
+Nahida,49,def,1_20,1
+Nahida,169,def,20_40,20
+Nahida,127,def,20_20,20
+Nahida,283,def,40_50,40
+Nahida,253,def,40_40,40
+Nahida,365,def,50_60,50
+Nahida,325,def,50_50,50
+Nahida,438,def,60_70,60
+Nahida,408,def,60_60,60
+Nahida,512,def,70_80,70
+Nahida,482,def,70_70,70
+Nahida,585,def,80_90,80
+Nahida,556,def,80_80,80
+Nahida,630,def,90_90,90
+Nahida,806,hp,1_20,1
+Nahida,2783,hp,20_40,20
+Nahida,2092,hp,20_20,20
+Nahida,4656,hp,40_50,40
+Nahida,4165,hp,40_40,40
+Nahida,6012,hp,50_60,50
+Nahida,5357,hp,50_50,50
+Nahida,7211,hp,60_70,60
+Nahida,6720,hp,60_60,60
+Nahida,8417,hp,70_80,70
+Nahida,7926,hp,70_70,70
+Nahida,9631,hp,80_90,80
+Nahida,9140,hp,80_80,80
+Nahida,10360,hp,90_90,90
+Neuvillette,16,atk,1_20,1
+Neuvillette,55,atk,20_40,20
+Neuvillette,42,atk,20_20,20
+Neuvillette,93,atk,40_50,40
+Neuvillette,83,atk,40_40,40
+Neuvillette,120,atk,50_60,50
+Neuvillette,107,atk,50_50,50
+Neuvillette,145,atk,60_70,60
+Neuvillette,135,atk,60_60,60
+Neuvillette,169,atk,70_80,70
+Neuvillette,159,atk,70_70,70
+Neuvillette,193,atk,80_90,80
+Neuvillette,183,atk,80_80,80
+Neuvillette,208,atk,90_90,90
+Neuvillette,44,def,1_20,1
+Neuvillette,154,def,20_40,20
+Neuvillette,116,def,20_20,20
+Neuvillette,259,def,40_50,40
+Neuvillette,231,def,40_40,40
+Neuvillette,334,def,50_60,50
+Neuvillette,298,def,50_50,50
+Neuvillette,401,def,60_70,60
+Neuvillette,373,def,60_60,60
+Neuvillette,468,def,70_80,70
+Neuvillette,441,def,70_70,70
+Neuvillette,535,def,80_90,80
+Neuvillette,508,def,80_80,80
+Neuvillette,576,def,90_90,90
+Neuvillette,1143,hp,1_20,1
+Neuvillette,3948,hp,20_40,20
+Neuvillette,2967,hp,20_20,20
+Neuvillette,6604,hp,40_50,40
+Neuvillette,5908,hp,40_40,40
+Neuvillette,8528,hp,50_60,50
+Neuvillette,7599,hp,50_50,50
+Neuvillette,10229,hp,60_70,60
+Neuvillette,9532,hp,60_60,60
+Neuvillette,11940,hp,70_80,70
+Neuvillette,11243,hp,70_70,70
+Neuvillette,13662,hp,80_90,80
+Neuvillette,12965,hp,80_80,80
+Neuvillette,14695,hp,90_90,90
+Nilou,17,atk,1_20,1
+Nilou,61,atk,20_40,20
+Nilou,46,atk,20_20,20
+Nilou,103,atk,40_50,40
+Nilou,92,atk,40_40,40
+Nilou,133,atk,50_60,50
+Nilou,118,atk,50_50,50
+Nilou,159,atk,60_70,60
+Nilou,148,atk,60_60,60
+Nilou,186,atk,70_80,70
+Nilou,175,atk,70_70,70
+Nilou,213,atk,80_90,80
+Nilou,202,atk,80_80,80
+Nilou,229,atk,90_90,90
+Nilou,56,def,1_20,1
+Nilou,195,def,20_40,20
+Nilou,147,def,20_20,20
+Nilou,327,def,40_50,40
+Nilou,292,def,40_40,40
+Nilou,422,def,50_60,50
+Nilou,376,def,50_50,50
+Nilou,507,def,60_70,60
+Nilou,472,def,60_60,60
+Nilou,591,def,70_80,70
+Nilou,557,def,70_70,70
+Nilou,677,def,80_90,80
+Nilou,642,def,80_80,80
+Nilou,728,def,90_90,90
+Nilou,1182,hp,1_20,1
+Nilou,4079,hp,20_40,20
+Nilou,3066,hp,20_20,20
+Nilou,6825,hp,40_50,40
+Nilou,6104,hp,40_40,40
+Nilou,8812,hp,50_60,50
+Nilou,7852,hp,50_50,50
+Nilou,10570,hp,60_70,60
+Nilou,9850,hp,60_60,60
+Nilou,12338,hp,70_80,70
+Nilou,11617,hp,70_70,70
+Nilou,14117,hp,80_90,80
+Nilou,13397,hp,80_80,80
+Nilou,15184,hp,90_90,90
+Ningguang,18,atk,1_20,1
+Ningguang,59,atk,20_40,20
+Ningguang,46,atk,20_20,20
+Ningguang,98,atk,40_50,40
+Ningguang,88,atk,40_40,40
+Ningguang,125,atk,50_60,50
+Ningguang,113,atk,50_50,50
+Ningguang,149,atk,60_70,60
+Ningguang,140,atk,60_60,60
+Ningguang,174,atk,70_80,70
+Ningguang,164,atk,70_70,70
+Ningguang,198,atk,80_90,80
+Ningguang,188,atk,80_80,80
+Ningguang,212,atk,90_90,90
+Ningguang,48,def,1_20,1
+Ningguang,159,def,20_40,20
+Ningguang,123,def,20_20,20
+Ningguang,264,def,40_50,40
+Ningguang,239,def,40_40,40
+Ningguang,338,def,50_60,50
+Ningguang,304,def,50_50,50
+Ningguang,403,def,60_70,60
+Ningguang,378,def,60_60,60
+Ningguang,468,def,70_80,70
+Ningguang,443,def,70_70,70
+Ningguang,534,def,80_90,80
+Ningguang,508,def,80_80,80
+Ningguang,573,def,90_90,90
+Ningguang,821,hp,1_20,1
+Ningguang,2721,hp,20_40,20
+Ningguang,2108,hp,20_20,20
+Ningguang,4512,hp,40_50,40
+Ningguang,4076,hp,40_40,40
+Ningguang,5770,hp,50_60,50
+Ningguang,5189,hp,50_50,50
+Ningguang,6884,hp,60_70,60
+Ningguang,6448,hp,60_60,60
+Ningguang,7996,hp,70_80,70
+Ningguang,7561,hp,70_70,70
+Ningguang,9110,hp,80_90,80
+Ningguang,8674,hp,80_80,80
+Ningguang,9787,hp,90_90,90
+Noelle,16,atk,1_20,1
+Noelle,53,atk,20_40,20
+Noelle,41,atk,20_20,20
+Noelle,88,atk,40_50,40
+Noelle,80,atk,40_40,40
+Noelle,113,atk,50_60,50
+Noelle,101,atk,50_50,50
+Noelle,134,atk,60_70,60
+Noelle,126,atk,60_60,60
+Noelle,156,atk,70_80,70
+Noelle,148,atk,70_70,70
+Noelle,178,atk,80_90,80
+Noelle,169,atk,80_80,80
+Noelle,191,atk,90_90,90
+Noelle,67,def,1_20,1
+Noelle,222,def,20_40,20
+Noelle,172,def,20_20,20
+Noelle,368,def,40_50,40
+Noelle,333,def,40_40,40
+Noelle,471,def,50_60,50
+Noelle,423,def,50_50,50
+Noelle,562,def,60_70,60
+Noelle,526,def,60_60,60
+Noelle,652,def,70_80,70
+Noelle,617,def,70_70,70
+Noelle,743,def,80_90,80
+Noelle,708,def,80_80,80
+Noelle,799,def,90_90,90
+Noelle,1012,hp,1_20,1
+Noelle,3356,hp,20_40,20
+Noelle,2600,hp,20_20,20
+Noelle,5564,hp,40_50,40
+Noelle,5027,hp,40_40,40
+Noelle,7117,hp,50_60,50
+Noelle,6400,hp,50_50,50
+Noelle,8490,hp,60_70,60
+Noelle,7953,hp,60_60,60
+Noelle,9862,hp,70_80,70
+Noelle,9325,hp,70_70,70
+Noelle,11235,hp,80_90,80
+Noelle,10698,hp,80_80,80
+Noelle,12071,hp,90_90,90
+Qiqi,22,atk,1_20,1
+Qiqi,77,atk,20_40,20
+Qiqi,58,atk,20_20,20
+Qiqi,129,atk,40_50,40
+Qiqi,115,atk,40_40,40
+Qiqi,167,atk,50_60,50
+Qiqi,148,atk,50_50,50
+Qiqi,200,atk,60_70,60
+Qiqi,186,atk,60_60,60
+Qiqi,233,atk,70_80,70
+Qiqi,220,atk,70_70,70
+Qiqi,267,atk,80_90,80
+Qiqi,253,atk,80_80,80
+Qiqi,287,atk,90_90,90
+Qiqi,72,def,1_20,1
+Qiqi,248,def,20_40,20
+Qiqi,186,def,20_20,20
+Qiqi,415,def,40_50,40
+Qiqi,371,def,40_40,40
+Qiqi,535,def,50_60,50
+Qiqi,477,def,50_50,50
+Qiqi,642,def,60_70,60
+Qiqi,598,def,60_60,60
+Qiqi,749,def,70_80,70
+Qiqi,706,def,70_70,70
+Qiqi,857,def,80_90,80
+Qiqi,814,def,80_80,80
+Qiqi,922,def,90_90,90
+Qiqi,963,hp,1_20,1
+Qiqi,3323,hp,20_40,20
+Qiqi,2498,hp,20_20,20
+Qiqi,5559,hp,40_50,40
+Qiqi,4973,hp,40_40,40
+Qiqi,7178,hp,50_60,50
+Qiqi,6396,hp,50_50,50
+Qiqi,8610,hp,60_70,60
+Qiqi,8023,hp,60_60,60
+Qiqi,10050,hp,70_80,70
+Qiqi,9463,hp,70_70,70
+Qiqi,11499,hp,80_90,80
+Qiqi,10912,hp,80_80,80
+Qiqi,12368,hp,90_90,90
+Raiden Shogun,26,atk,1_20,1
+Raiden Shogun,91,atk,20_40,20
+Raiden Shogun,68,atk,20_20,20
+Raiden Shogun,152,atk,40_50,40
+Raiden Shogun,136,atk,40_40,40
+Raiden Shogun,196,atk,50_60,50
+Raiden Shogun,175,atk,50_50,50
+Raiden Shogun,235,atk,60_70,60
+Raiden Shogun,219,atk,60_60,60
+Raiden Shogun,274,atk,70_80,70
+Raiden Shogun,258,atk,70_70,70
+Raiden Shogun,314,atk,80_90,80
+Raiden Shogun,298,atk,80_80,80
+Raiden Shogun,337,atk,90_90,90
+Raiden Shogun,61,def,1_20,1
+Raiden Shogun,212,def,20_40,20
+Raiden Shogun,159,def,20_20,20
+Raiden Shogun,355,def,40_50,40
+Raiden Shogun,317,def,40_40,40
+Raiden Shogun,458,def,50_60,50
+Raiden Shogun,408,def,50_50,50
+Raiden Shogun,549,def,60_70,60
+Raiden Shogun,512,def,60_60,60
+Raiden Shogun,641,def,70_80,70
+Raiden Shogun,604,def,70_70,70
+Raiden Shogun,737,def,80_90,80
+Raiden Shogun,696,def,80_80,80
+Raiden Shogun,789,def,90_90,90
+Raiden Shogun,1005,hp,1_20,1
+Raiden Shogun,3468,hp,20_40,20
+Raiden Shogun,2606,hp,20_20,20
+Raiden Shogun,5801,hp,40_50,40
+Raiden Shogun,5189,hp,40_40,40
+Raiden Shogun,7491,hp,50_60,50
+Raiden Shogun,6675,hp,50_50,50
+Raiden Shogun,8985,hp,60_70,60
+Raiden Shogun,8373,hp,60_60,60
+Raiden Shogun,10487,hp,70_80,70
+Raiden Shogun,9875,hp,70_70,70
+Raiden Shogun,12000,hp,80_90,80
+Raiden Shogun,11388,hp,80_80,80
+Raiden Shogun,12907,hp,90_90,90
+Razor,20,atk,1_20,1
+Razor,65,atk,20_40,20
+Razor,50,atk,20_20,20
+Razor,108,atk,40_50,40
+Razor,97,atk,40_40,40
+Razor,138,atk,50_60,50
+Razor,124,atk,50_50,50
+Razor,164,atk,60_70,60
+Razor,154,atk,60_60,60
+Razor,191,atk,70_80,70
+Razor,180,atk,70_70,70
+Razor,217,atk,80_90,80
+Razor,207,atk,80_80,80
+Razor,234,atk,90_90,90
+Razor,63,def,1_20,1
+Razor,209,def,20_40,20
+Razor,162,def,20_20,20
+Razor,346,def,40_50,40
+Razor,313,def,40_40,40
+Razor,443,def,50_60,50
+Razor,398,def,50_50,50
+Razor,528,def,60_70,60
+Razor,495,def,60_60,60
+Razor,613,def,70_80,70
+Razor,580,def,70_70,70
+Razor,699,def,80_90,80
+Razor,665,def,80_80,80
+Razor,751,def,90_90,90
+Razor,1003,hp,1_20,1
+Razor,3326,hp,20_40,20
+Razor,2577,hp,20_20,20
+Razor,5514,hp,40_50,40
+Razor,4982,hp,40_40,40
+Razor,7052,hp,50_60,50
+Razor,6343,hp,50_50,50
+Razor,8413,hp,60_70,60
+Razor,7881,hp,60_60,60
+Razor,9773,hp,70_80,70
+Razor,9241,hp,70_70,70
+Razor,11134,hp,80_90,80
+Razor,10602,hp,80_80,80
+Razor,11962,hp,90_90,90
+Rosaria,20,atk,1_20,1
+Rosaria,67,atk,20_40,20
+Rosaria,52,atk,20_20,20
+Rosaria,111,atk,40_50,40
+Rosaria,100,atk,40_40,40
+Rosaria,141,atk,50_60,50
+Rosaria,127,atk,50_50,50
+Rosaria,169,atk,60_70,60
+Rosaria,158,atk,60_60,60
+Rosaria,196,atk,70_80,70
+Rosaria,185,atk,70_70,70
+Rosaria,223,atk,80_90,80
+Rosaria,213,atk,80_80,80
+Rosaria,240,atk,90_90,90
+Rosaria,60,def,1_20,1
+Rosaria,197,def,20_40,20
+Rosaria,153,def,20_20,20
+Rosaria,327,def,40_50,40
+Rosaria,296,def,40_40,40
+Rosaria,418,def,50_60,50
+Rosaria,376,def,50_50,50
+Rosaria,499,def,60_70,60
+Rosaria,468,def,60_60,60
+Rosaria,580,def,70_80,70
+Rosaria,548,def,70_70,70
+Rosaria,661,def,80_90,80
+Rosaria,629,def,80_80,80
+Rosaria,710,def,90_90,90
+Rosaria,1030,hp,1_20,1
+Rosaria,3417,hp,20_40,20
+Rosaria,2647,hp,20_20,20
+Rosaria,5665,hp,40_50,40
+Rosaria,5118,hp,40_40,40
+Rosaria,7245,hp,50_60,50
+Rosaria,6516,hp,50_50,50
+Rosaria,8643,hp,60_70,60
+Rosaria,8096,hp,60_60,60
+Rosaria,10040,hp,70_80,70
+Rosaria,9493,hp,70_70,70
+Rosaria,11438,hp,80_90,80
+Rosaria,10891,hp,80_80,80
+Rosaria,12289,hp,90_90,90
+Sangonomiya Kokomi,18,atk,1_20,1
+Sangonomiya Kokomi,63,atk,20_40,20
+Sangonomiya Kokomi,47,atk,20_20,20
+Sangonomiya Kokomi,105,atk,40_50,40
+Sangonomiya Kokomi,94,atk,40_40,40
+Sangonomiya Kokomi,136,atk,50_60,50
+Sangonomiya Kokomi,121,atk,50_50,50
+Sangonomiya Kokomi,163,atk,60_70,60
+Sangonomiya Kokomi,152,atk,60_60,60
+Sangonomiya Kokomi,190,atk,70_80,70
+Sangonomiya Kokomi,179,atk,70_70,70
+Sangonomiya Kokomi,218,atk,80_90,80
+Sangonomiya Kokomi,207,atk,80_80,80
+Sangonomiya Kokomi,234,atk,90_90,90
+Sangonomiya Kokomi,51,def,1_20,1
+Sangonomiya Kokomi,177,def,20_40,20
+Sangonomiya Kokomi,133,def,20_20,20
+Sangonomiya Kokomi,295,def,40_50,40
+Sangonomiya Kokomi,264,def,40_40,40
+Sangonomiya Kokomi,381,def,50_60,50
+Sangonomiya Kokomi,340,def,50_50,50
+Sangonomiya Kokomi,457,def,60_70,60
+Sangonomiya Kokomi,426,def,60_60,60
+Sangonomiya Kokomi,534,def,70_80,70
+Sangonomiya Kokomi,503,def,70_70,70
+Sangonomiya Kokomi,611,def,80_90,80
+Sangonomiya Kokomi,580,def,80_80,80
+Sangonomiya Kokomi,657,def,90_90,90
+Sangonomiya Kokomi,1049,hp,1_20,1
+Sangonomiya Kokomi,3619,hp,20_40,20
+Sangonomiya Kokomi,2720,hp,20_20,20
+Sangonomiya Kokomi,6055,hp,40_50,40
+Sangonomiya Kokomi,5416,hp,40_40,40
+Sangonomiya Kokomi,7818,hp,50_60,50
+Sangonomiya Kokomi,6966,hp,50_50,50
+Sangonomiya Kokomi,9377,hp,60_70,60
+Sangonomiya Kokomi,8738,hp,60_60,60
+Sangonomiya Kokomi,10945,hp,70_80,70
+Sangonomiya Kokomi,10306,hp,70_70,70
+Sangonomiya Kokomi,12524,hp,80_90,80
+Sangonomiya Kokomi,11885,hp,80_80,80
+Sangonomiya Kokomi,13471,hp,90_90,90
+Sayu,20,atk,1_20,1
+Sayu,68,atk,20_40,20
+Sayu,53,atk,20_20,20
+Sayu,113,atk,40_50,40
+Sayu,102,atk,40_40,40
+Sayu,144,atk,50_60,50
+Sayu,130,atk,50_50,50
+Sayu,172,atk,60_70,60
+Sayu,161,atk,60_60,60
+Sayu,200,atk,70_80,70
+Sayu,189,atk,70_70,70
+Sayu,227,atk,80_90,80
+Sayu,216,atk,80_80,80
+Sayu,244,atk,90_90,90
+Sayu,62,def,1_20,1
+Sayu,207,def,20_40,20
+Sayu,160,def,20_20,20
+Sayu,343,def,40_50,40
+Sayu,310,def,40_40,40
+Sayu,439,def,50_60,50
+Sayu,395,def,50_50,50
+Sayu,524,def,60_70,60
+Sayu,491,def,60_60,60
+Sayu,608,def,70_80,70
+Sayu,575,def,70_70,70
+Sayu,693,def,80_90,80
+Sayu,660,def,80_80,80
+Sayu,745,def,90_90,90
+Sayu,994,hp,1_20,1
+Sayu,3296,hp,20_40,20
+Sayu,2553,hp,20_20,20
+Sayu,5464,hp,40_50,40
+Sayu,4937,hp,40_40,40
+Sayu,6988,hp,50_60,50
+Sayu,6285,hp,50_50,50
+Sayu,8337,hp,60_70,60
+Sayu,7809,hp,60_60,60
+Sayu,9684,hp,70_80,70
+Sayu,9157,hp,70_70,70
+Sayu,11033,hp,80_90,80
+Sayu,10505,hp,80_80,80
+Sayu,11854,hp,90_90,90
+Shenhe,24,atk,1_20,1
+Shenhe,82,atk,20_40,20
+Shenhe,61,atk,20_20,20
+Shenhe,137,atk,40_50,40
+Shenhe,122,atk,40_40,40
+Shenhe,176,atk,50_60,50
+Shenhe,157,atk,50_50,50
+Shenhe,211,atk,60_70,60
+Shenhe,197,atk,60_60,60
+Shenhe,274,atk,70_80,70
+Shenhe,232,atk,70_70,70
+Shenhe,282,atk,80_90,80
+Shenhe,268,atk,80_80,80
+Shenhe,304,atk,90_90,90
+Shenhe,65,def,1_20,1
+Shenhe,223,def,20_40,20
+Shenhe,168,def,20_20,20
+Shenhe,373,def,40_50,40
+Shenhe,334,def,40_40,40
+Shenhe,482,def,50_60,50
+Shenhe,429,def,50_50,50
+Shenhe,578,def,60_70,60
+Shenhe,538,def,60_60,60
+Shenhe,674,def,70_80,70
+Shenhe,635,def,70_70,70
+Shenhe,772,def,80_90,80
+Shenhe,732,def,80_80,80
+Shenhe,830,def,90_90,90
+Shenhe,1011,hp,1_20,1
+Shenhe,3491,hp,20_40,20
+Shenhe,2624,hp,20_20,20
+Shenhe,5840,hp,40_50,40
+Shenhe,5224,hp,40_40,40
+Shenhe,7540,hp,50_60,50
+Shenhe,6719,hp,50_50,50
+Shenhe,9045,hp,60_70,60
+Shenhe,8429,hp,60_60,60
+Shenhe,10557,hp,70_80,70
+Shenhe,9941,hp,70_70,70
+Shenhe,21080,hp,80_90,80
+Shenhe,11463,hp,80_80,80
+Shenhe,12993,hp,90_90,90
+Shikanoin Heizou,18,atk,1_20,1
+Shikanoin Heizou,62,atk,20_40,20
+Shikanoin Heizou,48,atk,20_20,20
+Shikanoin Heizou,103,atk,40_50,40
+Shikanoin Heizou,93,atk,40_40,40
+Shikanoin Heizou,132,atk,50_60,50
+Shikanoin Heizou,119,atk,50_50,50
+Shikanoin Heizou,158,atk,60_70,60
+Shikanoin Heizou,148,atk,60_60,60
+Shikanoin Heizou,183,atk,70_80,70
+Shikanoin Heizou,173,atk,70_70,70
+Shikanoin Heizou,209,atk,80_90,80
+Shikanoin Heizou,199,atk,80_80,80
+Shikanoin Heizou,225,atk,90_90,90
+Shikanoin Heizou,57,def,1_20,1
+Shikanoin Heizou,190,def,20_40,20
+Shikanoin Heizou,147,def,20_20,20
+Shikanoin Heizou,315,def,40_50,40
+Shikanoin Heizou,284,def,40_40,40
+Shikanoin Heizou,403,def,50_60,50
+Shikanoin Heizou,362,def,50_50,50
+Shikanoin Heizou,480,def,60_70,60
+Shikanoin Heizou,450,def,60_60,60
+Shikanoin Heizou,558,def,70_80,70
+Shikanoin Heizou,528,def,70_70,70
+Shikanoin Heizou,636,def,80_90,80
+Shikanoin Heizou,606,def,80_80,80
+Shikanoin Heizou,683,def,90_90,90
+Shikanoin Heizou,893,hp,1_20,1
+Shikanoin Heizou,2963,hp,20_40,20
+Shikanoin Heizou,2295,hp,20_20,20
+Shikanoin Heizou,4912,hp,40_50,40
+Shikanoin Heizou,4438,hp,40_40,40
+Shikanoin Heizou,6283,hp,50_60,50
+Shikanoin Heizou,5650,hp,50_50,50
+Shikanoin Heizou,7495,hp,60_70,60
+Shikanoin Heizou,7021,hp,60_60,60
+Shikanoin Heizou,8706,hp,70_80,70
+Shikanoin Heizou,8232,hp,70_70,70
+Shikanoin Heizou,9919,hp,80_90,80
+Shikanoin Heizou,9445,hp,80_80,80
+Shikanoin Heizou,10657,hp,90_90,90
+Sucrose,14,atk,1_20,1
+Sucrose,47,atk,20_40,20
+Sucrose,37,atk,20_20,20
+Sucrose,78,atk,40_50,40
+Sucrose,71,atk,40_40,40
+Sucrose,100,atk,50_60,50
+Sucrose,90,atk,50_50,50
+Sucrose,120,atk,60_70,60
+Sucrose,112,atk,60_60,60
+Sucrose,139,atk,70_80,70
+Sucrose,131,atk,70_70,70
+Sucrose,158,atk,80_90,80
+Sucrose,151,atk,80_80,80
+Sucrose,170,atk,90_90,90
+Sucrose,59,def,1_20,1
+Sucrose,195,def,20_40,20
+Sucrose,151,def,20_20,20
+Sucrose,324,def,40_50,40
+Sucrose,293,def,40_40,40
+Sucrose,414,def,50_60,50
+Sucrose,373,def,50_50,50
+Sucrose,494,def,60_70,60
+Sucrose,463,def,60_60,60
+Sucrose,574,def,70_80,70
+Sucrose,543,def,70_70,70
+Sucrose,654,def,80_90,80
+Sucrose,623,def,80_80,80
+Sucrose,703,def,90_90,90
+Sucrose,775,hp,1_20,1
+Sucrose,2570,hp,20_40,20
+Sucrose,1991,hp,20_20,20
+Sucrose,4261,hp,40_50,40
+Sucrose,3850,hp,40_40,40
+Sucrose,5450,hp,50_60,50
+Sucrose,4901,hp,50_50,50
+Sucrose,6501,hp,60_70,60
+Sucrose,6090,hp,60_60,60
+Sucrose,7552,hp,70_80,70
+Sucrose,7141,hp,70_70,70
+Sucrose,8603,hp,80_90,80
+Sucrose,8192,hp,80_80,80
+Sucrose,9243,hp,90_90,90
+Tartaglia,23,atk,1_20,1
+Tartaglia,81,atk,20_40,20
+Tartaglia,61,atk,20_20,20
+Tartaglia,135,atk,40_50,40
+Tartaglia,121,atk,40_40,40
+Tartaglia,175,atk,50_60,50
+Tartaglia,156,atk,50_50,50
+Tartaglia,210,atk,60_70,60
+Tartaglia,195,atk,60_60,60
+Tartaglia,245,atk,70_80,70
+Tartaglia,231,atk,70_70,70
+Tartaglia,280,atk,80_90,80
+Tartaglia,266,atk,80_80,80
+Tartaglia,301,atk,90_90,90
+Tartaglia,63,def,1_20,1
+Tartaglia,219,def,20_40,20
+Tartaglia,165,def,20_20,20
+Tartaglia,366,def,40_50,40
+Tartaglia,328,def,40_40,40
+Tartaglia,473,def,50_60,50
+Tartaglia,421,def,50_50,50
+Tartaglia,567,def,60_70,60
+Tartaglia,528,def,60_60,60
+Tartaglia,662,def,70_80,70
+Tartaglia,623,def,70_70,70
+Tartaglia,757,def,80_90,80
+Tartaglia,719,def,80_80,80
+Tartaglia,815,def,90_90,90
+Tartaglia,1020,hp,1_20,1
+Tartaglia,3521,hp,20_40,20
+Tartaglia,2646,hp,20_20,20
+Tartaglia,5889,hp,40_50,40
+Tartaglia,5268,hp,40_40,40
+Tartaglia,7604,hp,50_60,50
+Tartaglia,6776,hp,50_50,50
+Tartaglia,9121,hp,60_70,60
+Tartaglia,8500,hp,60_60,60
+Tartaglia,10647,hp,70_80,70
+Tartaglia,10025,hp,70_70,70
+Tartaglia,12182,hp,80_90,80
+Tartaglia,11561,hp,80_80,80
+Tartaglia,13103,hp,90_90,90
+Thoma,17,atk,1_20,1
+Thoma,56,atk,20_40,20
+Thoma,43,atk,20_20,20
+Thoma,93,atk,40_50,40
+Thoma,84,atk,40_40,40
+Thoma,119,atk,50_60,50
+Thoma,107,atk,50_50,50
+Thoma,142,atk,60_70,60
+Thoma,133,atk,60_60,60
+Thoma,165,atk,70_80,70
+Thoma,156,atk,70_70,70
+Thoma,188,atk,80_90,80
+Thoma,179,atk,80_80,80
+Thoma,202,atk,90_90,90
+Thoma,63,def,1_20,1
+Thoma,209,def,20_40,20
+Thoma,162,def,20_20,20
+Thoma,346,def,40_50,40
+Thoma,313,def,40_40,40
+Thoma,443,def,50_60,50
+Thoma,398,def,50_50,50
+Thoma,528,def,60_70,60
+Thoma,495,def,60_60,60
+Thoma,613,def,70_80,70
+Thoma,580,def,70_70,70
+Thoma,699,def,80_90,80
+Thoma,665,def,80_80,80
+Thoma,751,def,90_90,90
+Thoma,866,hp,1_20,1
+Thoma,2872,hp,20_40,20
+Thoma,2225,hp,20_20,20
+Thoma,4762,hp,40_50,40
+Thoma,4302,hp,40_40,40
+Thoma,6091,hp,50_60,50
+Thoma,5478,hp,50_50,50
+Thoma,7266,hp,60_70,60
+Thoma,6806,hp,60_60,60
+Thoma,8440,hp,70_80,70
+Thoma,7981,hp,70_70,70
+Thoma,9616,hp,80_90,80
+Thoma,9156,hp,80_80,80
+Thoma,10331,hp,90_90,90
+Tighnari,20,atk,1_20,1
+Tighnari,71,atk,20_40,20
+Tighnari,54,atk,20_20,20
+Tighnari,120,atk,40_50,40
+Tighnari,107,atk,40_40,40
+Tighnari,155,atk,50_60,50
+Tighnari,138,atk,50_50,50
+Tighnari,186,atk,60_70,60
+Tighnari,173,atk,60_60,60
+Tighnari,217,atk,70_80,70
+Tighnari,204,atk,70_70,70
+Tighnari,249,atk,80_90,80
+Tighnari,236,atk,80_80,80
+Tighnari,267,atk,90_90,90
+Tighnari,49,def,1_20,1
+Tighnari,169,def,20_40,20
+Tighnari,127,def,20_20,20
+Tighnari,283,def,40_50,40
+Tighnari,253,def,40_40,40
+Tighnari,365,def,50_60,50
+Tighnari,325,def,50_50,50
+Tighnari,438,def,60_70,60
+Tighnari,408,def,60_60,60
+Tighnari,512,def,70_80,70
+Tighnari,482,def,70_70,70
+Tighnari,585,def,80_90,80
+Tighnari,556,def,80_80,80
+Tighnari,630,def,90_90,90
+Tighnari,844,hp,1_20,1
+Tighnari,2915,hp,20_40,20
+Tighnari,2191,hp,20_20,20
+Tighnari,4876,hp,40_50,40
+Tighnari,4362,hp,40_40,40
+Tighnari,6296,hp,50_60,50
+Tighnari,5610,hp,50_50,50
+Tighnari,7552,hp,60_70,60
+Tighnari,7038,hp,60_60,60
+Tighnari,8815,hp,70_80,70
+Tighnari,8301,hp,70_70,70
+Tighnari,10087,hp,80_90,80
+Tighnari,9572,hp,80_80,80
+Tighnari,10849,hp,90_90,90
+"Traveler (Aether, Anemo)",18,atk,1_20,1
+"Traveler (Aether, Anemo)",59,atk,20_40,20
+"Traveler (Aether, Anemo)",46,atk,20_20,20
+"Traveler (Aether, Anemo)",98,atk,40_50,40
+"Traveler (Aether, Anemo)",88,atk,40_40,40
+"Traveler (Aether, Anemo)",125,atk,50_60,50
+"Traveler (Aether, Anemo)",113,atk,50_50,50
+"Traveler (Aether, Anemo)",149,atk,60_70,60
+"Traveler (Aether, Anemo)",140,atk,60_60,60
+"Traveler (Aether, Anemo)",174,atk,70_80,70
+"Traveler (Aether, Anemo)",164,atk,70_70,70
+"Traveler (Aether, Anemo)",198,atk,80_90,80
+"Traveler (Aether, Anemo)",188,atk,80_80,80
+"Traveler (Aether, Anemo)",212,atk,90_90,90
+"Traveler (Aether, Anemo)",57,def,1_20,1
+"Traveler (Aether, Anemo)",190,def,20_40,20
+"Traveler (Aether, Anemo)",147,def,20_20,20
+"Traveler (Aether, Anemo)",315,def,40_50,40
+"Traveler (Aether, Anemo)",284,def,40_40,40
+"Traveler (Aether, Anemo)",405,def,50_60,50
+"Traveler (Aether, Anemo)",362,def,50_50,50
+"Traveler (Aether, Anemo)",480,def,60_70,60
+"Traveler (Aether, Anemo)",450,def,60_60,60
+"Traveler (Aether, Anemo)",558,def,70_80,70
+"Traveler (Aether, Anemo)",527,def,70_70,70
+"Traveler (Aether, Anemo)",635,def,80_90,80
+"Traveler (Aether, Anemo)",605,def,80_80,80
+"Traveler (Aether, Anemo)",683,def,90_90,90
+"Traveler (Aether, Anemo)",912,hp,1_20,1
+"Traveler (Aether, Anemo)",3024,hp,20_40,20
+"Traveler (Aether, Anemo)",2342,hp,20_20,20
+"Traveler (Aether, Anemo)",5013,hp,40_50,40
+"Traveler (Aether, Anemo)",4529,hp,40_40,40
+"Traveler (Aether, Anemo)",6411,hp,50_60,50
+"Traveler (Aether, Anemo)",5766,hp,50_50,50
+"Traveler (Aether, Anemo)",7648,hp,60_70,60
+"Traveler (Aether, Anemo)",7164,hp,60_60,60
+"Traveler (Aether, Anemo)",8885,hp,70_80,70
+"Traveler (Aether, Anemo)",8401,hp,70_70,70
+"Traveler (Aether, Anemo)",10122,hp,80_90,80
+"Traveler (Aether, Anemo)",9638,hp,80_80,80
+"Traveler (Aether, Anemo)",10875,hp,90_90,90
+"Traveler (Aether, Dendro)",18,atk,1_20,1
+"Traveler (Aether, Dendro)",59,atk,20_40,20
+"Traveler (Aether, Dendro)",46,atk,20_20,20
+"Traveler (Aether, Dendro)",98,atk,40_50,40
+"Traveler (Aether, Dendro)",88,atk,40_40,40
+"Traveler (Aether, Dendro)",125,atk,50_60,50
+"Traveler (Aether, Dendro)",113,atk,50_50,50
+"Traveler (Aether, Dendro)",149,atk,60_70,60
+"Traveler (Aether, Dendro)",140,atk,60_60,60
+"Traveler (Aether, Dendro)",174,atk,70_80,70
+"Traveler (Aether, Dendro)",164,atk,70_70,70
+"Traveler (Aether, Dendro)",198,atk,80_90,80
+"Traveler (Aether, Dendro)",188,atk,80_80,80
+"Traveler (Aether, Dendro)",212,atk,90_90,90
+"Traveler (Aether, Dendro)",57,def,1_20,1
+"Traveler (Aether, Dendro)",190,def,20_40,20
+"Traveler (Aether, Dendro)",147,def,20_20,20
+"Traveler (Aether, Dendro)",315,def,40_50,40
+"Traveler (Aether, Dendro)",284,def,40_40,40
+"Traveler (Aether, Dendro)",405,def,50_60,50
+"Traveler (Aether, Dendro)",362,def,50_50,50
+"Traveler (Aether, Dendro)",480,def,60_70,60
+"Traveler (Aether, Dendro)",450,def,60_60,60
+"Traveler (Aether, Dendro)",558,def,70_80,70
+"Traveler (Aether, Dendro)",527,def,70_70,70
+"Traveler (Aether, Dendro)",635,def,80_90,80
+"Traveler (Aether, Dendro)",605,def,80_80,80
+"Traveler (Aether, Dendro)",683,def,90_90,90
+"Traveler (Aether, Dendro)",912,hp,1_20,1
+"Traveler (Aether, Dendro)",3024,hp,20_40,20
+"Traveler (Aether, Dendro)",2342,hp,20_20,20
+"Traveler (Aether, Dendro)",5013,hp,40_50,40
+"Traveler (Aether, Dendro)",4529,hp,40_40,40
+"Traveler (Aether, Dendro)",6411,hp,50_60,50
+"Traveler (Aether, Dendro)",5766,hp,50_50,50
+"Traveler (Aether, Dendro)",7648,hp,60_70,60
+"Traveler (Aether, Dendro)",7164,hp,60_60,60
+"Traveler (Aether, Dendro)",8885,hp,70_80,70
+"Traveler (Aether, Dendro)",8401,hp,70_70,70
+"Traveler (Aether, Dendro)",10122,hp,80_90,80
+"Traveler (Aether, Dendro)",9638,hp,80_80,80
+"Traveler (Aether, Dendro)",10875,hp,90_90,90
+"Traveler (Aether, Electro)",18,atk,1_20,1
+"Traveler (Aether, Electro)",59,atk,20_40,20
+"Traveler (Aether, Electro)",46,atk,20_20,20
+"Traveler (Aether, Electro)",98,atk,40_50,40
+"Traveler (Aether, Electro)",88,atk,40_40,40
+"Traveler (Aether, Electro)",125,atk,50_60,50
+"Traveler (Aether, Electro)",113,atk,50_50,50
+"Traveler (Aether, Electro)",149,atk,60_70,60
+"Traveler (Aether, Electro)",140,atk,60_60,60
+"Traveler (Aether, Electro)",174,atk,70_80,70
+"Traveler (Aether, Electro)",164,atk,70_70,70
+"Traveler (Aether, Electro)",198,atk,80_90,80
+"Traveler (Aether, Electro)",188,atk,80_80,80
+"Traveler (Aether, Electro)",212,atk,90_90,90
+"Traveler (Aether, Electro)",57,def,1_20,1
+"Traveler (Aether, Electro)",190,def,20_40,20
+"Traveler (Aether, Electro)",147,def,20_20,20
+"Traveler (Aether, Electro)",315,def,40_50,40
+"Traveler (Aether, Electro)",284,def,40_40,40
+"Traveler (Aether, Electro)",405,def,50_60,50
+"Traveler (Aether, Electro)",362,def,50_50,50
+"Traveler (Aether, Electro)",480,def,60_70,60
+"Traveler (Aether, Electro)",450,def,60_60,60
+"Traveler (Aether, Electro)",558,def,70_80,70
+"Traveler (Aether, Electro)",527,def,70_70,70
+"Traveler (Aether, Electro)",635,def,80_90,80
+"Traveler (Aether, Electro)",605,def,80_80,80
+"Traveler (Aether, Electro)",683,def,90_90,90
+"Traveler (Aether, Electro)",912,hp,1_20,1
+"Traveler (Aether, Electro)",3024,hp,20_40,20
+"Traveler (Aether, Electro)",2342,hp,20_20,20
+"Traveler (Aether, Electro)",5013,hp,40_50,40
+"Traveler (Aether, Electro)",4529,hp,40_40,40
+"Traveler (Aether, Electro)",6411,hp,50_60,50
+"Traveler (Aether, Electro)",5766,hp,50_50,50
+"Traveler (Aether, Electro)",7648,hp,60_70,60
+"Traveler (Aether, Electro)",7164,hp,60_60,60
+"Traveler (Aether, Electro)",8885,hp,70_80,70
+"Traveler (Aether, Electro)",8401,hp,70_70,70
+"Traveler (Aether, Electro)",10122,hp,80_90,80
+"Traveler (Aether, Electro)",9638,hp,80_80,80
+"Traveler (Aether, Electro)",10875,hp,90_90,90
+"Traveler (Aether, Geo)",18,atk,1_20,1
+"Traveler (Aether, Geo)",59,atk,20_40,20
+"Traveler (Aether, Geo)",46,atk,20_20,20
+"Traveler (Aether, Geo)",98,atk,40_50,40
+"Traveler (Aether, Geo)",88,atk,40_40,40
+"Traveler (Aether, Geo)",125,atk,50_60,50
+"Traveler (Aether, Geo)",113,atk,50_50,50
+"Traveler (Aether, Geo)",149,atk,60_70,60
+"Traveler (Aether, Geo)",140,atk,60_60,60
+"Traveler (Aether, Geo)",174,atk,70_80,70
+"Traveler (Aether, Geo)",164,atk,70_70,70
+"Traveler (Aether, Geo)",198,atk,80_90,80
+"Traveler (Aether, Geo)",188,atk,80_80,80
+"Traveler (Aether, Geo)",212,atk,90_90,90
+"Traveler (Aether, Geo)",57,def,1_20,1
+"Traveler (Aether, Geo)",190,def,20_40,20
+"Traveler (Aether, Geo)",147,def,20_20,20
+"Traveler (Aether, Geo)",315,def,40_50,40
+"Traveler (Aether, Geo)",284,def,40_40,40
+"Traveler (Aether, Geo)",405,def,50_60,50
+"Traveler (Aether, Geo)",362,def,50_50,50
+"Traveler (Aether, Geo)",480,def,60_70,60
+"Traveler (Aether, Geo)",450,def,60_60,60
+"Traveler (Aether, Geo)",558,def,70_80,70
+"Traveler (Aether, Geo)",527,def,70_70,70
+"Traveler (Aether, Geo)",635,def,80_90,80
+"Traveler (Aether, Geo)",605,def,80_80,80
+"Traveler (Aether, Geo)",683,def,90_90,90
+"Traveler (Aether, Geo)",912,hp,1_20,1
+"Traveler (Aether, Geo)",3024,hp,20_40,20
+"Traveler (Aether, Geo)",2342,hp,20_20,20
+"Traveler (Aether, Geo)",5013,hp,40_50,40
+"Traveler (Aether, Geo)",4529,hp,40_40,40
+"Traveler (Aether, Geo)",6411,hp,50_60,50
+"Traveler (Aether, Geo)",5766,hp,50_50,50
+"Traveler (Aether, Geo)",7648,hp,60_70,60
+"Traveler (Aether, Geo)",7164,hp,60_60,60
+"Traveler (Aether, Geo)",8885,hp,70_80,70
+"Traveler (Aether, Geo)",8401,hp,70_70,70
+"Traveler (Aether, Geo)",10122,hp,80_90,80
+"Traveler (Aether, Geo)",9638,hp,80_80,80
+"Traveler (Aether, Geo)",10875,hp,90_90,90
+"Traveler (Aether, Hydro)",18,atk,1_20,1
+"Traveler (Aether, Hydro)",59,atk,20_40,20
+"Traveler (Aether, Hydro)",46,atk,20_20,20
+"Traveler (Aether, Hydro)",98,atk,40_50,40
+"Traveler (Aether, Hydro)",88,atk,40_40,40
+"Traveler (Aether, Hydro)",125,atk,50_60,50
+"Traveler (Aether, Hydro)",113,atk,50_50,50
+"Traveler (Aether, Hydro)",149,atk,60_70,60
+"Traveler (Aether, Hydro)",140,atk,60_60,60
+"Traveler (Aether, Hydro)",174,atk,70_80,70
+"Traveler (Aether, Hydro)",164,atk,70_70,70
+"Traveler (Aether, Hydro)",198,atk,80_90,80
+"Traveler (Aether, Hydro)",188,atk,80_80,80
+"Traveler (Aether, Hydro)",212,atk,90_90,90
+"Traveler (Aether, Hydro)",57,def,1_20,1
+"Traveler (Aether, Hydro)",190,def,20_40,20
+"Traveler (Aether, Hydro)",147,def,20_20,20
+"Traveler (Aether, Hydro)",315,def,40_50,40
+"Traveler (Aether, Hydro)",284,def,40_40,40
+"Traveler (Aether, Hydro)",405,def,50_60,50
+"Traveler (Aether, Hydro)",362,def,50_50,50
+"Traveler (Aether, Hydro)",480,def,60_70,60
+"Traveler (Aether, Hydro)",450,def,60_60,60
+"Traveler (Aether, Hydro)",558,def,70_80,70
+"Traveler (Aether, Hydro)",527,def,70_70,70
+"Traveler (Aether, Hydro)",635,def,80_90,80
+"Traveler (Aether, Hydro)",605,def,80_80,80
+"Traveler (Aether, Hydro)",683,def,90_90,90
+"Traveler (Aether, Hydro)",912,hp,1_20,1
+"Traveler (Aether, Hydro)",3024,hp,20_40,20
+"Traveler (Aether, Hydro)",2342,hp,20_20,20
+"Traveler (Aether, Hydro)",5013,hp,40_50,40
+"Traveler (Aether, Hydro)",4529,hp,40_40,40
+"Traveler (Aether, Hydro)",6411,hp,50_60,50
+"Traveler (Aether, Hydro)",5766,hp,50_50,50
+"Traveler (Aether, Hydro)",7648,hp,60_70,60
+"Traveler (Aether, Hydro)",7164,hp,60_60,60
+"Traveler (Aether, Hydro)",8885,hp,70_80,70
+"Traveler (Aether, Hydro)",8401,hp,70_70,70
+"Traveler (Aether, Hydro)",10122,hp,80_90,80
+"Traveler (Aether, Hydro)",9638,hp,80_80,80
+"Traveler (Aether, Hydro)",10875,hp,90_90,90
+"Traveler (Lumine, Anemo)",18,atk,1_20,1
+"Traveler (Lumine, Anemo)",59,atk,20_40,20
+"Traveler (Lumine, Anemo)",46,atk,20_20,20
+"Traveler (Lumine, Anemo)",98,atk,40_50,40
+"Traveler (Lumine, Anemo)",88,atk,40_40,40
+"Traveler (Lumine, Anemo)",125,atk,50_60,50
+"Traveler (Lumine, Anemo)",113,atk,50_50,50
+"Traveler (Lumine, Anemo)",149,atk,60_70,60
+"Traveler (Lumine, Anemo)",140,atk,60_60,60
+"Traveler (Lumine, Anemo)",174,atk,70_80,70
+"Traveler (Lumine, Anemo)",164,atk,70_70,70
+"Traveler (Lumine, Anemo)",198,atk,80_90,80
+"Traveler (Lumine, Anemo)",188,atk,80_80,80
+"Traveler (Lumine, Anemo)",212,atk,90_90,90
+"Traveler (Lumine, Anemo)",57,def,1_20,1
+"Traveler (Lumine, Anemo)",190,def,20_40,20
+"Traveler (Lumine, Anemo)",147,def,20_20,20
+"Traveler (Lumine, Anemo)",315,def,40_50,40
+"Traveler (Lumine, Anemo)",284,def,40_40,40
+"Traveler (Lumine, Anemo)",405,def,50_60,50
+"Traveler (Lumine, Anemo)",362,def,50_50,50
+"Traveler (Lumine, Anemo)",480,def,60_70,60
+"Traveler (Lumine, Anemo)",450,def,60_60,60
+"Traveler (Lumine, Anemo)",558,def,70_80,70
+"Traveler (Lumine, Anemo)",527,def,70_70,70
+"Traveler (Lumine, Anemo)",635,def,80_90,80
+"Traveler (Lumine, Anemo)",605,def,80_80,80
+"Traveler (Lumine, Anemo)",683,def,90_90,90
+"Traveler (Lumine, Anemo)",912,hp,1_20,1
+"Traveler (Lumine, Anemo)",3024,hp,20_40,20
+"Traveler (Lumine, Anemo)",2342,hp,20_20,20
+"Traveler (Lumine, Anemo)",5013,hp,40_50,40
+"Traveler (Lumine, Anemo)",4529,hp,40_40,40
+"Traveler (Lumine, Anemo)",6411,hp,50_60,50
+"Traveler (Lumine, Anemo)",5766,hp,50_50,50
+"Traveler (Lumine, Anemo)",7648,hp,60_70,60
+"Traveler (Lumine, Anemo)",7164,hp,60_60,60
+"Traveler (Lumine, Anemo)",8885,hp,70_80,70
+"Traveler (Lumine, Anemo)",8401,hp,70_70,70
+"Traveler (Lumine, Anemo)",10122,hp,80_90,80
+"Traveler (Lumine, Anemo)",9638,hp,80_80,80
+"Traveler (Lumine, Anemo)",10875,hp,90_90,90
+"Traveler (Lumine, Dendro)",18,atk,1_20,1
+"Traveler (Lumine, Dendro)",59,atk,20_40,20
+"Traveler (Lumine, Dendro)",46,atk,20_20,20
+"Traveler (Lumine, Dendro)",98,atk,40_50,40
+"Traveler (Lumine, Dendro)",88,atk,40_40,40
+"Traveler (Lumine, Dendro)",125,atk,50_60,50
+"Traveler (Lumine, Dendro)",113,atk,50_50,50
+"Traveler (Lumine, Dendro)",149,atk,60_70,60
+"Traveler (Lumine, Dendro)",140,atk,60_60,60
+"Traveler (Lumine, Dendro)",174,atk,70_80,70
+"Traveler (Lumine, Dendro)",164,atk,70_70,70
+"Traveler (Lumine, Dendro)",198,atk,80_90,80
+"Traveler (Lumine, Dendro)",188,atk,80_80,80
+"Traveler (Lumine, Dendro)",212,atk,90_90,90
+"Traveler (Lumine, Dendro)",57,def,1_20,1
+"Traveler (Lumine, Dendro)",190,def,20_40,20
+"Traveler (Lumine, Dendro)",147,def,20_20,20
+"Traveler (Lumine, Dendro)",315,def,40_50,40
+"Traveler (Lumine, Dendro)",284,def,40_40,40
+"Traveler (Lumine, Dendro)",405,def,50_60,50
+"Traveler (Lumine, Dendro)",362,def,50_50,50
+"Traveler (Lumine, Dendro)",480,def,60_70,60
+"Traveler (Lumine, Dendro)",450,def,60_60,60
+"Traveler (Lumine, Dendro)",558,def,70_80,70
+"Traveler (Lumine, Dendro)",527,def,70_70,70
+"Traveler (Lumine, Dendro)",635,def,80_90,80
+"Traveler (Lumine, Dendro)",605,def,80_80,80
+"Traveler (Lumine, Dendro)",683,def,90_90,90
+"Traveler (Lumine, Dendro)",912,hp,1_20,1
+"Traveler (Lumine, Dendro)",3024,hp,20_40,20
+"Traveler (Lumine, Dendro)",2342,hp,20_20,20
+"Traveler (Lumine, Dendro)",5013,hp,40_50,40
+"Traveler (Lumine, Dendro)",4529,hp,40_40,40
+"Traveler (Lumine, Dendro)",6411,hp,50_60,50
+"Traveler (Lumine, Dendro)",5766,hp,50_50,50
+"Traveler (Lumine, Dendro)",7648,hp,60_70,60
+"Traveler (Lumine, Dendro)",7164,hp,60_60,60
+"Traveler (Lumine, Dendro)",8885,hp,70_80,70
+"Traveler (Lumine, Dendro)",8401,hp,70_70,70
+"Traveler (Lumine, Dendro)",10122,hp,80_90,80
+"Traveler (Lumine, Dendro)",9638,hp,80_80,80
+"Traveler (Lumine, Dendro)",10875,hp,90_90,90
+"Traveler (Lumine, Electro)",18,atk,1_20,1
+"Traveler (Lumine, Electro)",59,atk,20_40,20
+"Traveler (Lumine, Electro)",46,atk,20_20,20
+"Traveler (Lumine, Electro)",98,atk,40_50,40
+"Traveler (Lumine, Electro)",88,atk,40_40,40
+"Traveler (Lumine, Electro)",125,atk,50_60,50
+"Traveler (Lumine, Electro)",113,atk,50_50,50
+"Traveler (Lumine, Electro)",149,atk,60_70,60
+"Traveler (Lumine, Electro)",140,atk,60_60,60
+"Traveler (Lumine, Electro)",174,atk,70_80,70
+"Traveler (Lumine, Electro)",164,atk,70_70,70
+"Traveler (Lumine, Electro)",198,atk,80_90,80
+"Traveler (Lumine, Electro)",188,atk,80_80,80
+"Traveler (Lumine, Electro)",212,atk,90_90,90
+"Traveler (Lumine, Electro)",57,def,1_20,1
+"Traveler (Lumine, Electro)",190,def,20_40,20
+"Traveler (Lumine, Electro)",147,def,20_20,20
+"Traveler (Lumine, Electro)",315,def,40_50,40
+"Traveler (Lumine, Electro)",284,def,40_40,40
+"Traveler (Lumine, Electro)",405,def,50_60,50
+"Traveler (Lumine, Electro)",362,def,50_50,50
+"Traveler (Lumine, Electro)",480,def,60_70,60
+"Traveler (Lumine, Electro)",450,def,60_60,60
+"Traveler (Lumine, Electro)",558,def,70_80,70
+"Traveler (Lumine, Electro)",527,def,70_70,70
+"Traveler (Lumine, Electro)",635,def,80_90,80
+"Traveler (Lumine, Electro)",605,def,80_80,80
+"Traveler (Lumine, Electro)",683,def,90_90,90
+"Traveler (Lumine, Electro)",912,hp,1_20,1
+"Traveler (Lumine, Electro)",3024,hp,20_40,20
+"Traveler (Lumine, Electro)",2342,hp,20_20,20
+"Traveler (Lumine, Electro)",5013,hp,40_50,40
+"Traveler (Lumine, Electro)",4529,hp,40_40,40
+"Traveler (Lumine, Electro)",6411,hp,50_60,50
+"Traveler (Lumine, Electro)",5766,hp,50_50,50
+"Traveler (Lumine, Electro)",7648,hp,60_70,60
+"Traveler (Lumine, Electro)",7164,hp,60_60,60
+"Traveler (Lumine, Electro)",8885,hp,70_80,70
+"Traveler (Lumine, Electro)",8401,hp,70_70,70
+"Traveler (Lumine, Electro)",10122,hp,80_90,80
+"Traveler (Lumine, Electro)",9638,hp,80_80,80
+"Traveler (Lumine, Electro)",10875,hp,90_90,90
+"Traveler (Lumine, Geo)",18,atk,1_20,1
+"Traveler (Lumine, Geo)",59,atk,20_40,20
+"Traveler (Lumine, Geo)",46,atk,20_20,20
+"Traveler (Lumine, Geo)",98,atk,40_50,40
+"Traveler (Lumine, Geo)",88,atk,40_40,40
+"Traveler (Lumine, Geo)",125,atk,50_60,50
+"Traveler (Lumine, Geo)",113,atk,50_50,50
+"Traveler (Lumine, Geo)",149,atk,60_70,60
+"Traveler (Lumine, Geo)",140,atk,60_60,60
+"Traveler (Lumine, Geo)",174,atk,70_80,70
+"Traveler (Lumine, Geo)",164,atk,70_70,70
+"Traveler (Lumine, Geo)",198,atk,80_90,80
+"Traveler (Lumine, Geo)",188,atk,80_80,80
+"Traveler (Lumine, Geo)",212,atk,90_90,90
+"Traveler (Lumine, Geo)",57,def,1_20,1
+"Traveler (Lumine, Geo)",190,def,20_40,20
+"Traveler (Lumine, Geo)",147,def,20_20,20
+"Traveler (Lumine, Geo)",315,def,40_50,40
+"Traveler (Lumine, Geo)",284,def,40_40,40
+"Traveler (Lumine, Geo)",405,def,50_60,50
+"Traveler (Lumine, Geo)",362,def,50_50,50
+"Traveler (Lumine, Geo)",480,def,60_70,60
+"Traveler (Lumine, Geo)",450,def,60_60,60
+"Traveler (Lumine, Geo)",558,def,70_80,70
+"Traveler (Lumine, Geo)",527,def,70_70,70
+"Traveler (Lumine, Geo)",635,def,80_90,80
+"Traveler (Lumine, Geo)",605,def,80_80,80
+"Traveler (Lumine, Geo)",683,def,90_90,90
+"Traveler (Lumine, Geo)",912,hp,1_20,1
+"Traveler (Lumine, Geo)",3024,hp,20_40,20
+"Traveler (Lumine, Geo)",2342,hp,20_20,20
+"Traveler (Lumine, Geo)",5013,hp,40_50,40
+"Traveler (Lumine, Geo)",4529,hp,40_40,40
+"Traveler (Lumine, Geo)",6411,hp,50_60,50
+"Traveler (Lumine, Geo)",5766,hp,50_50,50
+"Traveler (Lumine, Geo)",7648,hp,60_70,60
+"Traveler (Lumine, Geo)",7164,hp,60_60,60
+"Traveler (Lumine, Geo)",8885,hp,70_80,70
+"Traveler (Lumine, Geo)",8401,hp,70_70,70
+"Traveler (Lumine, Geo)",10122,hp,80_90,80
+"Traveler (Lumine, Geo)",9638,hp,80_80,80
+"Traveler (Lumine, Geo)",10875,hp,90_90,90
+"Traveler (Lumine, Hydro)",18,atk,1_20,1
+"Traveler (Lumine, Hydro)",59,atk,20_40,20
+"Traveler (Lumine, Hydro)",46,atk,20_20,20
+"Traveler (Lumine, Hydro)",98,atk,40_50,40
+"Traveler (Lumine, Hydro)",88,atk,40_40,40
+"Traveler (Lumine, Hydro)",125,atk,50_60,50
+"Traveler (Lumine, Hydro)",113,atk,50_50,50
+"Traveler (Lumine, Hydro)",149,atk,60_70,60
+"Traveler (Lumine, Hydro)",140,atk,60_60,60
+"Traveler (Lumine, Hydro)",174,atk,70_80,70
+"Traveler (Lumine, Hydro)",164,atk,70_70,70
+"Traveler (Lumine, Hydro)",198,atk,80_90,80
+"Traveler (Lumine, Hydro)",188,atk,80_80,80
+"Traveler (Lumine, Hydro)",212,atk,90_90,90
+"Traveler (Lumine, Hydro)",57,def,1_20,1
+"Traveler (Lumine, Hydro)",190,def,20_40,20
+"Traveler (Lumine, Hydro)",147,def,20_20,20
+"Traveler (Lumine, Hydro)",315,def,40_50,40
+"Traveler (Lumine, Hydro)",284,def,40_40,40
+"Traveler (Lumine, Hydro)",405,def,50_60,50
+"Traveler (Lumine, Hydro)",362,def,50_50,50
+"Traveler (Lumine, Hydro)",480,def,60_70,60
+"Traveler (Lumine, Hydro)",450,def,60_60,60
+"Traveler (Lumine, Hydro)",558,def,70_80,70
+"Traveler (Lumine, Hydro)",527,def,70_70,70
+"Traveler (Lumine, Hydro)",635,def,80_90,80
+"Traveler (Lumine, Hydro)",605,def,80_80,80
+"Traveler (Lumine, Hydro)",683,def,90_90,90
+"Traveler (Lumine, Hydro)",912,hp,1_20,1
+"Traveler (Lumine, Hydro)",3024,hp,20_40,20
+"Traveler (Lumine, Hydro)",2342,hp,20_20,20
+"Traveler (Lumine, Hydro)",5013,hp,40_50,40
+"Traveler (Lumine, Hydro)",4529,hp,40_40,40
+"Traveler (Lumine, Hydro)",6411,hp,50_60,50
+"Traveler (Lumine, Hydro)",5766,hp,50_50,50
+"Traveler (Lumine, Hydro)",7648,hp,60_70,60
+"Traveler (Lumine, Hydro)",7164,hp,60_60,60
+"Traveler (Lumine, Hydro)",8885,hp,70_80,70
+"Traveler (Lumine, Hydro)",8401,hp,70_70,70
+"Traveler (Lumine, Hydro)",10122,hp,80_90,80
+"Traveler (Lumine, Hydro)",9638,hp,80_80,80
+"Traveler (Lumine, Hydro)",10875,hp,90_90,90
+Venti,20,atk,1_20,1
+Venti,71,atk,20_40,20
+Venti,53,atk,20_20,20
+Venti,118,atk,40_50,40
+Venti,106,atk,40_40,40
+Venti,153,atk,50_60,50
+Venti,136,atk,50_50,50
+Venti,183,atk,60_70,60
+Venti,171,atk,60_60,60
+Venti,214,atk,70_80,70
+Venti,201,atk,70_70,70
+Venti,245,atk,80_90,80
+Venti,232,atk,80_80,80
+Venti,263,atk,90_90,90
+Venti,52,def,1_20,1
+Venti,180,def,20_40,20
+Venti,135,def,20_20,20
+Venti,301,def,40_50,40
+Venti,269,def,40_40,40
+Venti,388,def,50_60,50
+Venti,346,def,50_50,50
+Venti,465,def,60_70,60
+Venti,434,def,60_60,60
+Venti,543,def,70_80,70
+Venti,512,def,70_70,70
+Venti,622,def,80_90,80
+Venti,590,def,80_80,80
+Venti,669,def,90_90,90
+Venti,820,hp,1_20,1
+Venti,2830,hp,20_40,20
+Venti,2127,hp,20_20,20
+Venti,4734,hp,40_50,40
+Venti,4234,hp,40_40,40
+Venti,6112,hp,50_60,50
+Venti,5446,hp,50_50,50
+Venti,7331,hp,60_70,60
+Venti,6832,hp,60_60,60
+Venti,8557,hp,70_80,70
+Venti,8058,hp,70_70,70
+Venti,9790,hp,80_90,80
+Venti,9292,hp,80_80,80
+Venti,10531,hp,90_90,90
+Wanderer,25,atk,1_20,1
+Wanderer,88,atk,20_40,20
+Wanderer,66,atk,20_20,20
+Wanderer,147,atk,40_50,40
+Wanderer,131,atk,40_40,40
+Wanderer,190,atk,50_60,50
+Wanderer,169,atk,50_50,50
+Wanderer,228,atk,60_70,60
+Wanderer,212,atk,60_60,60
+Wanderer,266,atk,70_80,70
+Wanderer,250,atk,70_70,70
+Wanderer,304,atk,80_90,80
+Wanderer,289,atk,80_80,80
+Wanderer,327,atk,90_90,90
+Wanderer,47,def,1_20,1
+Wanderer,163,def,20_40,20
+Wanderer,122,def,20_20,20
+Wanderer,272,def,40_50,40
+Wanderer,244,def,40_40,40
+Wanderer,352,def,50_60,50
+Wanderer,313,def,50_50,50
+Wanderer,422,def,60_70,60
+Wanderer,393,def,60_60,60
+Wanderer,493,def,70_80,70
+Wanderer,464,def,70_70,70
+Wanderer,564,def,80_90,80
+Wanderer,535,def,80_80,80
+Wanderer,607,def,90_90,90
+Wanderer,791,hp,1_20,1
+Wanderer,2730,hp,20_40,20
+Wanderer,2052,hp,20_20,20
+Wanderer,4568,hp,40_50,40
+Wanderer,4086,hp,40_40,40
+Wanderer,5898,hp,50_60,50
+Wanderer,5256,hp,50_50,50
+Wanderer,7075,hp,60_70,60
+Wanderer,6593,hp,60_60,60
+Wanderer,8258,hp,70_80,70
+Wanderer,7776,hp,70_70,70
+Wanderer,9449,hp,80_90,80
+Wanderer,8967,hp,80_80,80
+Wanderer,10164,hp,90_90,90
+Wriothesley,24,atk,1_20,1
+Wriothesley,83,atk,20_40,20
+Wriothesley,62,atk,20_20,20
+Wriothesley,139,atk,40_50,40
+Wriothesley,125,atk,40_40,40
+Wriothesley,180,atk,50_60,50
+Wriothesley,160,atk,50_50,50
+Wriothesley,216,atk,60_70,60
+Wriothesley,201,atk,60_60,60
+Wriothesley,252,atk,70_80,70
+Wriothesley,237,atk,70_70,70
+Wriothesley,289,atk,80_90,80
+Wriothesley,274,atk,80_80,80
+Wriothesley,310,atk,90_90,90
+Wriothesley,59,def,1_20,1
+Wriothesley,205,def,20_40,20
+Wriothesley,154,def,20_20,20
+Wriothesley,343,def,40_50,40
+Wriothesley,306,def,40_40,40
+Wriothesley,442,def,50_60,50
+Wriothesley,394,def,50_50,50
+Wriothesley,531,def,60_70,60
+Wriothesley,495,def,60_60,60
+Wriothesley,620,def,70_80,70
+Wriothesley,583,def,70_70,70
+Wriothesley,709,def,80_90,80
+Wriothesley,673,def,80_80,80
+Wriothesley,763,def,90_90,90
+Wriothesley,1058,hp,1_20,1
+Wriothesley,3652,hp,20_40,20
+Wriothesley,2744,hp,20_20,20
+Wriothesley,6109,hp,40_50,40
+Wriothesley,5464,hp,40_40,40
+Wriothesley,7888,hp,50_60,50
+Wriothesley,7029,hp,50_50,50
+Wriothesley,9462,hp,60_70,60
+Wriothesley,8817,hp,60_60,60
+Wriothesley,11044,hp,70_80,70
+Wriothesley,10399,hp,70_70,70
+Wriothesley,12637,hp,80_90,80
+Wriothesley,11992,hp,80_80,80
+Wriothesley,13592,hp,90_90,90
+Xiangling,19,atk,1_20,1
+Xiangling,63,atk,20_40,20
+Xiangling,48,atk,20_20,20
+Xiangling,104,atk,40_50,40
+Xiangling,94,atk,40_40,40
+Xiangling,133,atk,50_60,50
+Xiangling,119,atk,50_50,50
+Xiangling,158,atk,60_70,60
+Xiangling,148,atk,60_60,60
+Xiangling,184,atk,70_80,70
+Xiangling,174,atk,70_70,70
+Xiangling,210,atk,80_90,80
+Xiangling,200,atk,80_80,80
+Xiangling,225,atk,90_90,90
+Xiangling,56,def,1_20,1
+Xiangling,186,def,20_40,20
+Xiangling,144,def,20_20,20
+Xiangling,308,def,40_50,40
+Xiangling,279,def,40_40,40
+Xiangling,394,def,50_60,50
+Xiangling,355,def,50_50,50
+Xiangling,470,def,60_70,60
+Xiangling,441,def,60_60,60
+Xiangling,546,def,70_80,70
+Xiangling,517,def,70_70,70
+Xiangling,623,def,80_90,80
+Xiangling,593,def,80_80,80
+Xiangling,669,def,90_90,90
+Xiangling,912,hp,1_20,1
+Xiangling,3024,hp,20_40,20
+Xiangling,2342,hp,20_20,20
+Xiangling,5013,hp,40_50,40
+Xiangling,4529,hp,40_40,40
+Xiangling,6411,hp,50_60,50
+Xiangling,5766,hp,50_50,50
+Xiangling,7648,hp,60_70,60
+Xiangling,7164,hp,60_60,60
+Xiangling,8885,hp,70_80,70
+Xiangling,8401,hp,70_70,70
+Xiangling,10122,hp,80_90,80
+Xiangling,9638,hp,80_80,80
+Xiangling,10875,hp,90_90,90
+Xiao,27,atk,1_20,1
+Xiao,94,atk,20_40,20
+Xiao,71,atk,20_20,20
+Xiao,157,atk,40_50,40
+Xiao,141,atk,40_40,40
+Xiao,203,atk,50_60,50
+Xiao,181,atk,50_50,50
+Xiao,243,atk,60_70,60
+Xiao,227,atk,60_60,60
+Xiao,284,atk,70_80,70
+Xiao,267,atk,70_70,70
+Xiao,325,atk,80_90,80
+Xiao,308,atk,80_80,80
+Xiao,349,atk,90_90,90
+Xiao,62,def,1_20,1
+Xiao,215,def,20_40,20
+Xiao,161,def,20_20,20
+Xiao,359,def,40_50,40
+Xiao,321,def,40_40,40
+Xiao,464,def,50_60,50
+Xiao,413,def,50_50,50
+Xiao,556,def,60_70,60
+Xiao,519,def,60_60,60
+Xiao,649,def,70_80,70
+Xiao,612,def,70_70,70
+Xiao,743,def,80_90,80
+Xiao,705,def,80_80,80
+Xiao,799,def,90_90,90
+Xiao,991,hp,1_20,1
+Xiao,3422,hp,20_40,20
+Xiao,2572,hp,20_20,20
+Xiao,5724,hp,40_50,40
+Xiao,5120,hp,40_40,40
+Xiao,7391,hp,50_60,50
+Xiao,6586,hp,50_50,50
+Xiao,8866,hp,60_70,60
+Xiao,8262,hp,60_60,60
+Xiao,10348,hp,70_80,70
+Xiao,9744,hp,70_70,70
+Xiao,11840,hp,80_90,80
+Xiao,11236,hp,80_80,80
+Xiao,12736,hp,90_90,90
+Xingqiu,17,atk,1_20,1
+Xingqiu,56,atk,20_40,20
+Xingqiu,43,atk,20_20,20
+Xingqiu,93,atk,40_50,40
+Xingqiu,84,atk,40_40,40
+Xingqiu,119,atk,50_60,50
+Xingqiu,107,atk,50_50,50
+Xingqiu,142,atk,60_70,60
+Xingqiu,133,atk,60_60,60
+Xingqiu,165,atk,70_80,70
+Xingqiu,156,atk,70_70,70
+Xingqiu,188,atk,80_90,80
+Xingqiu,179,atk,80_80,80
+Xingqiu,202,atk,90_90,90
+Xingqiu,64,def,1_20,1
+Xingqiu,211,def,20_40,20
+Xingqiu,163,def,20_20,20
+Xingqiu,349,def,40_50,40
+Xingqiu,316,def,40_40,40
+Xingqiu,447,def,50_60,50
+Xingqiu,402,def,50_50,50
+Xingqiu,533,def,60_70,60
+Xingqiu,499,def,60_60,60
+Xingqiu,619,def,70_80,70
+Xingqiu,585,def,70_70,70
+Xingqiu,705,def,80_90,80
+Xingqiu,671,def,80_80,80
+Xingqiu,758,def,90_90,90
+Xingqiu,857,hp,1_20,1
+Xingqiu,2842,hp,20_40,20
+Xingqiu,2202,hp,20_20,20
+Xingqiu,4712,hp,40_50,40
+Xingqiu,4257,hp,40_40,40
+Xingqiu,6027,hp,50_60,50
+Xingqiu,5420,hp,50_50,50
+Xingqiu,7190,hp,60_70,60
+Xingqiu,6735,hp,60_60,60
+Xingqiu,8352,hp,70_80,70
+Xingqiu,7897,hp,70_70,70
+Xingqiu,9515,hp,80_90,80
+Xingqiu,9060,hp,80_80,80
+Xingqiu,10223,hp,90_90,90
+Xinyan,21,atk,1_20,1
+Xinyan,69,atk,20_40,20
+Xinyan,54,atk,20_20,20
+Xinyan,115,atk,40_50,40
+Xinyan,103,atk,40_40,40
+Xinyan,147,atk,50_60,50
+Xinyan,132,atk,50_50,50
+Xinyan,175,atk,60_70,60
+Xinyan,164,atk,60_60,60
+Xinyan,203,atk,70_80,70
+Xinyan,192,atk,70_70,70
+Xinyan,231,atk,80_90,80
+Xinyan,220,atk,80_80,80
+Xinyan,249,atk,90_90,90
+Xinyan,67,def,1_20,1
+Xinyan,222,def,20_40,20
+Xinyan,172,def,20_20,20
+Xinyan,368,def,40_50,40
+Xinyan,333,def,40_40,40
+Xinyan,471,def,50_60,50
+Xinyan,423,def,50_50,50
+Xinyan,562,def,60_70,60
+Xinyan,526,def,60_60,60
+Xinyan,652,def,70_80,70
+Xinyan,617,def,70_70,70
+Xinyan,743,def,80_90,80
+Xinyan,708,def,80_80,80
+Xinyan,799,def,90_90,90
+Xinyan,939,hp,1_20,1
+Xinyan,3114,hp,20_40,20
+Xinyan,2413,hp,20_20,20
+Xinyan,5163,hp,40_50,40
+Xinyan,4665,hp,40_40,40
+Xinyan,6604,hp,50_60,50
+Xinyan,5939,hp,50_50,50
+Xinyan,7878,hp,60_70,60
+Xinyan,7379,hp,60_60,60
+Xinyan,9151,hp,70_80,70
+Xinyan,8653,hp,70_70,70
+Xinyan,10425,hp,80_90,80
+Xinyan,9927,hp,80_80,80
+Xinyan,11201,hp,90_90,90
+Yae Miko,26,atk,1_20,1
+Yae Miko,91,atk,20_40,20
+Yae Miko,69,atk,20_20,20
+Yae Miko,153,atk,40_50,40
+Yae Miko,137,atk,40_40,40
+Yae Miko,197,atk,50_60,50
+Yae Miko,176,atk,50_50,50
+Yae Miko,236,atk,60_70,60
+Yae Miko,220,atk,60_60,60
+Yae Miko,276,atk,70_80,70
+Yae Miko,260,atk,70_70,70
+Yae Miko,316,atk,80_90,80
+Yae Miko,300,atk,80_80,80
+Yae Miko,340,atk,90_90,90
+Yae Miko,44,def,1_20,1
+Yae Miko,153,def,20_40,20
+Yae Miko,115,def,20_20,20
+Yae Miko,256,def,40_50,40
+Yae Miko,229,def,40_40,40
+Yae Miko,330,def,50_60,50
+Yae Miko,294,def,50_50,50
+Yae Miko,396,def,60_70,60
+Yae Miko,369,def,60_60,60
+Yae Miko,462,def,70_80,70
+Yae Miko,435,def,70_70,70
+Yae Miko,529,def,80_90,80
+Yae Miko,502,def,80_80,80
+Yae Miko,569,def,90_90,90
+Yae Miko,807,hp,1_20,1
+Yae Miko,2787,hp,20_40,20
+Yae Miko,2065,hp,20_20,20
+Yae Miko,4662,hp,40_50,40
+Yae Miko,4170,hp,40_40,40
+Yae Miko,6020,hp,50_60,50
+Yae Miko,5364,hp,50_50,50
+Yae Miko,7220,hp,60_70,60
+Yae Miko,6729,hp,60_60,60
+Yae Miko,8428,hp,70_80,70
+Yae Miko,7936,hp,70_70,70
+Yae Miko,9643,hp,80_90,80
+Yae Miko,9151,hp,80_80,80
+Yae Miko,10372,hp,90_90,90
+Yanfei,20,atk,1_20,1
+Yanfei,67,atk,20_40,20
+Yanfei,52,atk,20_20,20
+Yanfei,111,atk,40_50,40
+Yanfei,100,atk,40_40,40
+Yanfei,141,atk,50_60,50
+Yanfei,127,atk,50_50,50
+Yanfei,169,atk,60_70,60
+Yanfei,158,atk,60_60,60
+Yanfei,196,atk,70_80,70
+Yanfei,185,atk,70_70,70
+Yanfei,223,atk,80_90,80
+Yanfei,213,atk,80_80,80
+Yanfei,240,atk,90_90,90
+Yanfei,49,def,1_20,1
+Yanfei,163,def,20_40,20
+Yanfei,126,def,20_20,20
+Yanfei,271,def,40_50,40
+Yanfei,244,def,40_40,40
+Yanfei,346,def,50_60,50
+Yanfei,311,def,50_50,50
+Yanfei,413,def,60_70,60
+Yanfei,387,def,60_60,60
+Yanfei,480,def,70_80,70
+Yanfei,453,def,70_70,70
+Yanfei,546,def,80_90,80
+Yanfei,520,def,80_80,80
+Yanfei,587,def,90_90,90
+Yanfei,784,hp,1_20,1
+Yanfei,2600,hp,20_40,20
+Yanfei,2014,hp,20_20,20
+Yanfei,4311,hp,40_50,40
+Yanfei,3895,hp,40_40,40
+Yanfei,5514,hp,50_60,50
+Yanfei,4959,hp,50_50,50
+Yanfei,6578,hp,60_70,60
+Yanfei,6161,hp,60_60,60
+Yanfei,7641,hp,70_80,70
+Yanfei,7225,hp,70_70,70
+Yanfei,8705,hp,80_90,80
+Yanfei,8289,hp,80_80,80
+Yanfei,9352,hp,90_90,90
+Yaoyao,17,atk,1_20,1
+Yaoyao,59,atk,20_40,20
+Yaoyao,45,atk,20_20,20
+Yaoyao,97,atk,40_50,40
+Yaoyao,88,atk,40_40,40
+Yaoyao,125,atk,50_60,50
+Yaoyao,112,atk,50_50,50
+Yaoyao,149,atk,60_70,60
+Yaoyao,139,atk,60_60,60
+Yaoyao,173,atk,70_80,70
+Yaoyao,164,atk,70_70,70
+Yaoyao,197,atk,80_90,80
+Yaoyao,188,atk,80_80,80
+Yaoyao,212,atk,90_90,90
+Yaoyao,62,def,1_20,1
+Yaoyao,208,def,20_40,20
+Yaoyao,161,def,20_20,20
+Yaoyao,346,def,40_50,40
+Yaoyao,312,def,40_40,40
+Yaoyao,442,def,50_60,50
+Yaoyao,398,def,50_50,50
+Yaoyao,528,def,60_70,60
+Yaoyao,494,def,60_60,60
+Yaoyao,613,def,70_80,70
+Yaoyao,579,def,70_70,70
+Yaoyao,698,def,80_90,80
+Yaoyao,665,def,80_80,80
+Yaoyao,750,def,90_90,90
+Yaoyao,1030,hp,1_20,1
+Yaoyao,3416,hp,20_40,20
+Yaoyao,2646,hp,20_20,20
+Yaoyao,5664,hp,40_50,40
+Yaoyao,5117,hp,40_40,40
+Yaoyao,7244,hp,50_60,50
+Yaoyao,6515,hp,50_50,50
+Yaoyao,8642,hp,60_70,60
+Yaoyao,8095,hp,60_60,60
+Yaoyao,10039,hp,70_80,70
+Yaoyao,9492,hp,70_70,70
+Yaoyao,11437,hp,80_90,80
+Yaoyao,10890,hp,80_80,80
+Yaoyao,12288,hp,90_90,90
+Yelan,19,atk,1_20,1
+Yelan,66,atk,20_40,20
+Yelan,49,atk,20_20,20
+Yelan,110,atk,40_50,40
+Yelan,98,atk,40_40,40
+Yelan,142,atk,50_60,50
+Yelan,126,atk,50_50,50
+Yelan,170,atk,60_70,60
+Yelan,158,atk,60_60,60
+Yelan,198,atk,70_80,70
+Yelan,187,atk,70_70,70
+Yelan,227,atk,80_90,80
+Yelan,215,atk,80_80,80
+Yelan,244,atk,90_90,90
+Yelan,43,def,1_20,1
+Yelan,147,def,20_40,20
+Yelan,111,def,20_20,20
+Yelan,246,def,40_50,40
+Yelan,220,def,40_40,40
+Yelan,318,def,50_60,50
+Yelan,283,def,50_50,50
+Yelan,381,def,60_70,60
+Yelan,355,def,60_60,60
+Yelan,445,def,70_80,70
+Yelan,419,def,70_70,70
+Yelan,509,def,80_90,80
+Yelan,483,def,80_80,80
+Yelan,548,def,90_90,90
+Yelan,1125,hp,1_20,1
+Yelan,3883,hp,20_40,20
+Yelan,2918,hp,20_20,20
+Yelan,6495,hp,40_50,40
+Yelan,5810,hp,40_40,40
+Yelan,8386,hp,50_60,50
+Yelan,7472,hp,50_50,50
+Yelan,10059,hp,60_70,60
+Yelan,9374,hp,60_60,60
+Yelan,11741,hp,70_80,70
+Yelan,11056,hp,70_70,70
+Yelan,13434,hp,80_90,80
+Yelan,12749,hp,80_80,80
+Yelan,14450,hp,90_90,90
+Yoimiya,25,atk,1_20,1
+Yoimiya,87,atk,20_40,20
+Yoimiya,65,atk,20_20,20
+Yoimiya,145,atk,40_50,40
+Yoimiya,130,atk,40_40,40
+Yoimiya,187,atk,50_60,50
+Yoimiya,167,atk,50_50,50
+Yoimiya,225,atk,60_70,60
+Yoimiya,209,atk,60_60,60
+Yoimiya,262,atk,70_80,70
+Yoimiya,247,atk,70_70,70
+Yoimiya,300,atk,80_90,80
+Yoimiya,285,atk,80_80,80
+Yoimiya,323,atk,90_90,90
+Yoimiya,48,def,1_20,1
+Yoimiya,165,def,20_40,20
+Yoimiya,124,def,20_20,20
+Yoimiya,276,def,40_50,40
+Yoimiya,318,def,40_40,40
+Yoimiya,357,def,50_60,50
+Yoimiya,318,def,50_50,50
+Yoimiya,428,def,60_70,60
+Yoimiya,399,def,60_60,60
+Yoimiya,500,def,70_80,70
+Yoimiya,470,def,70_70,70
+Yoimiya,572,def,80_90,80
+Yoimiya,542,def,80_80,80
+Yoimiya,615,def,90_90,90
+Yoimiya,791,hp,1_20,1
+Yoimiya,2731,hp,20_40,20
+Yoimiya,2053,hp,20_20,20
+Yoimiya,4568,hp,40_50,40
+Yoimiya,4086,hp,40_40,40
+Yoimiya,6899,hp,50_60,50
+Yoimiya,5256,hp,50_50,50
+Yoimiya,7075,hp,60_70,60
+Yoimiya,6593,hp,60_60,60
+Yoimiya,8259,hp,70_80,70
+Yoimiya,7777,hp,70_70,70
+Yoimiya,9450,hp,80_90,80
+Yoimiya,8968,hp,80_80,80
+Yoimiya,10164,hp,90_90,90
+Yun Jin,16,atk,1_20,1
+Yun Jin,53,atk,20_40,20
+Yun Jin,41,atk,20_20,20
+Yun Jin,88,atk,40_50,40
+Yun Jin,80,atk,40_40,40
+Yun Jin,113,atk,50_60,50
+Yun Jin,101,atk,50_50,50
+Yun Jin,134,atk,60_70,60
+Yun Jin,126,atk,60_60,60
+Yun Jin,156,atk,70_80,70
+Yun Jin,148,atk,70_70,70
+Yun Jin,178,atk,80_90,80
+Yun Jin,169,atk,80_80,80
+Yun Jin,191,atk,90_90,90
+Yun Jin,62,def,1_20,1
+Yun Jin,204,def,20_40,20
+Yun Jin,156,def,20_20,20
+Yun Jin,339,def,40_50,40
+Yun Jin,306,def,40_40,40
+Yun Jin,433,def,50_60,50
+Yun Jin,389,def,50_50,50
+Yun Jin,517,def,60_70,60
+Yun Jin,484,def,60_60,60
+Yun Jin,600,def,70_80,70
+Yun Jin,567,def,70_70,70
+Yun Jin,684,def,80_90,80
+Yun Jin,651,def,80_80,80
+Yun Jin,734,def,90_90,90
+Yun Jin,894,hp,1_20,1
+Yun Jin,2963,hp,20_40,20
+Yun Jin,2296,hp,20_20,20
+Yun Jin,4913,hp,40_50,40
+Yun Jin,4438,hp,40_40,40
+Yun Jin,6283,hp,50_60,50
+Yun Jin,5651,hp,50_50,50
+Yun Jin,7495,hp,60_70,60
+Yun Jin,7021,hp,60_60,60
+Yun Jin,8707,hp,70_80,70
+Yun Jin,8233,hp,70_70,70
+Yun Jin,9919,hp,80_90,80
+Yun Jin,9445,hp,80_80,80
+Yun Jin,10657,hp,90_90,90
+Zhongli,20,atk,1_20,1
+Zhongli,67,atk,20_40,20
+Zhongli,51,atk,20_20,20
+Zhongli,113,atk,40_50,40
+Zhongli,101,atk,40_40,40
+Zhongli,146,atk,50_60,50
+Zhongli,130,atk,50_50,50
+Zhongli,175,atk,60_70,60
+Zhongli,163,atk,60_60,60
+Zhongli,204,atk,70_80,70
+Zhongli,192,atk,70_70,70
+Zhongli,233,atk,80_90,80
+Zhongli,222,atk,80_80,80
+Zhongli,251,atk,90_90,90
+Zhongli,57,def,1_20,1
+Zhongli,198,def,20_40,20
+Zhongli,149,def,20_20,20
+Zhongli,332,def,40_50,40
+Zhongli,297,def,40_40,40
+Zhongli,428,def,50_60,50
+Zhongli,382,def,50_50,50
+Zhongli,514,def,60_70,60
+Zhongli,479,def,60_60,60
+Zhongli,599,def,70_80,70
+Zhongli,564,def,70_70,70
+Zhongli,686,def,80_90,80
+Zhongli,651,def,80_80,80
+Zhongli,738,def,90_90,90
+Zhongli,1144,hp,1_20,1
+Zhongli,3948,hp,20_40,20
+Zhongli,2967,hp,20_20,20
+Zhongli,6605,hp,40_50,40
+Zhongli,5908,hp,40_40,40
+Zhongli,8528,hp,50_60,50
+Zhongli,7599,hp,50_50,50
+Zhongli,10230,hp,60_70,60
+Zhongli,9533,hp,60_60,60
+Zhongli,11940,hp,70_80,70
+Zhongli,11243,hp,70_70,70
+Zhongli,13662,hp,80_90,80
+Zhongli,12965,hp,80_80,80
+Zhongli,14695,hp,90_90,90

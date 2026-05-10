@@ -7,6 +7,6 @@ SELECT
       / SUM(COUNT(DISTINCT character_name)) OVER (),
     2
   ) AS percentage_of_total
-FROM {{ ref('special_stats') }}
+FROM {{ ref('stg_special_stats') }}
 GROUP BY ascension_stat
 ORDER BY percentage_of_total DESC
