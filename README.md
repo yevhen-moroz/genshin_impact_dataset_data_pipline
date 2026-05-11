@@ -1,11 +1,12 @@
 ## 🚀 Project Overview
 
-This project implements a **data pipeline for processing and analyzing the Genshin Impact dataset**, with integration into **Google BigQuery**.
+This project implements a **data pipeline for processing and analyzing the Genshin Impact dataset**, with integration into **Google BigQuery**. Built dbt analytics layer on top of BigQuery including modular staging and models for character statistics analysis.
 
 The pipeline follows the ETL approach:
 - Extract raw data  
 - Transform and clean it  
-- Load structured data into BigQuery  
+- Load structured data into BigQuery
+- Built dbt project with integration into **Google BigQuery**
 
 The goal of this project is to demonstrate practical skills in building a **data pipeline and integrating it with a cloud data warehouse**.
 ## 📂 Project structure
@@ -44,6 +45,7 @@ The goal of this project is to demonstrate practical skills in building a **data
     - `weapon_stat_levels_max.csv`
     - `weapon_stat_levels_min.csv`
   - `queries.sql`
+  
 ## 📊 Key Features
 
 - Data cleaning and processing  
